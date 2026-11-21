@@ -1,0 +1,2001 @@
+listing_id,host_id,city,neighbourhood,room_type,price,currency,minimum_nights,number_of_reviews,reviews_per_month,last_review,review_score,host_listings_count,accommodates,bedrooms,beds,availability_365
+AB500001,10261,Barcelona,Gràcia,Entire home/apt,103.57,EUR,7,2,0.16,2026-09-11,,2.0,5,2.0,4.0,140
+AB500002,10247,London,Hackney,Entire home/apt,96.92,GBP,2,8,0.57,2025-09-19,4.19,3.0,7,1.0,2.0,256
+AB500003,10462,New York,Staten Island,Private room,57.92,USD,1,3,0.17,2025-06-09,4.6,7.0,1,2.0,4.0,285
+AB500004,10007,London,Camden,Private room,40.01,GBP,5,3,0.19,2026-05-10,4.2,5.0,1,1.0,1.0,90
+AB500005,10098,Sydney,CBD,Shared room,41.93,AUD,1,8,0.84,2025-09-14,4.72,6.0,1,0.0,1.0,221
+AB500006,10009,Dubai,Deira,Private room,124.73,AED,1,2,0.45,2026-10-19,,2.0,1,1.0,2.0,321
+AB500007,10770,New York,Bronx,Hotel room,239.19,USD,1,2,0.65,2024-01-24,,3.0,5,2.0,4.0,88
+AB500008,10201,New York,Bronx,Entire home/apt,164.83,USD,7,2,1.3,2026-02-10,,2.0,1,0.0,2.0,101
+AB500009,10704,London,Kensington,Private room,21.35,GBP,2,19,0.74,2023-12-18,4.81,3.0,3,2.0,4.0,229
+AB500010,10001,Sydney,Manly,Private room,103.06,AUD,3,5,0.47,2023-12-03,4.13,5.0,1,1.0,3.0,6
+AB500011,10319,Paris,Latin Quarter,Private room,68.49,EUR,1,3,0.89,2023-11-19,4.55,6.0,2,1.0,2.0,71
+AB500012,10294,New York,Manhattan,Entire home/apt,77.34,USD,3,16,0.73,2025-11-23,4.52,3.0,3,1.0,3.0,257
+AB500013,10068,Singapore,Chinatown,Entire home/apt,142.5,SGD,5,9,0.4,2026-09-24,4.56,5.0,8,1.0,1.0,5
+AB500014,10486,Singapore,Chinatown,Entire home/apt,76.84,SGD,7,3,0.41,2025-06-06,4.47,6.0,2,1.0,2.0,122
+AB500015,10807,London,Islington,Entire home/apt,103.45,GBP,5,12,0.98,2026-04-02,4.24,1.0,8,0.0,2.0,108
+AB500016,10277,London,Camden,Private room,57.02,GBP,14,33,0.14,2026-05-11,4.84,3.0,1,1.0,2.0,96
+AB500017,10716,Dubai,Deira,Entire home/apt,185.51,AED,3,7,0.78,2025-04-03,4.56,3.0,8,1.0,2.0,185
+AB500018,10468,London,Westminster,Entire home/apt,105.33,GBP,3,16,0.59,2024-06-25,4.51,3.0,2,1.0,3.0,122
+AB500019,10813,Dubai,Jumeirah,Private room,67.5,AED,1,6,1.25,2025-01-22,3.53,3.0,2,1.0,2.0,111
+AB500020,10799,Paris,Le Marais,Entire home/apt,87.0,EUR,1,10,0.67,2024-03-17,4.86,3.0,8,0.0,2.0,263
+AB500021,10700,Barcelona,Gràcia,Entire home/apt,80.81,EUR,14,14,0.32,2025-09-09,4.28,1.0,1,3.0,4.0,86
+AB500022,10389,Singapore,Chinatown,Entire home/apt,171.57,SGD,1,17,0.55,2025-06-21,4.06,2.0,6,1.0,1.0,199
+AB500023,10353,New York,Brooklyn,Private room,97.34,USD,7,0,,,,3.0,3,1.0,2.0,106
+AB500024,10030,London,Islington,Entire home/apt,75.44,GBP,5,16,0.12,2024-03-01,4.69,2.0,3,1.0,3.0,245
+AB500025,10120,Dubai,Jumeirah,Shared room,19.54,AED,1,8,0.92,2026-09-03,4.57,4.0,2,0.0,1.0,181
+AB500026,10074,Tokyo,Shinjuku,Entire home/apt,82.5,JPY,5,12,0.9,2026-03-05,4.23,2.0,8,2.0,4.0,289
+AB500027,10212,New York,Bronx,Entire home/apt,143.46,USD,1,2,1.32,2025-07-05,,3.0,4,4.0,4.0,162
+AB500028,10358,Singapore,Bugis,Private room,91.83,SGD,5,8,0.72,2026-06-16,4.25,3.0,2,1.0,1.0,42
+AB500029,10282,Sydney,Newtown,Entire home/apt,64.23,AUD,3,23,0.96,2026-07-16,4.01,1.0,3,0.0,1.0,15
+AB500030,10582,New York,Brooklyn,Entire home/apt,104.98,USD,7,9,0.17,2025-03-08,4.67,3.0,6,2.0,2.0,250
+AB500031,10107,Paris,Belleville,Private room,22.09,EUR,2,5,0.13,2026-10-13,4.48,1.0,2,2.0,4.0,350
+AB500032,10350,London,Westminster,Hotel room,96.11,GBP,3,8,0.56,2026-09-03,4.16,1.0,5,0.0,1.0,272
+AB500033,10023,Singapore,Marina Bay,Entire home/apt,80.53,SGD,3,3,0.25,2023-11-18,5.0,4.0,7,1.0,3.0,315
+AB500034,10185,New York,Manhattan,Private room,77.24,USD,1,13,0.11,2026-09-15,4.8,1.0,1,1.0,1.0,196
+AB500035,10794,Singapore,Little India,Private room,94.73,SGD,14,16,0.92,2026-10-01,4.92,5.0,3,1.0,2.0,30
+AB500036,10196,London,Hackney,Entire home/apt,70.16,GBP,1,2,0.61,2025-10-19,,3.0,7,0.0,2.0,13
+AB500037,10357,New York,Manhattan,Entire home/apt,84.11,USD,2,2,1.35,2026-05-28,,3.0,1,3.0,5.0,13
+AB500038,10005,Paris,Belleville,Entire home/apt,182.42,EUR,2,6,0.54,2024-07-26,4.53,3.0,6,3.0,5.0,37
+AB500039,10195,London,Islington,Private room,46.0,GBP,30,12,0.62,2025-05-26,4.76,3.0,3,,2.0,111
+AB500040,10590,Tokyo,Setagaya,Entire home/apt,83.04,JPY,2,3,0.11,2024-11-09,4.39,2.0,4,0.0,1.0,58
+AB500041,10015,New York,Manhattan,Entire home/apt,88.44,USD,14,2,1.57,2024-11-23,,5.0,4,4.0,4.0,26
+AB500042,10159,Sydney,Bondi,Private room,109.67,AUD,5,5,0.87,2025-06-12,4.69,4.0,3,2.0,4.0,88
+AB500043,10700,Paris,Le Marais,Private room,76.91,EUR,30,2,0.74,2026-03-12,,6.0,2,1.0,3.0,355
+AB500044,10459,Barcelona,Ciutat Vella,Entire home/apt,53.81,EUR,1,3,0.26,2025-07-26,4.5,3.0,1,2.0,4.0,60
+AB500045,10173,London,Hackney,Entire home/apt,83.22,GBP,2,11,1.0,2024-07-12,4.67,5.0,8,1.0,2.0,349
+AB500046,10649,Dubai,Business Bay,Private room,54.79,AED,7,1,0.53,2024-08-01,,4.0,2,1.0,,212
+AB500047,10603,Dubai,Downtown,Private room,35.68,AED,5,4,0.03,2025-12-03,3.9,2.0,1,1.0,3.0,359
+AB500048,10439,Sydney,,Entire home/apt,136.28,AUD,2,8,1.1,2025-10-18,4.38,2.0,2,0.0,1.0,142
+AB500049,10803,Tokyo,Minato,Entire home/apt,94.31,JPY,2,5,0.99,2025-01-18,4.78,2.0,1,1.0,2.0,0
+AB500050,10087,New York,Brooklyn,Private room,79.15,USD,7,3,0.4,2025-08-30,4.69,2.0,2,1.0,3.0,318
+AB500051,10305,New York,Manhattan,Private room,39.87,USD,14,3,0.16,2025-08-24,4.07,6.0,1,1.0,2.0,210
+AB500052,10072,New York,Brooklyn,Entire home/apt,91.21,USD,1,11,0.42,2024-03-01,4.02,3.0,5,2.0,4.0,114
+AB500053,10565,Barcelona,Sants-Montjuïc,Entire home/apt,143.69,EUR,30,7,0.44,2025-01-27,4.47,4.0,5,4.0,5.0,10
+AB500054,10550,Singapore,Little India,Entire home/apt,61.37,SGD,30,8,0.13,2026-05-30,4.38,3.0,4,2.0,3.0,243
+AB500055,10778,New York,Staten Island,Entire home/apt,190.61,USD,7,5,0.87,2025-06-20,4.63,3.0,1,2.0,4.0,135
+AB500056,10630,Paris,Le Marais,Entire home/apt,95.42,EUR,1,6,0.78,2026-01-20,4.05,5.0,5,1.0,2.0,184
+AB500057,10021,Singapore,Bugis,Hotel room,291.1,SGD,14,11,1.43,2025-01-09,3.97,2.0,7,2.0,4.0,360
+AB500058,10084,Dubai,Downtown,Private room,37.85,AED,2,5,0.47,2025-06-09,4.74,2.0,1,1.0,1.0,85
+AB500059,10052,New York,Manhattan,Private room,50.82,USD,2,2,0.14,2024-09-22,,3.0,1,2.0,4.0,123
+AB500060,10501,Tokyo,Setagaya,Shared room,24.58,JPY,3,12,0.28,2024-05-07,4.94,5.0,2,0.0,1.0,6
+AB500061,10417,Sydney,Surry Hills,Entire home/apt,186.56,AUD,3,2,1.07,2024-03-31,,4.0,7,4.0,6.0,137
+AB500062,10146,Paris,Montmartre,Entire home/apt,136.72,EUR,14,11,0.58,2024-07-17,4.3,3.0,5,1.0,1.0,177
+AB500063,10288,Barcelona,Ciutat Vella,Private room,27.17,EUR,3,10,0.17,2024-08-15,4.47,1.0,1,1.0,2.0,219
+AB500064,10138,London,Islington,Entire home/apt,79.75,GBP,3,20,1.2,2026-04-30,4.36,2.0,8,4.0,6.0,339
+AB500065,10540,Paris,Louvre,Entire home/apt,65.27,EUR,14,3,0.45,2024-07-12,4.12,1.0,6,3.0,5.0,163
+AB500066,10136,New York,Brooklyn,Entire home/apt,112.13,USD,3,7,0.7,2024-10-25,4.69,3.0,2,2.0,2.0,21
+AB500067,10561,Tokyo,Shibuya,Entire home/apt,48.99,JPY,3,10,0.13,2026-05-26,4.58,3.0,3,3.0,3.0,141
+AB500068,10098,Barcelona,Ciutat Vella,Hotel room,71.67,EUR,3,8,0.22,2025-09-09,5.0,3.0,8,2.0,2.0,266
+AB500069,10688,Paris,Le Marais,Entire home/apt,154.63,EUR,1,4,0.1,2025-03-27,4.58,5.0,6,1.0,2.0,103
+AB500070,10548,New York,Queens,Entire home/apt,129.45,USD,3,7,1.54,2026-08-29,5.0,3.0,8,3.0,5.0,92
+AB500071,10603,Tokyo,Shinjuku,Entire home/apt,135.69,JPY,2,8,0.43,2026-09-21,5.0,6.0,5,0.0,2.0,172
+AB500072,10165,Dubai,Jumeirah,Private room,39.0,AED,3,5,0.16,2024-08-02,4.52,2.0,3,1.0,3.0,30
+AB500073,10379,Tokyo,Shibuya,Entire home/apt,56.75,JPY,14,13,0.51,2025-05-29,4.86,2.0,6,4.0,6.0,279
+AB500074,10172,Tokyo,Shinjuku,Private room,34.02,JPY,2,8,1.03,2026-03-22,5.0,1.0,3,1.0,2.0,253
+AB500075,10040,Barcelona,Eixample,Entire home/apt,201.11,EUR,1,7,1.02,2024-02-01,4.61,4.0,5,3.0,5.0,106
+AB500076,10478,London,Hackney,Entire home/apt,199.34,GBP,5,12,1.93,2024-05-11,4.33,1.0,8,3.0,3.0,117
+AB500077,10523,Barcelona,Gràcia,Private room,34.36,EUR,1,8,0.02,2025-02-07,5.0,5.0,1,1.0,1.0,170
+AB500078,10318,Tokyo,Taito,Private room,127.69,JPY,5,6,0.04,2025-03-31,3.51,8.0,3,1.0,1.0,148
+AB500079,10821,Tokyo,Setagaya,Entire home/apt,105.66,JPY,7,3,0.14,2025-01-28,4.38,5.0,3,2.0,3.0,41
+AB500080,10679,Tokyo,Taito,Entire home/apt,105.67,JPY,2,4,0.97,2024-04-19,4.24,1.0,2,3.0,3.0,38
+AB500081,10504,Barcelona,Ciutat Vella,Private room,39.55,EUR,14,1,1.21,2026-11-07,,2.0,2,1.0,3.0,224
+AB500082,10000,London,Westminster,Entire home/apt,77.15,GBP,7,8,0.69,2026-03-10,3.92,1.0,5,4.0,5.0,119
+AB500083,10229,Sydney,Manly,Private room,97.01,AUD,2,11,0.11,2026-03-07,5.0,2.0,3,1.0,3.0,113
+AB500084,10778,Paris,Louvre,Entire home/apt,54.25,EUR,30,11,1.77,2024-06-16,4.25,4.0,7,4.0,6.0,79
+AB500085,10605,Barcelona,Eixample,Private room,86.18,EUR,3,15,1.45,2026-07-28,3.83,5.0,1,1.0,2.0,213
+AB500086,10277,Singapore,Orchard,Entire home/apt,170.36,SGD,1,1,1.61,2024-03-06,,4.0,2,2.0,3.0,301
+AB500087,10809,New York,Brooklyn,Shared room,32.23,USD,3,11,0.64,2024-01-16,4.49,4.0,1,0.0,1.0,293
+AB500088,10289,Sydney,Surry Hills,Entire home/apt,116.03,AUD,14,9,1.06,2026-02-17,4.29,1.0,6,4.0,5.0,202
+AB500089,10581,New York,Manhattan,Entire home/apt,156.75,USD,1,13,1.18,2025-10-13,4.51,3.0,4,2.0,,117
+AB500090,10163,Barcelona,Sant Martí,Entire home/apt,122.46,EUR,3,7,0.14,2023-12-12,4.76,5.0,2,4.0,4.0,99
+AB500091,10164,London,Hackney,Entire home/apt,121.48,GBP,5,20,1.44,2026-08-21,4.7,2.0,4,0.0,1.0,298
+AB500092,10340,Barcelona,Ciutat Vella,Entire home/apt,91.61,EUR,3,1,0.73,2026-08-11,,5.0,7,1.0,3.0,353
+AB500093,10735,Sydney,Surry Hills,Entire home/apt,147.06,AUD,1,1,1.35,2024-06-22,,3.0,2,0.0,1.0,127
+AB500094,10159,New York,Queens,Entire home/apt,127.49,USD,1,22,0.27,2024-05-24,4.5,2.0,3,3.0,3.0,50
+AB500095,10802,Sydney,Bondi,Shared room,17.55,AUD,3,9,1.72,2024-09-12,4.42,4.0,1,0.0,1.0,33
+AB500096,10472,Dubai,Jumeirah,Private room,52.79,AED,2,11,1.09,2026-08-09,4.21,3.0,2,1.0,3.0,117
+AB500097,10101,Paris,Louvre,Entire home/apt,116.9,EUR,7,2,1.28,2026-08-31,,3.0,3,3.0,4.0,2
+AB500098,10297,Singapore,,Shared room,31.88,SGD,14,14,0.06,2025-08-18,4.78,3.0,1,0.0,1.0,266
+AB500099,10716,London,Kensington,Entire home/apt,78.05,GBP,1,11,0.15,2025-01-09,2.95,1.0,5,2.0,4.0,103
+AB500100,10424,Paris,,Entire home/apt,127.72,EUR,5,14,1.8,2024-12-31,4.24,3.0,5,4.0,5.0,74
+AB500101,10188,Paris,Latin Quarter,Entire home/apt,110.08,EUR,7,3,0.15,2024-08-10,4.2,1.0,3,1.0,1.0,33
+AB500102,10711,London,Camden,Private room,121.75,GBP,2,5,0.36,2025-10-29,4.5,2.0,1,2.0,4.0,263
+AB500103,10219,Sydney,Bondi,Entire home/apt,117.81,AUD,3,3,0.29,2024-02-25,4.98,6.0,5,3.0,3.0,41
+AB500104,10756,Barcelona,Gràcia,Entire home/apt,89.7,EUR,1,5,2.4,2025-08-17,4.47,4.0,1,1.0,3.0,331
+AB500105,10642,Singapore,Little India,Private room,78.94,SGD,1,4,0.56,2024-09-01,4.54,4.0,2,1.0,2.0,330
+AB500106,10158,Paris,Le Marais,Entire home/apt,152.47,EUR,5,16,0.18,2026-01-09,4.17,3.0,2,1.0,,127
+AB500107,10746,Barcelona,Sant Martí,Private room,76.23,EUR,2,19,0.11,2024-12-04,4.88,4.0,3,1.0,1.0,337
+AB500108,10194,Tokyo,Taito,Entire home/apt,65.44,JPY,1,9,0.21,2025-03-28,4.35,3.0,3,4.0,4.0,349
+AB500109,10433,Dubai,Downtown,Entire home/apt,262.26,AED,2,17,0.33,2024-08-04,4.1,3.0,5,1.0,1.0,173
+AB500110,10697,Tokyo,Setagaya,Entire home/apt,96.74,JPY,3,6,0.73,2026-04-08,4.46,4.0,7,0.0,1.0,326
+AB500111,10055,London,Kensington,Entire home/apt,107.02,GBP,2,16,0.28,2026-05-02,4.52,4.0,5,1.0,3.0,42
+AB500112,10119,London,Islington,Entire home/apt,133.33,GBP,2,20,0.58,2024-05-26,4.58,2.0,5,,4.0,308
+AB500113,10161,New York,Bronx,Private room,151.58,USD,5,12,1.02,2025-05-25,4.23,3.0,3,,2.0,82
+AB500114,10440,Barcelona,Sants-Montjuïc,Hotel room,75.67,EUR,3,14,0.33,2025-04-13,4.7,4.0,8,0.0,2.0,115
+AB500115,10641,New York,Queens,Entire home/apt,197.25,USD,7,3,0.14,2026-05-04,4.48,1.0,6,4.0,4.0,301
+AB500116,10677,Tokyo,Taito,Shared room,24.97,JPY,2,15,2.6,2024-10-24,4.58,2.0,1,0.0,1.0,52
+AB500117,10330,London,Camden,Private room,28.51,GBP,2,17,1.63,2025-04-23,4.58,5.0,3,1.0,1.0,316
+AB500118,10048,Paris,Belleville,Entire home/apt,117.95,EUR,3,0,,,,3.0,4,3.0,3.0,356
+AB500119,10101,Barcelona,Sant Martí,Private room,39.35,EUR,5,7,0.09,2025-05-07,4.84,1.0,1,1.0,3.0,351
+AB500120,10192,Dubai,Dubai Marina,Private room,65.23,AED,5,17,0.93,2025-08-02,4.52,1.0,2,1.0,3.0,241
+AB500121,10754,New York,Brooklyn,Entire home/apt,91.29,USD,30,6,2.99,2026-11-14,4.37,4.0,2,3.0,5.0,299
+AB500122,10677,Tokyo,Taito,Private room,23.46,JPY,3,14,0.98,2026-02-23,4.08,3.0,3,2.0,2.0,196
+AB500123,10110,Tokyo,Setagaya,Entire home/apt,253.7,JPY,3,13,1.18,2025-07-08,4.73,5.0,3,4.0,6.0,310
+AB500124,10362,London,Westminster,Shared room,27.33,GBP,5,13,1.58,2023-11-19,4.95,3.0,2,,1.0,224
+AB500125,10775,Dubai,Deira,Private room,27.28,AED,3,6,0.28,2025-06-03,4.39,2.0,2,1.0,3.0,179
+AB500126,10242,Tokyo,Shinjuku,Entire home/apt,188.63,JPY,2,16,0.06,2025-10-20,5.0,1.0,7,4.0,6.0,139
+AB500127,10673,Singapore,,Entire home/apt,227.35,SGD,2,20,1.51,2025-01-02,4.38,4.0,7,0.0,1.0,137
+AB500128,10217,New York,Staten Island,Entire home/apt,93.49,USD,1,2,0.51,2026-11-03,,3.0,7,2.0,2.0,265
+AB500129,10323,Singapore,Marina Bay,Entire home/apt,85.23,SGD,2,12,0.86,2026-10-27,4.47,4.0,8,3.0,5.0,62
+AB500130,10659,Paris,Belleville,Entire home/apt,172.84,EUR,2,1,0.36,2024-02-16,,2.0,4,1.0,2.0,308
+AB500131,10618,Barcelona,Gràcia,Entire home/apt,67.1,EUR,14,0,,,,5.0,5,1.0,3.0,220
+AB500132,10360,New York,Brooklyn,Entire home/apt,159.07,USD,1,10,0.91,2024-04-18,4.29,3.0,3,2.0,4.0,341
+AB500133,10545,Barcelona,Sant Martí,Entire home/apt,131.56,EUR,1,9,0.33,2025-12-22,4.64,2.0,8,1.0,3.0,330
+AB500134,10261,New York,Queens,Entire home/apt,99.87,USD,2,19,0.13,2025-02-23,4.68,3.0,4,3.0,5.0,179
+AB500135,10726,London,Hackney,Entire home/apt,108.87,GBP,2,14,0.45,2026-05-31,5.0,5.0,3,0.0,1.0,287
+AB500136,10626,Paris,Belleville,Entire home/apt,197.49,EUR,2,10,0.78,2025-09-25,4.7,6.0,7,0.0,2.0,133
+AB500137,10846,Paris,Montmartre,Shared room,33.54,EUR,3,18,0.45,2026-10-16,4.6,2.0,1,0.0,1.0,125
+AB500138,10451,New York,Bronx,Entire home/apt,92.02,USD,2,2,0.41,2025-09-04,,4.0,1,0.0,2.0,85
+AB500139,10364,Paris,Le Marais,Shared room,16.54,EUR,7,17,1.42,2024-01-23,4.55,6.0,2,0.0,1.0,146
+AB500140,10624,Barcelona,Sant Martí,Private room,56.97,EUR,1,16,0.56,2024-12-11,4.34,3.0,2,2.0,4.0,19
+AB500141,10708,Sydney,Newtown,Entire home/apt,72.95,AUD,1,5,0.06,2026-04-28,4.43,1.0,3,0.0,2.0,273
+AB500142,10673,Dubai,Downtown,Entire home/apt,85.09,AED,5,7,0.11,2025-05-13,4.62,2.0,2,4.0,5.0,302
+AB500143,10045,Sydney,Newtown,Entire home/apt,101.8,AUD,14,12,0.22,2025-09-17,4.48,3.0,6,4.0,6.0,105
+AB500144,10239,Sydney,Surry Hills,Entire home/apt,106.21,AUD,3,17,2.16,2024-10-19,4.63,2.0,2,4.0,5.0,25
+AB500145,10822,Singapore,Bugis,Entire home/apt,32.71,SGD,5,10,0.62,2024-10-18,5.0,3.0,6,1.0,1.0,82
+AB500146,10698,London,Islington,Entire home/apt,74.8,GBP,3,5,0.4,2024-03-22,4.29,5.0,8,1.0,2.0,190
+AB500147,10211,Tokyo,Shinjuku,Entire home/apt,75.62,JPY,2,4,0.54,2025-04-18,4.11,3.0,8,2.0,2.0,295
+AB500148,10085,Dubai,Downtown,Private room,111.13,AED,3,10,1.41,2024-01-30,4.79,3.0,3,1.0,3.0,7
+AB500149,10664,Tokyo,Shinjuku,Entire home/apt,78.13,JPY,2,1,1.22,2024-03-24,,3.0,1,1.0,2.0,291
+AB500150,10055,Dubai,Business Bay,Entire home/apt,116.48,AED,5,15,1.11,2026-01-21,4.47,4.0,4,0.0,2.0,352
+AB500151,10818,New York,Bronx,Entire home/apt,282.68,USD,3,1,0.26,2025-07-04,,2.0,5,3.0,3.0,193
+AB500152,10012,Tokyo,Taito,Entire home/apt,149.26,JPY,2,9,0.44,2024-12-02,4.12,3.0,7,0.0,2.0,272
+AB500153,10319,New York,Manhattan,Private room,79.79,USD,2,1,0.2,2026-07-19,,4.0,1,1.0,1.0,120
+AB500154,10377,Paris,Louvre,Private room,56.54,EUR,1,4,0.8,2024-01-17,4.73,2.0,1,1.0,3.0,152
+AB500155,10730,Barcelona,Eixample,Entire home/apt,108.92,EUR,14,36,0.24,2025-04-19,4.93,1.0,4,3.0,4.0,263
+AB500156,10334,Sydney,Manly,Entire home/apt,95.69,AUD,2,5,0.31,2025-06-15,5.0,1.0,4,3.0,5.0,182
+AB500157,10200,New York,Bronx,Entire home/apt,211.39,USD,5,5,1.26,2024-07-21,4.76,1.0,7,2.0,3.0,197
+AB500158,10233,New York,Staten Island,Private room,59.46,USD,1,15,1.1,2026-09-20,4.1,3.0,3,1.0,1.0,313
+AB500159,10807,Tokyo,Shinjuku,Entire home/apt,40.07,JPY,3,1,0.32,2024-11-21,,4.0,6,4.0,6.0,96
+AB500160,10503,Dubai,Jumeirah,Entire home/apt,148.27,AED,5,2,0.22,2026-04-18,,4.0,5,0.0,1.0,1
+AB500161,10387,Dubai,Business Bay,Entire home/apt,85.56,AED,5,11,0.08,2025-04-01,4.55,7.0,6,4.0,5.0,17
+AB500162,10220,Sydney,Surry Hills,Private room,53.19,AUD,3,0,,,,1.0,1,1.0,1.0,256
+AB500163,10815,London,Kensington,Private room,87.17,GBP,5,22,0.33,2024-01-18,4.56,3.0,1,,1.0,8
+AB500164,10155,Paris,Latin Quarter,Shared room,16.19,EUR,3,17,0.23,2025-10-08,4.84,4.0,1,0.0,1.0,328
+AB500165,10207,New York,Staten Island,Private room,202.16,USD,5,2,0.33,2023-11-21,,3.0,1,1.0,2.0,324
+AB500166,10001,Paris,,Entire home/apt,151.05,EUR,1,2,0.05,2025-06-23,,1.0,8,1.0,3.0,264
+AB500167,10650,New York,Staten Island,Private room,31.36,USD,5,10,0.23,2026-09-18,4.46,3.0,2,1.0,3.0,278
+AB500168,10636,Sydney,Surry Hills,Private room,54.04,AUD,2,13,2.34,2024-10-21,4.43,3.0,3,1.0,1.0,359
+AB500169,10286,Tokyo,Taito,Entire home/apt,161.65,JPY,1,2,0.74,2024-05-17,,7.0,5,1.0,1.0,85
+AB500170,10519,Tokyo,Minato,Private room,38.75,JPY,3,9,2.59,2025-08-05,4.89,5.0,1,1.0,1.0,344
+AB500171,10201,Tokyo,Shibuya,Entire home/apt,68.81,JPY,14,24,1.22,2024-07-04,4.37,5.0,4,4.0,4.0,197
+AB500172,10749,Barcelona,Ciutat Vella,Entire home/apt,160.2,EUR,1,4,0.97,2026-08-06,4.78,3.0,7,0.0,2.0,319
+AB500173,10328,Paris,Belleville,Private room,19.1,EUR,2,2,1.35,2025-11-10,,2.0,3,1.0,3.0,100
+AB500174,10063,Barcelona,Ciutat Vella,Entire home/apt,126.05,EUR,1,27,0.27,2024-11-18,4.87,3.0,5,2.0,2.0,314
+AB500175,10251,Sydney,CBD,Private room,72.48,AUD,5,8,0.45,2024-11-01,4.08,1.0,1,,2.0,138
+AB500176,10583,Barcelona,Sants-Montjuïc,Entire home/apt,37.61,EUR,30,6,0.53,2024-12-27,5.0,2.0,6,4.0,5.0,253
+AB500177,10755,Tokyo,Setagaya,Entire home/apt,275.17,JPY,2,5,0.1,2025-07-09,4.49,5.0,8,4.0,4.0,242
+AB500178,10766,Tokyo,Minato,Private room,186.1,JPY,5,9,0.97,2025-09-30,5.0,4.0,3,1.0,3.0,192
+AB500179,10616,Paris,Louvre,Hotel room,94.44,EUR,3,3,0.46,2025-05-24,4.67,2.0,6,1.0,2.0,68
+AB500180,10747,Dubai,Dubai Marina,Entire home/apt,116.47,AED,3,4,0.49,2025-02-07,4.57,3.0,6,0.0,1.0,226
+AB500181,10452,Barcelona,Sants-Montjuïc,Entire home/apt,51.92,EUR,7,4,0.82,2025-12-18,4.36,2.0,7,3.0,3.0,130
+AB500182,10358,Sydney,Surry Hills,Entire home/apt,115.76,AUD,1,7,0.28,2025-04-05,4.5,5.0,1,0.0,2.0,170
+AB500183,10471,New York,Manhattan,Entire home/apt,184.1,USD,5,16,0.4,2024-08-07,4.38,2.0,4,1.0,3.0,111
+AB500184,10291,Paris,Montmartre,Entire home/apt,128.13,EUR,30,0,,,,3.0,2,2.0,4.0,131
+AB500185,10551,New York,Bronx,Entire home/apt,148.94,USD,3,1,1.28,2026-06-19,,2.0,2,0.0,2.0,41
+AB500186,10789,New York,Manhattan,Entire home/apt,145.92,USD,2,13,2.4,2024-05-16,4.91,3.0,7,3.0,4.0,98
+AB500187,10831,Paris,Belleville,Private room,70.15,EUR,3,2,0.35,2025-08-09,,3.0,3,1.0,1.0,6
+AB500188,10796,Tokyo,Minato,Entire home/apt,97.48,JPY,7,9,1.41,2025-01-24,4.32,2.0,1,0.0,1.0,309
+AB500189,10180,Tokyo,Taito,Entire home/apt,173.15,JPY,3,10,0.21,2025-04-23,5.0,2.0,7,1.0,3.0,288
+AB500190,10607,Barcelona,Sant Martí,Private room,34.56,EUR,3,8,0.39,2024-12-02,4.46,3.0,2,1.0,2.0,63
+AB500191,10538,London,Camden,Shared room,34.25,GBP,7,17,0.62,2026-06-12,4.08,4.0,2,0.0,2.0,287
+AB500192,10286,New York,Queens,Private room,243.69,USD,3,1,1.3,2024-04-04,,3.0,2,2.0,2.0,297
+AB500193,10749,New York,Queens,Entire home/apt,122.31,USD,1,30,0.23,2024-03-18,4.07,3.0,4,1.0,3.0,343
+AB500194,10339,Paris,Le Marais,Private room,47.23,EUR,1,5,0.56,2024-09-08,4.31,4.0,1,1.0,3.0,60
+AB500195,10042,Barcelona,Sants-Montjuïc,Entire home/apt,226.26,EUR,7,6,0.61,2024-09-06,4.17,2.0,7,0.0,1.0,212
+AB500196,10697,Paris,Montmartre,Entire home/apt,240.56,EUR,7,19,0.4,2026-01-01,3.64,5.0,5,3.0,5.0,57
+AB500197,10741,Singapore,Chinatown,Entire home/apt,132.65,SGD,2,14,0.84,2026-06-27,4.65,2.0,8,2.0,4.0,7
+AB500198,10755,London,Kensington,Entire home/apt,94.13,GBP,3,8,0.33,2025-12-09,4.3,9.0,4,1.0,1.0,168
+AB500199,10592,Sydney,CBD,Entire home/apt,250.4,AUD,5,9,1.18,2026-06-20,3.97,3.0,4,1.0,2.0,73
+AB500200,10341,London,Hackney,Entire home/apt,138.6,GBP,2,3,0.43,2024-07-06,3.99,5.0,4,4.0,4.0,30
+AB500201,10194,New York,Manhattan,Entire home/apt,238.55,USD,1,1,0.46,2025-08-20,,5.0,6,3.0,3.0,138
+AB500202,10038,Paris,Montmartre,Entire home/apt,80.38,EUR,2,19,3.59,2026-09-13,4.34,5.0,8,4.0,5.0,269
+AB500203,10330,London,Westminster,Entire home/apt,225.21,GBP,3,5,1.15,2026-01-06,4.38,3.0,8,2.0,2.0,137
+AB500204,10662,Tokyo,Shinjuku,Entire home/apt,95.15,JPY,30,3,0.91,2024-09-13,4.21,2.0,3,2.0,3.0,82
+AB500205,10665,Dubai,Dubai Marina,Entire home/apt,191.53,AED,2,8,1.82,2024-08-15,4.04,4.0,4,3.0,4.0,253
+AB500206,10381,Tokyo,Minato,Private room,31.25,JPY,1,6,0.61,2024-09-21,4.38,2.0,3,1.0,2.0,134
+AB500207,10712,Tokyo,Taito,Private room,107.21,JPY,2,11,0.9,2024-02-06,4.8,5.0,3,1.0,3.0,19
+AB500208,10043,London,Westminster,Private room,31.66,GBP,5,9,0.71,2026-06-09,4.4,1.0,1,1.0,2.0,270
+AB500209,10114,Sydney,Bondi,Entire home/apt,134.7,AUD,2,6,0.35,2025-12-22,4.45,2.0,4,4.0,5.0,120
+AB500210,10772,Singapore,Bugis,Entire home/apt,161.02,SGD,3,3,0.85,2026-10-04,4.93,3.0,1,3.0,3.0,27
+AB500211,10762,Tokyo,Shinjuku,Private room,43.62,JPY,2,8,1.14,2025-12-01,4.83,3.0,2,1.0,2.0,292
+AB500212,10373,New York,Queens,Entire home/apt,228.4,USD,1,3,0.44,2024-02-20,4.27,2.0,7,1.0,3.0,251
+AB500213,10024,Sydney,Manly,Entire home/apt,157.79,AUD,30,10,0.19,2025-08-17,4.0,5.0,1,3.0,5.0,269
+AB500214,10690,New York,Brooklyn,Entire home/apt,133.35,USD,2,2,0.46,2026-10-15,,2.0,5,0.0,1.0,181
+AB500215,10193,Barcelona,Sants-Montjuïc,Private room,50.89,EUR,14,6,1.03,2024-03-09,4.56,4.0,2,1.0,3.0,203
+AB500216,10057,Paris,Le Marais,Entire home/apt,43.04,EUR,1,16,0.16,2025-06-06,4.7,7.0,1,3.0,4.0,130
+AB500217,10412,New York,Brooklyn,Entire home/apt,104.62,USD,7,6,0.65,2024-09-06,4.02,3.0,8,2.0,4.0,9
+AB500218,10214,Singapore,Orchard,Entire home/apt,168.82,SGD,7,12,0.5,2026-07-15,5.0,3.0,8,1.0,2.0,83
+AB500219,10716,Tokyo,Minato,Entire home/apt,69.05,JPY,1,3,0.86,2025-10-25,4.95,4.0,7,0.0,1.0,225
+AB500220,10802,Barcelona,Sants-Montjuïc,Private room,33.4,EUR,7,3,0.01,2024-01-04,3.97,2.0,3,1.0,2.0,156
+AB500221,10302,Sydney,CBD,Private room,89.6,AUD,14,13,0.06,2024-01-19,5.0,4.0,3,1.0,2.0,35
+AB500222,10744,Barcelona,Ciutat Vella,Entire home/apt,110.16,EUR,3,8,0.87,2025-05-14,5.0,1.0,8,4.0,4.0,200
+AB500223,10795,Dubai,Jumeirah,Entire home/apt,78.98,AED,3,15,1.12,2024-03-25,4.62,1.0,1,1.0,3.0,154
+AB500224,10706,Singapore,Marina Bay,Entire home/apt,115.6,SGD,2,3,0.62,2026-03-13,5.0,2.0,7,1.0,3.0,343
+AB500225,10116,New York,Queens,Entire home/apt,76.29,USD,30,29,0.42,2026-02-19,4.86,5.0,7,4.0,4.0,30
+AB500226,10345,London,Islington,Private room,95.82,GBP,1,16,0.54,2025-05-08,4.99,3.0,3,1.0,3.0,249
+AB500227,10568,Paris,Montmartre,Entire home/apt,141.37,EUR,30,9,0.78,2025-07-24,5.0,3.0,4,0.0,1.0,156
+AB500228,10246,Sydney,Surry Hills,Shared room,18.41,AUD,14,8,1.96,2026-02-20,5.0,2.0,2,0.0,1.0,291
+AB500229,10635,New York,Staten Island,Entire home/apt,202.54,USD,5,14,1.18,2026-02-14,4.64,2.0,7,3.0,3.0,74
+AB500230,10106,Sydney,Surry Hills,Entire home/apt,322.71,AUD,1,3,0.41,2024-07-25,4.14,2.0,6,4.0,4.0,301
+AB500231,10833,Dubai,Deira,Private room,121.43,AED,5,14,0.69,2024-02-24,5.0,2.0,1,1.0,3.0,140
+AB500232,10076,Paris,Montmartre,Hotel room,191.92,EUR,7,16,0.98,2026-07-26,4.95,,2,4.0,5.0,221
+AB500233,10371,Tokyo,,Entire home/apt,128.14,JPY,30,9,0.21,2025-02-15,4.84,3.0,3,1.0,3.0,251
+AB500234,10736,Barcelona,Ciutat Vella,Private room,62.1,EUR,3,21,0.81,2025-01-22,4.03,6.0,3,1.0,3.0,75
+AB500235,10044,Sydney,Manly,Private room,59.72,AUD,5,3,0.75,2024-06-26,3.81,3.0,3,1.0,2.0,241
+AB500236,10815,Dubai,Jumeirah,Entire home/apt,74.41,AED,1,8,0.17,2025-02-09,4.24,1.0,3,0.0,1.0,250
+AB500237,10168,Tokyo,Shinjuku,Entire home/apt,165.33,JPY,3,8,0.85,2024-01-23,4.96,3.0,4,4.0,5.0,30
+AB500238,10000,Dubai,Business Bay,Entire home/apt,88.08,AED,3,3,0.58,2026-02-15,4.15,6.0,5,1.0,1.0,82
+AB500239,10297,Barcelona,Ciutat Vella,Entire home/apt,68.06,EUR,30,12,0.77,2024-07-12,4.95,4.0,5,2.0,4.0,7
+AB500240,10605,Dubai,Business Bay,Entire home/apt,96.36,AED,1,20,1.13,2025-06-16,5.0,5.0,2,,4.0,27
+AB500241,10087,Dubai,Business Bay,Hotel room,133.12,AED,5,14,0.58,2026-08-11,5.0,6.0,2,4.0,4.0,17
+AB500242,10480,New York,Brooklyn,Entire home/apt,150.34,USD,14,17,0.72,2026-03-29,4.27,4.0,3,1.0,1.0,13
+AB500243,10660,Paris,Louvre,Entire home/apt,138.11,EUR,5,3,0.87,2026-07-22,4.42,3.0,8,0.0,1.0,88
+AB500244,10179,Barcelona,Ciutat Vella,Entire home/apt,151.96,EUR,1,3,0.35,2026-02-25,4.96,5.0,3,,1.0,292
+AB500245,10516,New York,Manhattan,Private room,53.57,USD,7,2,0.29,2026-01-27,,6.0,2,2.0,2.0,330
+AB500246,10849,New York,Brooklyn,Entire home/apt,117.99,USD,3,4,0.2,2026-03-08,4.87,1.0,5,1.0,1.0,17
+AB500247,10080,London,Hackney,Private room,44.73,GBP,2,12,1.79,2026-05-01,4.21,4.0,2,1.0,2.0,81
+AB500248,10285,Paris,Belleville,Private room,89.36,EUR,2,4,0.49,2023-12-28,4.36,3.0,3,1.0,1.0,167
+AB500249,10449,Dubai,Business Bay,Private room,46.72,AED,5,12,0.14,2026-06-05,4.37,5.0,2,2.0,4.0,103
+AB500250,10728,New York,Manhattan,Entire home/apt,167.42,USD,2,12,0.39,2024-12-27,4.71,5.0,2,2.0,3.0,246
+AB500251,10004,London,Hackney,Private room,18.52,GBP,14,8,0.3,2026-02-10,4.17,3.0,2,1.0,3.0,119
+AB500252,10487,Sydney,Bondi,Private room,64.73,AUD,3,0,,,,3.0,2,1.0,2.0,182
+AB500253,10784,London,Westminster,Private room,46.55,GBP,3,5,0.24,2024-11-27,4.36,3.0,2,1.0,2.0,236
+AB500254,10349,Singapore,,Private room,69.6,SGD,2,2,0.29,2025-12-02,,4.0,1,1.0,1.0,101
+AB500255,10564,Barcelona,Ciutat Vella,Entire home/apt,85.95,EUR,1,8,0.44,2025-09-01,4.59,2.0,8,3.0,4.0,254
+AB500256,10479,Barcelona,Ciutat Vella,Entire home/apt,117.72,EUR,1,16,0.4,2026-02-21,4.09,3.0,7,2.0,2.0,264
+AB500257,10409,New York,Brooklyn,Private room,41.45,USD,7,28,1.19,2025-06-18,4.4,2.0,1,2.0,3.0,257
+AB500258,10257,New York,Queens,Entire home/apt,162.01,USD,1,5,2.12,2025-04-25,3.7,3.0,2,3.0,4.0,123
+AB500259,10111,New York,Staten Island,Entire home/apt,206.87,USD,30,3,0.45,2025-03-10,4.19,2.0,7,1.0,3.0,276
+AB500260,10520,Sydney,Bondi,Entire home/apt,241.5,AUD,3,3,0.55,2024-01-27,5.0,3.0,1,3.0,4.0,321
+AB500261,10044,Barcelona,Gràcia,Private room,112.11,EUR,3,6,0.07,2024-11-06,3.98,2.0,1,1.0,2.0,2
+AB500262,10349,Singapore,Marina Bay,Entire home/apt,99.02,SGD,3,13,0.26,2025-06-26,4.64,4.0,2,2.0,3.0,173
+AB500263,10024,London,Westminster,Entire home/apt,434.43,GBP,1,3,0.64,2025-01-05,4.65,2.0,1,1.0,2.0,186
+AB500264,10657,Dubai,Downtown,Private room,152.15,AED,3,3,0.57,2025-09-28,4.55,3.0,2,1.0,1.0,106
+AB500265,10300,Barcelona,Ciutat Vella,Entire home/apt,141.23,EUR,7,3,0.58,2026-01-18,4.54,5.0,4,1.0,2.0,189
+AB500266,10143,New York,Bronx,Entire home/apt,232.26,USD,1,15,0.54,2024-12-31,4.86,3.0,1,0.0,1.0,342
+AB500267,10080,Tokyo,Shibuya,Entire home/apt,43.38,JPY,3,9,0.05,2024-02-14,4.94,1.0,5,0.0,2.0,185
+AB500268,10212,Paris,Belleville,Private room,47.96,EUR,7,3,0.26,2024-07-05,4.48,5.0,2,2.0,4.0,314
+AB500269,10551,Tokyo,Shibuya,Private room,36.06,JPY,2,4,1.39,2024-08-08,4.44,3.0,2,1.0,1.0,295
+AB500270,10300,Sydney,CBD,Private room,97.93,AUD,1,1,0.58,2025-09-21,,3.0,1,1.0,,357
+AB500271,10438,Paris,Le Marais,Entire home/apt,209.41,EUR,1,6,1.28,2026-04-17,4.56,4.0,8,3.0,5.0,113
+AB500272,10161,Tokyo,Setagaya,Entire home/apt,123.5,JPY,1,16,0.42,2025-08-13,4.16,2.0,4,0.0,1.0,32
+AB500273,10309,Barcelona,Ciutat Vella,Shared room,88.23,EUR,1,6,1.38,2025-05-19,4.6,2.0,2,0.0,1.0,256
+AB500274,10433,Barcelona,Eixample,Entire home/apt,94.4,EUR,3,5,0.12,2025-12-07,5.0,1.0,5,0.0,1.0,259
+AB500275,10710,New York,Queens,Private room,33.69,USD,1,0,,,,6.0,1,1.0,3.0,71
+AB500276,10466,London,Camden,Entire home/apt,121.23,GBP,5,6,0.33,2024-09-01,5.0,2.0,1,4.0,6.0,352
+AB500277,10013,New York,Queens,Private room,48.74,USD,3,7,1.62,2025-07-12,5.0,,2,2.0,2.0,120
+AB500278,10512,Barcelona,Sant Martí,Private room,52.34,EUR,2,22,0.56,2024-11-12,4.07,5.0,1,1.0,3.0,314
+AB500279,10536,London,Kensington,Entire home/apt,42.3,GBP,7,5,0.47,2024-06-14,4.89,1.0,2,0.0,1.0,307
+AB500280,10095,Dubai,,Private room,40.3,AED,3,4,1.35,2026-05-26,5.0,3.0,2,1.0,3.0,289
+AB500281,10497,Singapore,Marina Bay,Entire home/apt,35.56,SGD,1,12,0.57,2025-10-23,4.85,4.0,6,3.0,4.0,129
+AB500282,10423,Paris,Montmartre,Private room,58.75,EUR,3,21,1.33,2024-09-23,4.96,4.0,2,2.0,2.0,181
+AB500283,10621,Singapore,Chinatown,Private room,31.38,SGD,1,3,2.08,2025-09-21,4.84,1.0,2,1.0,2.0,91
+AB500284,10683,Singapore,Bugis,Entire home/apt,160.26,SGD,7,11,1.59,2026-08-11,4.93,2.0,1,0.0,2.0,154
+AB500285,10664,Dubai,Downtown,Entire home/apt,254.78,AED,1,1,1.92,2026-07-21,,2.0,3,0.0,1.0,211
+AB500286,10022,Paris,Belleville,Private room,135.09,EUR,1,9,1.05,2025-12-04,4.64,6.0,1,1.0,3.0,231
+AB500287,10065,Paris,Montmartre,Private room,66.43,EUR,5,8,0.5,2025-09-29,4.63,2.0,1,1.0,1.0,280
+AB500288,10831,Dubai,Jumeirah,Entire home/apt,167.83,AED,3,7,0.75,2024-04-20,4.25,3.0,2,4.0,,354
+AB500289,10065,Sydney,Surry Hills,Private room,64.95,AUD,1,2,0.72,2025-10-23,,3.0,2,2.0,4.0,285
+AB500290,10826,New York,Staten Island,Entire home/apt,129.6,USD,3,12,0.81,2024-09-15,4.27,2.0,8,4.0,6.0,233
+AB500291,10795,New York,Staten Island,Private room,112.38,USD,7,20,1.17,2026-01-17,4.79,3.0,2,1.0,2.0,318
+AB500292,10728,Dubai,Business Bay,Entire home/apt,133.49,AED,3,29,0.39,2026-01-23,4.92,3.0,3,1.0,2.0,283
+AB500293,10236,Tokyo,Shinjuku,Private room,24.0,JPY,1,15,0.96,2024-04-30,4.9,1.0,2,1.0,3.0,158
+AB500294,10427,Sydney,CBD,Entire home/apt,284.46,AUD,2,28,0.23,2024-11-27,4.67,4.0,7,2.0,3.0,299
+AB500295,10641,Dubai,Deira,Entire home/apt,275.26,AED,7,1,1.14,2026-10-26,,2.0,5,3.0,3.0,344
+AB500296,10216,Barcelona,Eixample,Private room,39.77,EUR,7,3,0.44,2024-04-11,4.13,3.0,1,,1.0,214
+AB500297,10402,Singapore,Orchard,Private room,103.29,SGD,1,8,0.17,2024-01-13,5.0,3.0,1,1.0,3.0,104
+AB500298,10094,New York,Brooklyn,Entire home/apt,61.89,USD,2,11,1.26,2024-06-22,4.08,1.0,4,2.0,2.0,272
+AB500299,10374,New York,Brooklyn,Entire home/apt,102.11,USD,1,5,0.55,2025-12-04,4.12,2.0,1,0.0,2.0,248
+AB500300,10258,London,Westminster,Private room,63.82,GBP,5,10,0.09,2024-11-15,4.89,2.0,3,1.0,2.0,59
+AB500301,10526,London,Kensington,Private room,42.05,GBP,2,2,0.3,2025-01-30,,3.0,1,1.0,2.0,349
+AB500302,10608,Barcelona,Ciutat Vella,Private room,39.79,EUR,1,8,1.05,2024-09-25,4.28,3.0,2,1.0,1.0,227
+AB500303,10787,Tokyo,Minato,Private room,73.58,JPY,14,5,0.53,2024-05-08,4.67,3.0,1,1.0,3.0,56
+AB500304,10065,Barcelona,Eixample,Entire home/apt,80.92,EUR,1,6,0.58,2025-06-24,4.87,1.0,4,4.0,6.0,84
+AB500305,10447,Dubai,Jumeirah,Private room,41.88,AED,5,12,0.42,2024-11-21,4.46,1.0,3,1.0,2.0,333
+AB500306,10513,London,Kensington,Entire home/apt,167.92,GBP,1,5,1.96,2025-03-09,4.41,1.0,3,0.0,1.0,339
+AB500307,10209,Dubai,Dubai Marina,Private room,84.53,AED,5,16,0.96,2025-05-06,4.32,4.0,3,1.0,2.0,87
+AB500308,10782,Barcelona,Eixample,Entire home/apt,211.73,EUR,3,16,1.05,2024-12-21,4.82,4.0,5,3.0,4.0,143
+AB500309,10386,London,Camden,Entire home/apt,146.23,GBP,1,10,0.57,2025-04-28,3.97,1.0,2,3.0,4.0,43
+AB500310,10264,Barcelona,Sants-Montjuïc,Entire home/apt,105.98,EUR,7,6,0.19,2026-08-27,4.61,2.0,4,3.0,4.0,271
+AB500311,10292,London,Camden,Private room,67.67,GBP,5,2,1.27,2024-03-13,,5.0,2,,2.0,274
+AB500312,10225,Sydney,Bondi,Entire home/apt,114.01,AUD,5,18,0.48,2025-06-17,4.31,5.0,2,0.0,2.0,280
+AB500313,10059,Paris,Montmartre,Entire home/apt,99.89,EUR,3,37,1.08,2026-02-12,5.0,3.0,2,1.0,3.0,220
+AB500314,10113,Paris,Belleville,Hotel room,173.94,EUR,3,18,0.83,2026-08-04,5.0,5.0,4,0.0,1.0,146
+AB500315,10476,Tokyo,Shibuya,Private room,63.11,JPY,5,11,0.71,2025-05-26,4.64,3.0,2,1.0,1.0,19
+AB500316,10237,Dubai,Downtown,Hotel room,217.03,AED,1,8,0.55,2025-01-20,4.73,7.0,3,4.0,5.0,233
+AB500317,10704,Tokyo,Taito,Entire home/apt,141.11,JPY,1,9,0.75,2024-07-26,4.42,4.0,4,1.0,3.0,106
+AB500318,10510,London,Kensington,Entire home/apt,96.53,GBP,1,1,0.34,2025-11-01,,3.0,2,1.0,1.0,287
+AB500319,10554,Paris,Belleville,Private room,54.92,EUR,3,1,0.8,2025-12-23,,1.0,3,1.0,2.0,67
+AB500320,10577,New York,Brooklyn,Entire home/apt,147.1,USD,1,19,1.77,2025-09-16,4.26,5.0,7,1.0,3.0,262
+AB500321,10259,New York,Manhattan,Private room,81.18,USD,2,2,1.31,2026-10-30,,2.0,1,1.0,2.0,246
+AB500322,10269,New York,Manhattan,Entire home/apt,163.29,USD,30,15,0.36,2025-10-07,4.55,2.0,6,1.0,2.0,133
+AB500323,10198,Barcelona,Ciutat Vella,Entire home/apt,61.63,EUR,1,16,0.68,2026-11-19,5.0,4.0,8,0.0,1.0,267
+AB500324,10098,Sydney,Bondi,Private room,53.14,AUD,2,3,0.93,2025-08-13,4.68,2.0,1,2.0,3.0,333
+AB500325,10448,Singapore,Marina Bay,Entire home/apt,121.22,SGD,1,2,1.71,2024-12-01,,2.0,7,0.0,2.0,206
+AB500326,10425,Tokyo,Taito,Private room,42.45,JPY,2,0,,,,2.0,2,2.0,3.0,337
+AB500327,10363,Sydney,Bondi,Entire home/apt,86.49,AUD,3,14,0.42,2024-05-21,4.91,1.0,1,4.0,6.0,137
+AB500328,10517,Paris,Latin Quarter,Private room,57.45,EUR,1,18,1.29,2025-10-12,4.61,2.0,3,1.0,2.0,105
+AB500329,10478,Tokyo,Setagaya,Entire home/apt,59.81,JPY,2,6,1.07,2026-11-13,4.06,2.0,2,4.0,4.0,105
+AB500330,10009,Singapore,Little India,Entire home/apt,52.97,SGD,1,12,0.74,2025-01-07,4.43,3.0,8,2.0,3.0,67
+AB500331,10220,Paris,Louvre,Entire home/apt,79.08,EUR,3,12,2.14,2026-07-24,4.72,1.0,6,3.0,3.0,45
+AB500332,10805,Dubai,Deira,Entire home/apt,184.99,AED,7,20,0.31,2024-06-13,5.0,5.0,4,4.0,4.0,61
+AB500333,10697,London,Westminster,Private room,51.45,GBP,3,14,0.36,2024-06-12,4.66,5.0,3,1.0,2.0,289
+AB500334,10066,New York,Staten Island,Entire home/apt,63.73,USD,3,10,0.72,2024-07-12,4.96,2.0,7,4.0,4.0,12
+AB500335,10742,Dubai,Jumeirah,Entire home/apt,152.88,AED,2,17,0.1,2024-04-25,4.97,2.0,2,1.0,3.0,108
+AB500336,10096,Paris,Latin Quarter,Entire home/apt,229.83,EUR,7,14,0.74,2023-11-20,4.31,5.0,2,3.0,4.0,326
+AB500337,10524,Paris,Louvre,Entire home/apt,238.95,EUR,2,7,0.74,2025-04-18,4.57,2.0,4,3.0,5.0,130
+AB500338,10607,Sydney,Surry Hills,Private room,58.72,AUD,1,40,0.4,2024-03-14,4.94,4.0,3,1.0,3.0,12
+AB500339,10008,New York,Brooklyn,Entire home/apt,151.08,USD,3,9,0.42,2026-09-26,4.74,4.0,4,0.0,1.0,119
+AB500340,10211,Singapore,Orchard,Private room,51.63,SGD,7,12,0.04,2024-06-09,5.0,2.0,2,1.0,3.0,61
+AB500341,10682,Dubai,Dubai Marina,Entire home/apt,106.82,AED,2,18,0.41,2026-06-13,4.49,3.0,8,3.0,3.0,157
+AB500342,10137,Dubai,Deira,Entire home/apt,53.7,AED,3,2,0.9,2024-07-05,,2.0,4,0.0,1.0,277
+AB500343,10731,Singapore,Little India,Entire home/apt,40.44,SGD,1,6,1.8,2025-04-20,4.88,8.0,3,3.0,5.0,53
+AB500344,10109,Paris,Louvre,Private room,74.41,EUR,30,3,1.12,2026-07-15,3.79,4.0,1,1.0,2.0,120
+AB500345,10667,Barcelona,Ciutat Vella,Entire home/apt,100.81,EUR,7,7,1.33,2025-02-17,3.92,3.0,4,2.0,4.0,236
+AB500346,10590,Paris,Latin Quarter,Private room,40.23,EUR,2,13,0.33,2026-04-10,3.84,2.0,1,,4.0,126
+AB500347,10065,Sydney,CBD,Entire home/apt,114.86,AUD,5,8,0.85,2024-03-20,4.19,1.0,2,1.0,1.0,22
+AB500348,10055,New York,Manhattan,Entire home/apt,152.49,USD,30,2,1.86,2024-08-02,,4.0,1,1.0,3.0,306
+AB500349,10006,London,Camden,Entire home/apt,204.14,GBP,2,1,0.94,2026-01-16,,2.0,5,2.0,4.0,130
+AB500350,10571,Paris,Belleville,Private room,71.08,EUR,2,5,0.52,2024-06-08,5.0,2.0,2,1.0,2.0,46
+AB500351,10461,Paris,Latin Quarter,Private room,32.71,EUR,3,12,2.17,2026-06-25,4.9,4.0,3,1.0,2.0,362
+AB500352,10601,London,Islington,Entire home/apt,66.73,GBP,14,4,1.46,2025-04-23,4.92,7.0,7,3.0,5.0,174
+AB500353,10528,Barcelona,Ciutat Vella,Shared room,30.07,EUR,2,6,0.74,2026-05-12,4.67,2.0,1,0.0,2.0,63
+AB500354,10740,Dubai,Downtown,Private room,66.29,AED,5,3,0.34,2026-08-12,4.65,4.0,3,1.0,2.0,121
+AB500355,10789,New York,Manhattan,Entire home/apt,133.05,USD,1,5,0.3,2026-01-05,4.71,4.0,3,1.0,2.0,334
+AB500356,10485,Dubai,Downtown,Private room,23.37,AED,5,6,0.38,2024-01-04,4.24,3.0,3,1.0,1.0,307
+AB500357,10135,New York,Manhattan,Hotel room,187.12,USD,30,0,,,,3.0,7,1.0,2.0,136
+AB500358,10748,New York,Bronx,Entire home/apt,199.2,USD,1,22,1.42,2025-07-31,4.19,2.0,6,3.0,5.0,290
+AB500359,10124,Barcelona,Sants-Montjuïc,Entire home/apt,101.31,EUR,3,3,0.68,2025-08-18,4.65,6.0,5,2.0,2.0,280
+AB500360,10653,New York,Manhattan,Entire home/apt,56.14,USD,2,4,0.67,2025-12-16,4.81,3.0,7,4.0,5.0,143
+AB500361,10092,New York,Brooklyn,Hotel room,106.79,USD,2,15,0.48,2026-11-13,4.15,2.0,7,1.0,3.0,352
+AB500362,10623,London,Kensington,Private room,72.4,GBP,2,5,0.48,2025-01-26,4.43,2.0,1,1.0,3.0,35
+AB500363,10141,Paris,Montmartre,Entire home/apt,131.89,EUR,2,1,0.78,2025-03-30,,5.0,6,1.0,1.0,67
+AB500364,10059,Singapore,Orchard,Entire home/apt,137.43,SGD,1,26,0.82,2024-06-07,4.94,4.0,8,1.0,3.0,230
+AB500365,10529,New York,Manhattan,Entire home/apt,208.23,USD,3,4,0.57,2025-02-25,3.95,3.0,4,3.0,3.0,168
+AB500366,10777,Paris,Louvre,Private room,32.75,EUR,5,17,0.41,2026-04-20,5.0,2.0,3,1.0,2.0,254
+AB500367,10578,Barcelona,Sants-Montjuïc,Entire home/apt,53.11,EUR,5,4,1.18,2026-03-22,4.22,3.0,6,1.0,1.0,72
+AB500368,10234,Tokyo,Shibuya,Entire home/apt,104.93,JPY,5,4,0.25,2026-09-12,4.75,3.0,5,4.0,4.0,4
+AB500369,10074,New York,Brooklyn,Entire home/apt,117.27,USD,30,3,1.16,2026-08-10,4.44,2.0,4,0.0,2.0,19
+AB500370,10218,Dubai,Jumeirah,Private room,23.93,AED,7,13,0.33,2024-02-27,4.59,2.0,2,2.0,2.0,173
+AB500371,10713,London,Kensington,Entire home/apt,140.43,GBP,3,0,,,,4.0,3,4.0,5.0,250
+AB500372,10582,Tokyo,Shibuya,Entire home/apt,213.29,JPY,1,10,0.46,2024-02-12,4.02,3.0,4,1.0,3.0,283
+AB500373,10384,Tokyo,Shibuya,Entire home/apt,80.2,JPY,7,3,1.8,2025-12-25,4.99,2.0,3,4.0,4.0,48
+AB500374,10025,Paris,Le Marais,Entire home/apt,57.65,EUR,1,23,2.05,2026-09-09,4.61,2.0,3,4.0,6.0,255
+AB500375,10239,Paris,,Entire home/apt,68.64,EUR,7,5,0.38,2023-11-26,4.61,3.0,6,1.0,3.0,283
+AB500376,10532,Singapore,Orchard,Private room,40.81,SGD,3,6,0.53,2024-04-03,4.58,1.0,1,1.0,3.0,158
+AB500377,10034,Dubai,Downtown,Private room,134.16,AED,5,14,0.12,2025-09-23,4.74,3.0,2,1.0,2.0,61
+AB500378,10395,London,Islington,Private room,105.43,GBP,1,1,0.19,2026-10-24,,3.0,1,1.0,2.0,310
+AB500379,10335,London,Westminster,Hotel room,123.45,GBP,5,0,,,,3.0,8,3.0,5.0,198
+AB500380,10244,Paris,Le Marais,Entire home/apt,50.62,EUR,1,3,0.44,2026-02-27,4.94,6.0,6,2.0,4.0,295
+AB500381,10635,Barcelona,Gràcia,Private room,63.31,EUR,1,5,0.6,2025-01-20,4.53,4.0,3,1.0,2.0,319
+AB500382,10100,Tokyo,Taito,Entire home/apt,76.71,JPY,3,6,0.37,2026-08-09,4.46,2.0,1,2.0,2.0,75
+AB500383,10804,Sydney,Manly,Entire home/apt,203.22,AUD,5,28,0.41,2026-03-12,4.54,2.0,2,2.0,2.0,345
+AB500384,10198,Sydney,Newtown,Entire home/apt,122.64,AUD,3,6,0.63,2026-03-05,3.8,8.0,8,2.0,3.0,89
+AB500385,10010,Paris,Louvre,Entire home/apt,91.94,EUR,1,5,0.35,2024-01-30,4.88,5.0,4,3.0,3.0,231
+AB500386,10572,Sydney,Surry Hills,Entire home/apt,91.51,AUD,2,16,1.47,2026-06-30,4.86,2.0,7,4.0,6.0,223
+AB500387,10297,Dubai,Dubai Marina,Entire home/apt,101.29,AED,3,3,0.19,2026-02-03,4.45,5.0,1,1.0,3.0,247
+AB500388,10567,Tokyo,Minato,Entire home/apt,144.86,JPY,1,12,0.23,2026-09-20,4.32,2.0,8,1.0,3.0,166
+AB500389,10691,London,Camden,Entire home/apt,66.32,GBP,3,18,0.21,2025-09-28,4.89,3.0,2,3.0,3.0,62
+AB500390,10441,Barcelona,Gràcia,Entire home/apt,141.18,EUR,5,14,0.58,2026-10-12,4.68,6.0,1,2.0,2.0,75
+AB500391,10415,Barcelona,Ciutat Vella,Entire home/apt,227.63,EUR,2,12,0.71,2026-07-21,4.62,3.0,7,3.0,3.0,81
+AB500392,10391,Barcelona,Ciutat Vella,Entire home/apt,96.14,EUR,5,6,1.14,2026-11-14,4.66,3.0,1,,1.0,24
+AB500393,10494,Sydney,Bondi,Entire home/apt,880.87,AUD,2,18,0.02,2024-06-04,4.54,6.0,2,3.0,4.0,7
+AB500394,10353,London,Islington,Entire home/apt,75.34,GBP,2,1,0.9,2026-11-07,,2.0,4,1.0,3.0,194
+AB500395,10696,London,Camden,Entire home/apt,162.57,GBP,3,17,1.62,2026-08-09,4.66,2.0,5,2.0,3.0,209
+AB500396,10096,Tokyo,Taito,Private room,40.91,JPY,5,20,1.15,2026-06-23,4.45,2.0,1,1.0,2.0,314
+AB500397,10739,London,Islington,Entire home/apt,144.41,GBP,1,1,0.35,2025-06-15,,5.0,1,3.0,5.0,6
+AB500398,10770,New York,Bronx,Private room,45.69,USD,1,4,2.28,2025-06-19,4.8,6.0,1,,1.0,358
+AB500399,10045,Dubai,Downtown,Private room,53.78,AED,3,1,0.58,2024-08-22,,4.0,1,1.0,1.0,212
+AB500400,10506,Dubai,Dubai Marina,Entire home/apt,137.28,AED,3,3,1.41,2026-08-13,4.79,2.0,6,1.0,2.0,112
+AB500401,10679,Tokyo,Shinjuku,Entire home/apt,73.67,JPY,7,2,0.26,2026-02-11,,4.0,4,0.0,2.0,181
+AB500402,10723,Tokyo,Shinjuku,Private room,62.93,JPY,7,4,0.16,2024-05-02,4.81,3.0,1,1.0,3.0,30
+AB500403,10798,Paris,Latin Quarter,Entire home/apt,71.53,EUR,5,13,0.78,2026-02-12,4.92,7.0,1,3.0,3.0,321
+AB500404,10083,Tokyo,Minato,Entire home/apt,81.22,JPY,1,7,0.12,2025-04-28,4.45,3.0,4,1.0,2.0,159
+AB500405,10356,London,Camden,Entire home/apt,103.67,GBP,1,53,0.77,2024-02-19,4.61,4.0,4,1.0,3.0,278
+AB500406,10683,Dubai,Dubai Marina,Entire home/apt,60.27,AED,2,11,0.67,2025-08-25,3.98,4.0,8,,5.0,208
+AB500407,10246,London,Hackney,Hotel room,125.25,GBP,7,0,,,,2.0,6,2.0,4.0,316
+AB500408,10581,Paris,Belleville,Private room,53.3,EUR,30,13,0.83,2026-05-19,4.61,5.0,1,1.0,1.0,46
+AB500409,10794,Barcelona,Ciutat Vella,Private room,27.01,EUR,3,0,,,,6.0,2,1.0,2.0,224
+AB500410,10763,Sydney,Newtown,Entire home/apt,113.68,AUD,1,10,1.19,2026-06-29,4.22,2.0,1,4.0,5.0,182
+AB500411,10261,Barcelona,Sant Martí,Private room,23.42,EUR,7,24,0.87,2024-10-28,4.83,2.0,1,2.0,3.0,346
+AB500412,10684,New York,Manhattan,Entire home/apt,111.83,USD,2,10,1.03,2024-05-27,3.89,5.0,2,3.0,3.0,154
+AB500413,10221,New York,Brooklyn,Entire home/apt,188.58,USD,3,31,1.48,2024-03-03,4.38,1.0,3,3.0,3.0,7
+AB500414,10557,Dubai,Deira,Private room,105.11,AED,2,12,1.53,2025-12-22,3.53,4.0,2,1.0,1.0,276
+AB500415,10097,New York,Manhattan,Private room,102.58,USD,1,11,1.02,2024-11-11,3.82,3.0,2,1.0,1.0,190
+AB500416,10317,Paris,Le Marais,Entire home/apt,66.41,EUR,7,10,0.4,2025-02-20,4.88,3.0,5,1.0,1.0,309
+AB500417,10729,Tokyo,Taito,Hotel room,129.31,JPY,1,18,0.71,2026-09-14,4.7,2.0,8,3.0,4.0,231
+AB500418,10543,Paris,Belleville,Entire home/apt,150.91,EUR,3,2,0.16,2025-11-18,,4.0,1,2.0,2.0,187
+AB500419,10796,Paris,Latin Quarter,Entire home/apt,108.79,EUR,3,0,,,,3.0,8,4.0,4.0,346
+AB500420,10579,London,Hackney,Private room,44.53,GBP,3,21,0.73,2024-08-24,4.37,4.0,3,2.0,2.0,13
+AB500421,10629,Paris,Montmartre,Private room,37.79,EUR,3,4,1.19,2024-10-21,4.31,3.0,2,2.0,2.0,220
+AB500422,10123,Tokyo,Setagaya,Private room,63.77,JPY,1,10,1.12,2025-04-11,5.0,3.0,2,1.0,2.0,80
+AB500423,10809,Tokyo,Minato,Entire home/apt,114.69,JPY,2,24,0.39,2024-06-29,4.3,3.0,2,0.0,1.0,222
+AB500424,10482,Tokyo,Minato,Private room,35.07,JPY,5,3,0.98,2025-07-15,4.29,3.0,3,1.0,2.0,145
+AB500425,10744,Dubai,Downtown,Entire home/apt,238.74,AED,3,16,0.63,2026-04-23,4.06,3.0,4,2.0,,26
+AB500426,10052,Dubai,Business Bay,Private room,154.96,AED,3,2,0.74,2025-04-28,,4.0,1,1.0,3.0,173
+AB500427,10076,Barcelona,Ciutat Vella,Shared room,15.0,EUR,3,7,0.5,2025-06-16,5.0,4.0,2,0.0,2.0,15
+AB500428,10190,London,Westminster,Hotel room,138.37,GBP,3,8,0.41,2026-09-30,4.36,3.0,8,0.0,1.0,236
+AB500429,10219,Singapore,Marina Bay,Entire home/apt,167.53,SGD,1,17,0.99,2026-11-12,4.67,4.0,2,3.0,3.0,40
+AB500430,10694,Sydney,Manly,Private room,75.1,AUD,1,3,1.14,2023-11-25,4.62,2.0,2,1.0,2.0,280
+AB500431,10284,New York,Queens,Entire home/apt,179.92,USD,5,13,0.43,2026-04-17,4.95,4.0,3,4.0,5.0,249
+AB500432,10456,London,Camden,Private room,50.18,GBP,1,8,0.5,2025-09-07,4.26,3.0,3,1.0,3.0,16
+AB500433,10749,Barcelona,Ciutat Vella,Private room,59.0,EUR,5,10,0.28,2024-05-19,5.0,5.0,2,1.0,1.0,331
+AB500434,10179,Tokyo,Taito,Private room,45.83,JPY,1,12,0.57,2026-07-27,4.68,4.0,2,1.0,3.0,301
+AB500435,10766,Barcelona,Sants-Montjuïc,Entire home/apt,111.67,EUR,14,8,1.87,2023-12-24,5.0,5.0,1,2.0,3.0,258
+AB500436,10347,Paris,Louvre,Private room,75.09,EUR,5,2,0.06,2024-11-14,,4.0,1,1.0,1.0,266
+AB500437,10396,Paris,Latin Quarter,Entire home/apt,103.12,EUR,2,5,0.36,2024-12-23,4.79,3.0,7,0.0,1.0,8
+AB500438,10623,Tokyo,Setagaya,Entire home/apt,173.9,JPY,5,0,,,,2.0,2,2.0,3.0,77
+AB500439,10461,Paris,Belleville,Private room,46.31,EUR,7,12,0.21,2024-08-02,4.07,4.0,2,1.0,2.0,109
+AB500440,10657,London,Islington,Entire home/apt,112.54,GBP,2,7,0.39,2026-03-11,5.0,4.0,5,1.0,2.0,127
+AB500441,10297,Dubai,Business Bay,Private room,54.37,AED,3,2,1.5,2026-08-28,,4.0,2,1.0,1.0,131
+AB500442,10487,New York,Queens,Entire home/apt,107.28,USD,3,17,0.51,2024-04-16,4.1,2.0,7,4.0,4.0,268
+AB500443,10593,Singapore,Marina Bay,Entire home/apt,130.88,SGD,3,1,0.64,2025-10-14,,2.0,2,0.0,1.0,292
+AB500444,10835,London,Islington,Private room,91.5,GBP,1,19,0.51,2023-12-15,3.71,6.0,3,1.0,2.0,354
+AB500445,10134,Paris,Montmartre,Entire home/apt,89.06,EUR,30,9,0.4,2024-12-03,5.0,8.0,6,2.0,4.0,197
+AB500446,10054,New York,Brooklyn,Shared room,37.56,USD,3,10,0.84,2024-01-29,4.84,3.0,1,0.0,1.0,246
+AB500447,10279,Paris,Latin Quarter,Private room,50.01,EUR,7,4,0.24,2026-08-31,4.48,5.0,3,1.0,2.0,303
+AB500448,10737,Dubai,Dubai Marina,Private room,79.49,AED,1,1,0.3,2026-09-30,,3.0,1,1.0,2.0,188
+AB500449,10790,Paris,Latin Quarter,Private room,45.3,EUR,30,6,0.72,2024-06-01,4.31,3.0,2,1.0,3.0,306
+AB500450,10075,New York,Queens,Entire home/apt,199.8,USD,7,1,0.13,2025-07-23,,4.0,7,0.0,1.0,75
+AB500451,10135,Barcelona,Ciutat Vella,Entire home/apt,76.08,EUR,30,10,0.5,2026-05-03,4.75,1.0,7,4.0,6.0,109
+AB500452,10003,Paris,Louvre,Entire home/apt,70.18,EUR,14,18,0.73,2025-11-08,4.53,5.0,8,4.0,6.0,207
+AB500453,10391,Paris,Montmartre,Entire home/apt,38.44,EUR,2,17,0.92,2024-01-19,4.01,5.0,5,4.0,4.0,110
+AB500454,10074,New York,Brooklyn,Private room,118.87,USD,14,6,0.17,2024-07-17,5.0,8.0,1,1.0,3.0,18
+AB500455,10313,New York,Bronx,Entire home/apt,169.68,USD,14,3,1.08,2024-02-16,4.48,3.0,8,,1.0,229
+AB500456,10323,London,Camden,Entire home/apt,79.8,GBP,1,4,0.63,2026-09-16,4.54,4.0,3,4.0,5.0,85
+AB500457,10311,New York,Queens,Entire home/apt,122.71,USD,5,12,1.03,2024-09-01,4.4,4.0,2,0.0,1.0,38
+AB500458,10462,Paris,Louvre,Entire home/apt,96.97,EUR,3,0,,,,4.0,7,0.0,1.0,346
+AB500459,10126,Barcelona,Sants-Montjuïc,Entire home/apt,48.26,EUR,7,3,0.32,2026-08-30,5.0,4.0,3,3.0,5.0,51
+AB500460,10207,London,Kensington,Entire home/apt,35.09,GBP,14,16,0.48,2024-02-06,4.65,2.0,2,1.0,1.0,72
+AB500461,10287,New York,Brooklyn,Private room,28.14,USD,3,10,2.12,2025-06-06,4.96,2.0,3,1.0,2.0,249
+AB500462,10624,Tokyo,Taito,Entire home/apt,129.43,JPY,7,4,0.7,2023-12-04,4.0,2.0,2,4.0,4.0,142
+AB500463,10394,Barcelona,Gràcia,Entire home/apt,282.76,EUR,2,5,0.58,2024-07-30,4.76,4.0,2,3.0,5.0,330
+AB500464,10608,Barcelona,Sants-Montjuïc,Private room,32.89,EUR,3,1,0.62,2026-05-12,,3.0,3,1.0,3.0,359
+AB500465,10041,Tokyo,Minato,Entire home/apt,174.17,JPY,1,15,0.68,2026-07-21,5.0,4.0,6,2.0,2.0,307
+AB500466,10335,Barcelona,Sants-Montjuïc,Entire home/apt,122.98,EUR,7,9,0.18,2025-03-22,4.74,2.0,1,2.0,3.0,310
+AB500467,10597,Dubai,Downtown,Entire home/apt,114.69,AED,2,12,0.61,2025-05-17,4.57,4.0,6,4.0,5.0,49
+AB500468,10746,Singapore,Little India,Entire home/apt,203.92,SGD,14,10,0.8,2026-08-28,4.53,3.0,4,2.0,2.0,183
+AB500469,10739,Singapore,Little India,Entire home/apt,146.53,SGD,1,12,0.7,2025-11-30,4.53,3.0,4,0.0,1.0,76
+AB500470,10189,Sydney,Bondi,Private room,78.82,AUD,5,7,0.33,2026-06-26,4.15,3.0,1,2.0,2.0,229
+AB500471,10247,Barcelona,Eixample,Entire home/apt,60.99,EUR,5,4,0.78,2024-06-01,5.0,4.0,1,2.0,4.0,97
+AB500472,10016,Barcelona,Sants-Montjuïc,Entire home/apt,108.31,EUR,1,5,0.67,2025-12-02,4.22,4.0,4,4.0,5.0,144
+AB500473,10251,Dubai,Dubai Marina,Private room,73.18,AED,2,32,0.05,2024-04-16,4.84,5.0,1,1.0,3.0,94
+AB500474,10511,London,Hackney,Private room,160.17,GBP,1,3,0.42,2024-02-12,4.6,1.0,1,1.0,2.0,360
+AB500475,10677,Tokyo,Shibuya,Entire home/apt,253.79,JPY,3,8,0.43,2025-07-09,4.69,1.0,7,2.0,3.0,93
+AB500476,10452,Singapore,Orchard,Entire home/apt,156.67,SGD,1,14,1.07,2025-02-05,4.64,2.0,3,0.0,1.0,94
+AB500477,10649,New York,Bronx,Private room,108.8,USD,1,13,0.21,2025-08-31,4.7,3.0,3,1.0,3.0,191
+AB500478,10028,Dubai,Deira,Private room,61.25,AED,5,3,0.37,2024-02-18,4.25,5.0,2,1.0,3.0,158
+AB500479,10134,Tokyo,Minato,Entire home/apt,62.31,JPY,2,12,1.32,2024-08-11,4.79,4.0,1,1.0,3.0,61
+AB500480,10344,Tokyo,Minato,Entire home/apt,32.59,JPY,2,9,0.11,2025-08-31,4.92,6.0,1,2.0,4.0,227
+AB500481,10626,Singapore,Little India,Entire home/apt,132.16,SGD,3,11,0.7,2025-04-11,4.74,2.0,2,2.0,2.0,81
+AB500482,10040,Singapore,Orchard,Private room,58.25,SGD,3,20,0.31,2026-07-27,4.14,5.0,3,1.0,1.0,364
+AB500483,10327,Paris,Louvre,Entire home/apt,133.55,EUR,2,15,0.15,2024-05-23,4.87,3.0,6,3.0,3.0,227
+AB500484,10005,New York,Staten Island,Private room,83.07,USD,30,6,0.12,2026-02-28,4.84,5.0,1,1.0,1.0,92
+AB500485,10023,Singapore,Bugis,Private room,40.96,SGD,3,2,0.92,2026-10-25,,2.0,1,1.0,3.0,45
+AB500486,10565,Barcelona,Ciutat Vella,Shared room,38.71,EUR,3,4,1.91,2025-01-21,3.97,2.0,2,0.0,1.0,200
+AB500487,10703,Barcelona,Sants-Montjuïc,Private room,88.11,EUR,30,2,0.07,2026-08-29,,4.0,2,1.0,2.0,321
+AB500488,10452,Dubai,Dubai Marina,Entire home/apt,71.82,AED,2,14,0.35,2026-11-15,4.95,2.0,8,0.0,1.0,241
+AB500489,10576,Paris,Montmartre,Entire home/apt,81.8,EUR,2,2,0.69,2026-07-15,,3.0,5,0.0,1.0,291
+AB500490,10233,Paris,Le Marais,Hotel room,72.82,EUR,2,4,2.02,2026-07-09,4.34,2.0,8,2.0,4.0,333
+AB500491,10437,Tokyo,Taito,Entire home/apt,75.01,JPY,1,9,1.11,2026-10-29,4.48,4.0,2,0.0,2.0,221
+AB500492,10662,Singapore,Marina Bay,Entire home/apt,165.48,SGD,7,13,0.6,2024-05-26,4.72,2.0,1,0.0,1.0,358
+AB500493,10426,New York,Staten Island,Entire home/apt,343.06,USD,1,4,0.15,2024-11-10,4.43,2.0,1,3.0,3.0,8
+AB500494,10747,Dubai,Dubai Marina,Private room,186.82,AED,1,2,0.54,2025-06-28,,4.0,2,1.0,3.0,157
+AB500495,10389,Dubai,Business Bay,Shared room,46.03,AED,5,5,0.35,2025-10-28,5.0,2.0,1,0.0,1.0,98
+AB500496,10058,New York,Manhattan,Private room,80.06,USD,2,11,0.47,2026-10-31,4.53,4.0,1,1.0,1.0,235
+AB500497,10252,New York,Manhattan,Entire home/apt,252.41,USD,3,4,1.52,2024-02-21,4.7,4.0,2,2.0,,75
+AB500498,10661,Tokyo,Shibuya,Entire home/apt,55.29,JPY,30,16,0.7,2024-10-08,4.77,5.0,8,3.0,3.0,120
+AB500499,10272,Barcelona,Sant Martí,Entire home/apt,71.57,EUR,3,12,0.7,2026-04-18,4.15,2.0,2,2.0,4.0,250
+AB500500,10111,Barcelona,Ciutat Vella,Private room,34.34,EUR,2,6,0.3,2026-04-16,4.52,4.0,1,1.0,1.0,333
+AB500501,10405,London,Islington,Private room,70.25,GBP,1,12,0.94,2025-03-10,4.89,5.0,2,2.0,4.0,166
+AB500502,10023,Sydney,,Private room,136.69,AUD,7,6,1.61,2025-01-03,4.23,3.0,2,1.0,3.0,226
+AB500503,10312,London,Westminster,Entire home/apt,45.64,GBP,2,4,0.56,2025-11-13,4.93,3.0,8,2.0,3.0,362
+AB500504,10739,Dubai,Downtown,Entire home/apt,125.52,AED,3,20,0.63,2025-02-21,5.0,2.0,6,0.0,2.0,267
+AB500505,10130,Barcelona,Gràcia,Private room,145.14,EUR,3,7,0.18,2024-09-01,4.89,7.0,3,1.0,2.0,282
+AB500506,10251,New York,Brooklyn,Entire home/apt,455.03,USD,7,1,0.81,2024-02-22,,3.0,1,2.0,3.0,182
+AB500507,10443,London,Kensington,Private room,22.39,GBP,14,3,0.38,2026-05-27,4.66,2.0,3,2.0,2.0,30
+AB500508,10649,Paris,Belleville,Entire home/apt,88.64,EUR,1,11,0.15,2024-10-27,5.0,3.0,7,3.0,4.0,266
+AB500509,10687,Paris,Belleville,Private room,50.87,EUR,3,14,0.33,2026-06-13,4.68,2.0,1,1.0,1.0,258
+AB500510,10247,Singapore,Chinatown,Private room,58.92,SGD,7,4,1.28,2026-08-11,3.9,3.0,2,1.0,2.0,228
+AB500511,10815,Barcelona,Gràcia,Entire home/apt,42.37,EUR,1,13,0.13,2026-01-30,4.55,5.0,4,1.0,2.0,290
+AB500512,10300,Singapore,Marina Bay,Entire home/apt,129.9,SGD,3,8,0.36,2025-11-09,4.71,2.0,2,1.0,,126
+AB500513,10817,New York,Queens,Private room,93.71,USD,30,1,0.93,2026-10-18,,5.0,3,1.0,3.0,183
+AB500514,10303,Dubai,Deira,Entire home/apt,284.55,AED,5,6,0.16,2025-05-27,4.57,4.0,8,1.0,3.0,226
+AB500515,10775,Sydney,Manly,Shared room,59.83,AUD,2,6,0.29,2024-11-20,4.62,4.0,1,0.0,1.0,252
+AB500516,10080,Dubai,Business Bay,Entire home/apt,117.67,AED,3,17,0.4,2024-05-12,4.1,2.0,6,4.0,5.0,124
+AB500517,10521,Sydney,Bondi,Entire home/apt,162.45,AUD,1,5,1.03,2025-08-28,4.75,2.0,3,2.0,4.0,59
+AB500518,10741,Sydney,Surry Hills,Entire home/apt,83.69,AUD,3,10,0.48,2023-12-02,4.35,4.0,6,4.0,6.0,363
+AB500519,10249,Dubai,Deira,Entire home/apt,142.74,AED,3,10,0.13,2026-06-14,4.93,3.0,2,2.0,2.0,104
+AB500520,10482,Dubai,Jumeirah,Private room,47.56,AED,5,9,0.5,2025-09-01,4.12,5.0,3,1.0,1.0,39
+AB500521,10334,New York,Bronx,Private room,83.72,USD,30,3,0.25,2025-01-06,4.34,2.0,1,1.0,3.0,255
+AB500522,10677,Singapore,Bugis,Entire home/apt,94.44,SGD,2,16,0.47,2025-04-24,4.51,3.0,6,0.0,2.0,79
+AB500523,10482,New York,Queens,Shared room,32.49,USD,2,0,,,,3.0,2,0.0,1.0,142
+AB500524,10607,New York,Queens,Private room,20.97,USD,1,0,,,,4.0,2,1.0,2.0,39
+AB500525,10258,Paris,Belleville,Private room,38.83,EUR,2,4,0.84,2025-05-08,4.15,2.0,1,1.0,1.0,168
+AB500526,10741,London,Camden,Entire home/apt,86.18,GBP,2,9,0.72,2025-10-11,4.99,2.0,4,3.0,4.0,58
+AB500527,10186,New York,Staten Island,Entire home/apt,44.41,USD,5,11,0.44,2024-04-16,5.0,3.0,4,3.0,4.0,326
+AB500528,10328,Dubai,,Private room,84.19,AED,2,2,0.53,2024-11-13,,3.0,3,2.0,4.0,78
+AB500529,10576,New York,Queens,Entire home/apt,100.74,USD,1,3,1.45,2024-12-06,4.95,4.0,5,0.0,1.0,327
+AB500530,10286,Barcelona,Sants-Montjuïc,Private room,99.08,EUR,1,5,0.54,2026-05-13,5.0,2.0,3,1.0,2.0,79
+AB500531,10132,Singapore,Chinatown,Private room,82.01,SGD,14,29,1.39,2024-06-03,4.86,4.0,1,2.0,4.0,92
+AB500532,10476,London,Kensington,Entire home/apt,168.74,GBP,1,1,0.64,2026-08-06,,4.0,7,4.0,4.0,361
+AB500533,10228,London,Hackney,Entire home/apt,204.45,GBP,1,3,0.38,2025-08-09,4.57,3.0,6,1.0,3.0,110
+AB500534,10841,Barcelona,Eixample,Entire home/apt,125.76,EUR,2,6,0.35,2026-05-04,4.56,1.0,2,2.0,2.0,166
+AB500535,10829,Barcelona,Ciutat Vella,Entire home/apt,21.28,EUR,3,11,0.36,2026-05-06,4.34,4.0,1,1.0,2.0,353
+AB500536,10834,New York,Brooklyn,Private room,135.68,USD,2,1,0.32,2024-09-17,,4.0,3,1.0,2.0,6
+AB500537,10025,London,Kensington,Entire home/apt,77.02,GBP,30,14,0.07,2024-06-14,3.81,5.0,7,4.0,4.0,176
+AB500538,10402,Sydney,Surry Hills,Private room,28.6,AUD,1,23,0.62,2025-05-21,4.15,1.0,1,2.0,2.0,355
+AB500539,10701,Dubai,Jumeirah,Entire home/apt,169.21,AED,3,0,,,,1.0,2,0.0,1.0,156
+AB500540,10549,Sydney,Surry Hills,Entire home/apt,70.81,AUD,7,9,0.39,2026-10-10,4.55,3.0,2,0.0,2.0,282
+AB500541,10223,London,Islington,Private room,51.78,GBP,1,16,0.45,2026-02-19,4.12,3.0,1,1.0,3.0,135
+AB500542,10762,London,Islington,Private room,54.87,GBP,2,3,0.65,2024-03-28,4.34,3.0,2,1.0,2.0,21
+AB500543,10652,Barcelona,Gràcia,Entire home/apt,89.01,EUR,2,9,0.44,2025-08-19,4.59,3.0,2,0.0,1.0,18
+AB500544,10086,Dubai,Business Bay,Entire home/apt,93.83,AED,2,25,0.5,2026-03-11,3.97,4.0,8,0.0,1.0,95
+AB500545,10172,New York,Bronx,Entire home/apt,200.32,USD,3,1,0.52,2024-05-24,,2.0,4,0.0,1.0,84
+AB500546,10381,New York,Staten Island,Entire home/apt,96.78,USD,30,14,1.29,2026-06-03,4.66,6.0,7,1.0,3.0,182
+AB500547,10204,Singapore,Little India,Entire home/apt,136.84,SGD,5,12,0.17,2025-01-06,4.95,3.0,5,0.0,1.0,51
+AB500548,10262,Singapore,Marina Bay,Entire home/apt,479.68,SGD,2,3,0.89,2024-01-05,4.21,4.0,8,0.0,1.0,178
+AB500549,10776,London,Hackney,Private room,33.4,GBP,5,21,0.74,2026-09-16,5.0,1.0,3,1.0,1.0,322
+AB500550,10583,Tokyo,Setagaya,Private room,18.63,JPY,7,11,0.3,2025-10-22,4.61,5.0,2,1.0,1.0,50
+AB500551,10539,New York,Bronx,Shared room,41.85,USD,5,6,0.52,2026-04-08,4.88,6.0,2,0.0,1.0,289
+AB500552,10011,London,Islington,Entire home/apt,160.85,GBP,1,4,0.35,2026-07-07,4.46,4.0,5,4.0,4.0,85
+AB500553,10098,New York,Manhattan,Entire home/apt,84.88,USD,5,2,1.14,2024-12-16,,2.0,5,4.0,5.0,309
+AB500554,10652,London,Westminster,Entire home/apt,178.82,GBP,5,3,0.67,2025-03-08,4.67,3.0,5,1.0,3.0,91
+AB500555,10270,New York,Staten Island,Entire home/apt,181.85,USD,3,15,0.24,2023-11-19,4.82,2.0,3,0.0,1.0,330
+AB500556,10700,Paris,Montmartre,Private room,51.1,EUR,3,2,1.73,2024-11-12,,2.0,2,1.0,2.0,89
+AB500557,10473,Paris,Le Marais,Entire home/apt,161.1,EUR,2,12,0.77,2025-04-06,4.49,3.0,4,0.0,2.0,158
+AB500558,10469,Barcelona,Sants-Montjuïc,Private room,76.51,EUR,3,13,0.35,2025-06-09,4.6,3.0,3,1.0,2.0,4
+AB500559,10497,Singapore,Marina Bay,Entire home/apt,110.66,SGD,1,0,,,,3.0,2,2.0,2.0,64
+AB500560,10719,London,Islington,Private room,62.93,GBP,1,3,1.01,2024-07-24,4.74,1.0,2,1.0,1.0,241
+AB500561,10156,Sydney,Manly,Entire home/apt,142.91,AUD,2,13,1.81,2026-06-10,4.41,4.0,8,1.0,2.0,318
+AB500562,10512,London,Islington,Entire home/apt,72.26,GBP,2,7,0.35,2024-04-23,4.84,4.0,7,0.0,1.0,201
+AB500563,10532,Paris,Louvre,Entire home/apt,107.71,EUR,2,7,0.21,2025-10-21,4.0,3.0,6,,1.0,294
+AB500564,10239,Tokyo,Shibuya,Entire home/apt,72.52,JPY,2,13,0.58,2025-03-29,4.33,3.0,4,1.0,2.0,180
+AB500565,10732,Paris,Belleville,Private room,24.24,EUR,1,17,1.04,2025-06-28,4.93,4.0,2,1.0,2.0,314
+AB500566,10329,Barcelona,Gràcia,Private room,44.06,EUR,5,12,0.74,2023-12-11,4.68,2.0,1,1.0,2.0,328
+AB500567,10413,New York,Staten Island,Private room,39.58,USD,1,13,0.62,2026-06-30,3.91,1.0,1,1.0,2.0,168
+AB500568,10487,Singapore,Chinatown,Entire home/apt,97.86,SGD,2,13,1.44,2025-01-05,4.29,4.0,8,4.0,4.0,348
+AB500569,10596,New York,Manhattan,Entire home/apt,295.04,USD,5,12,0.87,2025-06-09,4.9,2.0,1,0.0,2.0,244
+AB500570,10012,London,Westminster,Shared room,31.99,GBP,14,1,0.59,2025-07-13,,5.0,1,0.0,2.0,360
+AB500571,10749,Barcelona,Sant Martí,Entire home/apt,124.12,EUR,2,7,0.4,2025-01-04,4.63,2.0,1,3.0,4.0,79
+AB500572,10461,New York,Staten Island,Shared room,42.68,USD,5,9,0.29,2025-12-26,5.0,3.0,2,0.0,1.0,113
+AB500573,10202,London,Islington,Private room,79.4,GBP,5,9,0.42,2025-11-23,4.07,3.0,1,1.0,3.0,208
+AB500574,10004,Sydney,Bondi,Entire home/apt,98.7,AUD,1,7,0.89,2025-12-14,4.1,1.0,6,2.0,4.0,165
+AB500575,10039,New York,Queens,Shared room,26.93,USD,3,6,0.9,2024-04-06,4.87,2.0,1,0.0,1.0,206
+AB500576,10538,Paris,Montmartre,Private room,17.46,EUR,3,5,0.44,2024-01-15,4.2,2.0,2,1.0,2.0,205
+AB500577,10045,Barcelona,Gràcia,Entire home/apt,133.25,EUR,5,4,0.22,2024-08-01,4.53,3.0,5,1.0,1.0,58
+AB500578,10285,Singapore,Orchard,Private room,67.98,SGD,3,20,0.26,2024-02-06,4.38,4.0,2,1.0,3.0,166
+AB500579,10795,New York,Manhattan,Entire home/apt,111.48,USD,14,3,0.95,2023-12-03,4.31,6.0,1,3.0,5.0,128
+AB500580,10499,New York,Brooklyn,Private room,43.05,USD,1,0,,,,4.0,3,1.0,1.0,114
+AB500581,10547,New York,Staten Island,Shared room,115.12,USD,3,45,3.03,2024-10-25,4.57,2.0,1,0.0,2.0,196
+AB500582,10100,New York,Manhattan,Entire home/apt,146.21,USD,3,3,0.09,2026-03-11,4.62,3.0,2,4.0,4.0,302
+AB500583,10452,Paris,Latin Quarter,Entire home/apt,134.45,EUR,5,3,0.61,2023-11-29,4.73,5.0,4,0.0,2.0,343
+AB500584,10184,Dubai,Business Bay,Entire home/apt,76.7,AED,7,0,,,,2.0,7,3.0,3.0,134
+AB500585,10476,Paris,Montmartre,Private room,87.59,EUR,5,17,0.55,2026-09-12,4.53,3.0,1,1.0,1.0,267
+AB500586,10355,Tokyo,Shinjuku,Entire home/apt,145.14,JPY,1,10,0.15,2024-08-15,4.93,2.0,1,3.0,4.0,269
+AB500587,10449,Singapore,Marina Bay,Private room,83.36,SGD,1,13,1.26,2026-06-29,4.36,9.0,3,1.0,3.0,122
+AB500588,10578,Tokyo,Shibuya,Entire home/apt,160.49,JPY,5,5,0.95,2025-08-04,4.68,3.0,4,3.0,3.0,325
+AB500589,10491,Singapore,Little India,Private room,40.93,SGD,1,4,0.61,2025-01-13,4.12,2.0,2,1.0,1.0,217
+AB500590,10837,Dubai,Deira,Entire home/apt,140.28,AED,3,5,1.55,2024-04-03,4.32,5.0,8,4.0,5.0,290
+AB500591,10465,Paris,,Entire home/apt,110.32,EUR,2,9,0.89,2025-11-12,4.24,2.0,2,0.0,2.0,45
+AB500592,10391,Barcelona,Gràcia,Entire home/apt,161.3,EUR,3,1,2.04,2024-10-07,,2.0,7,0.0,1.0,205
+AB500593,10701,Paris,Latin Quarter,Private room,129.28,EUR,3,9,0.78,2024-02-03,5.0,3.0,3,,1.0,216
+AB500594,10551,Dubai,Downtown,Entire home/apt,69.16,AED,2,4,0.44,2025-03-20,4.68,5.0,4,2.0,3.0,123
+AB500595,10408,Sydney,Newtown,Entire home/apt,216.42,AUD,3,15,0.28,2025-04-10,4.2,1.0,5,1.0,1.0,36
+AB500596,10797,Paris,Le Marais,Private room,22.6,EUR,3,4,0.28,2024-11-10,4.21,4.0,3,1.0,1.0,361
+AB500597,10131,Singapore,Little India,Entire home/apt,214.1,SGD,1,9,0.33,2025-07-16,4.48,1.0,2,3.0,5.0,50
+AB500598,10173,Paris,Montmartre,Private room,84.67,EUR,2,9,0.54,2024-12-12,4.6,3.0,3,2.0,3.0,197
+AB500599,10559,New York,Bronx,Entire home/apt,134.2,USD,14,8,0.29,2025-03-14,4.83,5.0,5,1.0,3.0,211
+AB500600,10840,Tokyo,Taito,Entire home/apt,43.15,JPY,7,12,2.71,2025-05-14,4.98,4.0,6,2.0,2.0,17
+AB500601,10095,London,Kensington,Entire home/apt,121.18,GBP,7,2,0.56,2024-06-09,,4.0,6,4.0,6.0,207
+AB500602,10314,Tokyo,Shinjuku,Entire home/apt,102.14,JPY,7,3,0.53,2025-06-21,4.68,5.0,8,4.0,4.0,89
+AB500603,10251,Barcelona,Ciutat Vella,Private room,104.89,EUR,7,3,0.14,2024-08-04,4.65,3.0,2,1.0,3.0,163
+AB500604,10351,Dubai,Downtown,Entire home/apt,95.46,AED,7,1,0.19,2024-01-23,,2.0,5,3.0,4.0,111
+AB500605,10307,New York,Brooklyn,Entire home/apt,323.37,USD,14,6,0.62,2024-08-21,4.54,6.0,8,0.0,1.0,114
+AB500606,10226,Barcelona,Sants-Montjuïc,Entire home/apt,172.83,EUR,2,1,0.2,2025-08-04,,2.0,4,0.0,1.0,292
+AB500607,10771,Sydney,Surry Hills,Private room,150.9,AUD,2,3,0.54,2024-11-03,4.49,2.0,1,1.0,,27
+AB500608,10122,London,Hackney,Entire home/apt,92.37,GBP,3,5,0.21,2026-05-15,4.01,3.0,2,1.0,3.0,148
+AB500609,10195,New York,Bronx,Entire home/apt,170.54,USD,2,7,0.63,2026-04-10,4.49,4.0,8,1.0,2.0,139
+AB500610,10477,Dubai,Business Bay,Entire home/apt,164.11,AED,1,14,1.19,2026-07-01,4.91,2.0,4,4.0,5.0,319
+AB500611,10643,Paris,Latin Quarter,Private room,48.05,EUR,5,2,1.12,2026-06-25,,2.0,1,1.0,3.0,291
+AB500612,10089,Dubai,Business Bay,Entire home/apt,89.11,AED,7,6,0.47,2025-12-20,4.43,1.0,3,1.0,1.0,202
+AB500613,10302,Tokyo,Setagaya,Entire home/apt,289.65,JPY,2,11,0.5,2024-09-06,4.03,4.0,1,0.0,2.0,266
+AB500614,10109,Singapore,Marina Bay,Entire home/apt,86.71,SGD,1,6,0.06,2025-03-29,4.99,2.0,7,2.0,2.0,108
+AB500615,10807,Dubai,Downtown,Entire home/apt,150.91,AED,2,24,0.61,2025-12-01,4.29,3.0,3,1.0,3.0,322
+AB500616,10847,Dubai,Deira,Private room,136.67,AED,3,3,1.21,2025-10-19,3.92,3.0,1,2.0,4.0,40
+AB500617,10167,Tokyo,Setagaya,Private room,42.89,JPY,1,13,0.28,2025-05-08,4.64,3.0,1,1.0,3.0,172
+AB500618,10627,Barcelona,Eixample,Entire home/apt,85.38,EUR,1,15,0.84,2024-04-25,4.85,4.0,1,1.0,1.0,299
+AB500619,10558,New York,Queens,Entire home/apt,157.05,USD,30,9,1.49,2025-02-20,3.91,3.0,2,1.0,2.0,314
+AB500620,10426,Sydney,Manly,Entire home/apt,82.83,AUD,5,9,1.61,2024-09-28,4.26,2.0,3,2.0,4.0,276
+AB500621,10256,New York,Brooklyn,Private room,89.67,USD,2,9,0.42,2024-12-31,4.09,4.0,1,1.0,3.0,62
+AB500622,10487,London,,Entire home/apt,85.6,GBP,5,5,1.63,2026-08-25,3.9,3.0,1,1.0,2.0,205
+AB500623,10094,New York,Staten Island,Private room,43.9,USD,1,5,0.16,2025-03-20,4.93,3.0,1,1.0,1.0,207
+AB500624,10827,Paris,Latin Quarter,Entire home/apt,41.63,EUR,1,9,0.65,2025-01-13,4.23,3.0,6,3.0,3.0,162
+AB500625,10347,Tokyo,Minato,Shared room,15.72,JPY,3,14,0.32,2026-02-21,4.84,3.0,1,0.0,1.0,170
+AB500626,10101,Barcelona,Sants-Montjuïc,Entire home/apt,187.17,EUR,2,6,0.29,2024-03-31,5.0,4.0,7,3.0,5.0,225
+AB500627,10175,Paris,Latin Quarter,Entire home/apt,193.88,EUR,1,5,0.16,2025-06-06,4.3,4.0,5,4.0,5.0,153
+AB500628,10223,Barcelona,Gràcia,Private room,55.26,EUR,1,6,0.19,2025-06-25,4.13,4.0,1,1.0,3.0,119
+AB500629,10484,Barcelona,Sants-Montjuïc,Entire home/apt,79.4,EUR,1,2,0.06,2024-03-21,,3.0,2,2.0,3.0,206
+AB500630,10160,Paris,Le Marais,Entire home/apt,164.36,EUR,3,17,0.12,2025-10-09,4.81,1.0,6,3.0,3.0,237
+AB500631,10090,Singapore,Bugis,Private room,100.99,SGD,7,4,0.09,2024-12-08,4.42,2.0,2,1.0,1.0,30
+AB500632,10424,London,Hackney,Private room,71.27,GBP,7,4,0.75,2025-11-22,4.94,2.0,3,1.0,2.0,60
+AB500633,10432,London,Camden,Private room,62.57,GBP,2,5,0.54,2025-01-13,5.0,3.0,3,1.0,3.0,5
+AB500634,10091,New York,Staten Island,Shared room,38.12,USD,30,13,1.72,2026-01-22,4.83,2.0,1,0.0,2.0,115
+AB500635,10320,New York,Staten Island,Entire home/apt,380.11,USD,3,18,1.13,2026-01-14,4.35,3.0,1,2.0,2.0,267
+AB500636,10084,New York,Bronx,Shared room,18.19,USD,2,14,0.34,2025-12-24,4.06,2.0,2,0.0,1.0,314
+AB500637,10202,Singapore,Bugis,Entire home/apt,192.06,SGD,5,11,0.29,2025-10-16,4.7,2.0,6,0.0,1.0,248
+AB500638,10157,Tokyo,Setagaya,Entire home/apt,34.62,JPY,5,4,1.26,2025-09-04,3.91,3.0,7,2.0,4.0,329
+AB500639,10081,Barcelona,Sants-Montjuïc,Entire home/apt,137.37,EUR,3,9,0.64,2024-12-04,4.56,1.0,1,4.0,4.0,254
+AB500640,10512,Tokyo,Taito,Entire home/apt,137.38,JPY,3,12,1.23,2026-10-24,4.39,3.0,3,3.0,4.0,244
+AB500641,10420,New York,Manhattan,Entire home/apt,99.55,USD,3,9,1.34,2025-05-20,4.45,3.0,7,0.0,1.0,356
+AB500642,10379,London,Camden,Entire home/apt,194.17,GBP,1,1,0.34,2025-02-16,,4.0,1,0.0,1.0,292
+AB500643,10574,Tokyo,Setagaya,Private room,18.71,JPY,30,13,0.29,2025-02-28,4.83,,1,1.0,3.0,296
+AB500644,10030,Tokyo,Shinjuku,Entire home/apt,201.0,JPY,30,14,0.17,2026-06-06,4.61,3.0,8,1.0,2.0,31
+AB500645,10625,Tokyo,Minato,Entire home/apt,78.58,JPY,14,8,0.51,2026-09-02,5.0,3.0,8,3.0,3.0,263
+AB500646,10647,Dubai,Jumeirah,Hotel room,112.95,AED,30,9,0.07,2026-05-13,4.38,3.0,2,0.0,2.0,338
+AB500647,10045,New York,Brooklyn,Entire home/apt,201.97,USD,3,25,0.19,2024-03-09,4.92,6.0,7,3.0,4.0,184
+AB500648,10054,New York,Bronx,Entire home/apt,167.82,USD,3,10,0.05,2026-02-14,4.52,4.0,6,0.0,2.0,138
+AB500649,10430,Tokyo,Shinjuku,Private room,15.0,JPY,7,7,0.19,2026-06-24,4.03,5.0,3,1.0,2.0,188
+AB500650,10436,New York,Queens,Entire home/apt,63.0,USD,7,10,0.33,2026-08-24,5.0,4.0,5,4.0,5.0,284
+AB500651,10477,London,Camden,Shared room,28.31,GBP,1,9,0.4,2024-04-02,4.38,4.0,2,0.0,,353
+AB500652,10677,London,Hackney,Shared room,33.95,GBP,1,32,1.51,2026-03-14,4.88,1.0,1,0.0,1.0,310
+AB500653,10433,New York,Staten Island,Entire home/apt,84.74,USD,1,5,0.55,2025-10-15,4.19,3.0,7,1.0,2.0,149
+AB500654,10823,Sydney,Surry Hills,Private room,110.88,AUD,5,7,1.44,2026-08-10,4.76,1.0,3,1.0,1.0,155
+AB500655,10472,Barcelona,Gràcia,Entire home/apt,151.35,EUR,14,15,1.43,2025-11-13,4.44,3.0,2,3.0,3.0,364
+AB500656,10094,Paris,Latin Quarter,Private room,90.81,EUR,14,13,0.33,2025-10-21,4.08,1.0,2,2.0,3.0,209
+AB500657,10612,Singapore,Little India,Shared room,23.75,SGD,5,4,0.87,2026-05-20,4.67,1.0,2,0.0,1.0,347
+AB500658,10399,London,Islington,Entire home/apt,142.29,GBP,3,11,0.42,2024-12-23,4.86,2.0,3,,2.0,222
+AB500659,10659,Paris,Louvre,Entire home/apt,83.0,EUR,30,8,1.02,2026-10-30,4.94,4.0,5,3.0,3.0,75
+AB500660,10459,Singapore,Orchard,Shared room,21.4,SGD,5,11,1.55,2025-08-23,4.87,3.0,1,0.0,1.0,115
+AB500661,10833,Paris,Montmartre,Entire home/apt,214.67,EUR,7,2,0.24,2024-06-21,,3.0,5,4.0,4.0,207
+AB500662,10773,London,Camden,Entire home/apt,94.22,GBP,3,15,0.06,2024-02-18,3.85,3.0,2,3.0,3.0,309
+AB500663,10232,New York,Bronx,Private room,73.03,USD,14,6,0.75,2025-12-03,4.41,1.0,1,1.0,1.0,255
+AB500664,10042,Dubai,Business Bay,Private room,167.64,AED,1,15,1.0,2025-04-19,5.0,2.0,2,1.0,3.0,330
+AB500665,10045,London,Kensington,Entire home/apt,130.63,GBP,1,4,1.9,2025-02-27,4.66,3.0,3,2.0,2.0,218
+AB500666,10802,New York,Staten Island,Entire home/apt,255.41,USD,3,5,0.24,2026-05-13,4.88,5.0,7,0.0,2.0,198
+AB500667,10579,Paris,Belleville,Private room,45.29,EUR,2,3,0.47,2024-09-01,4.44,2.0,3,1.0,2.0,46
+AB500668,10687,New York,Brooklyn,Entire home/apt,156.74,USD,7,9,0.72,2026-05-23,4.53,2.0,3,3.0,4.0,341
+AB500669,10518,New York,Manhattan,Entire home/apt,100.78,USD,3,3,1.26,2023-12-23,4.4,4.0,6,2.0,2.0,136
+AB500670,10260,Tokyo,Minato,Entire home/apt,240.47,JPY,7,0,,,,3.0,5,2.0,3.0,300
+AB500671,10745,Paris,Louvre,Entire home/apt,124.59,EUR,7,13,0.43,2024-12-22,4.77,4.0,2,4.0,6.0,251
+AB500672,10794,New York,Manhattan,Entire home/apt,229.3,USD,1,18,0.88,2026-08-02,4.03,5.0,7,4.0,6.0,334
+AB500673,10792,Barcelona,Sants-Montjuïc,Entire home/apt,88.82,EUR,2,2,1.73,2026-08-01,,4.0,4,2.0,3.0,290
+AB500674,10359,London,Westminster,Private room,81.28,GBP,1,1,1.34,2024-07-05,,4.0,1,1.0,3.0,153
+AB500675,10159,New York,Staten Island,Entire home/apt,223.93,USD,3,12,0.89,2025-02-09,3.87,2.0,8,1.0,3.0,268
+AB500676,10011,New York,Bronx,Entire home/apt,180.3,USD,5,1,0.7,2024-10-03,,5.0,1,2.0,2.0,320
+AB500677,10169,Paris,Le Marais,Private room,62.09,EUR,3,8,0.1,2026-10-15,4.43,6.0,2,2.0,4.0,324
+AB500678,10210,Dubai,Business Bay,Entire home/apt,206.5,AED,2,8,0.65,2026-08-19,4.59,5.0,5,3.0,3.0,262
+AB500679,10058,Tokyo,Taito,Entire home/apt,77.33,JPY,5,6,0.94,2026-03-23,5.0,3.0,3,3.0,3.0,307
+AB500680,10028,London,Westminster,Private room,46.28,GBP,1,3,0.3,2024-09-13,5.0,3.0,3,1.0,2.0,92
+AB500681,10483,Sydney,Surry Hills,Shared room,58.22,AUD,2,0,,,,2.0,1,0.0,1.0,224
+AB500682,10395,Tokyo,Taito,Private room,45.5,JPY,3,11,0.54,2024-03-05,4.65,3.0,1,,2.0,314
+AB500683,10401,London,Kensington,Shared room,17.97,GBP,1,13,1.6,2024-07-22,4.86,7.0,2,0.0,1.0,6
+AB500684,10403,Paris,Le Marais,Entire home/apt,64.68,EUR,5,0,,,,1.0,7,3.0,3.0,264
+AB500685,10372,Paris,Le Marais,Shared room,25.18,EUR,5,10,0.37,2025-04-12,4.68,2.0,2,0.0,1.0,20
+AB500686,10203,New York,Staten Island,Entire home/apt,107.7,USD,2,3,0.22,2026-04-27,4.22,2.0,6,1.0,2.0,287
+AB500687,10253,Tokyo,Shinjuku,Entire home/apt,117.73,JPY,3,3,0.51,2024-12-27,4.15,1.0,7,3.0,4.0,266
+AB500688,10128,Tokyo,Taito,Private room,64.22,JPY,5,12,0.16,2024-09-12,4.42,2.0,3,1.0,3.0,313
+AB500689,10829,Barcelona,Eixample,Entire home/apt,332.03,EUR,3,5,0.56,2025-10-25,5.0,2.0,6,3.0,3.0,63
+AB500690,10589,Sydney,Manly,Entire home/apt,178.99,AUD,7,6,1.12,2025-06-01,4.46,2.0,4,3.0,5.0,156
+AB500691,10472,Sydney,Manly,Private room,22.67,AUD,1,10,0.72,2024-08-06,4.35,5.0,3,2.0,2.0,96
+AB500692,10593,New York,Bronx,Hotel room,370.38,USD,1,14,0.84,2026-10-06,4.71,3.0,4,1.0,2.0,318
+AB500693,10567,Paris,Le Marais,Entire home/apt,107.68,EUR,1,4,0.12,2025-12-03,4.59,4.0,6,3.0,3.0,45
+AB500694,10286,Paris,Latin Quarter,Entire home/apt,189.04,EUR,2,10,0.26,2024-09-05,4.52,2.0,2,1.0,1.0,71
+AB500695,10267,New York,Manhattan,Entire home/apt,92.94,USD,30,25,1.14,2026-02-16,4.92,3.0,6,4.0,4.0,109
+AB500696,10217,Paris,Louvre,Entire home/apt,109.52,EUR,1,4,0.1,2025-05-05,4.59,2.0,3,3.0,4.0,178
+AB500697,10621,Sydney,Newtown,Hotel room,91.08,AUD,3,6,0.36,2024-11-11,4.18,4.0,8,2.0,2.0,237
+AB500698,10018,Tokyo,Shibuya,Entire home/apt,136.42,JPY,3,15,3.1,2025-02-02,4.62,2.0,2,3.0,3.0,60
+AB500699,10154,New York,Queens,Entire home/apt,94.84,USD,3,4,0.33,2026-01-17,4.41,3.0,2,3.0,3.0,361
+AB500700,10092,New York,Brooklyn,Entire home/apt,170.5,USD,1,8,1.06,2025-06-12,4.53,2.0,1,,3.0,117
+AB500701,10317,Tokyo,Taito,Entire home/apt,80.9,JPY,1,2,1.62,2025-07-11,,2.0,7,3.0,3.0,17
+AB500702,10775,Tokyo,Setagaya,Private room,29.27,JPY,3,7,0.82,2024-03-24,4.1,2.0,3,1.0,2.0,304
+AB500703,10647,Barcelona,Gràcia,Private room,54.98,EUR,1,3,1.22,2026-05-06,4.36,2.0,1,2.0,3.0,256
+AB500704,10371,New York,Bronx,Hotel room,123.5,USD,3,5,0.48,2025-09-21,4.39,1.0,6,0.0,2.0,244
+AB500705,10635,Singapore,Little India,Entire home/apt,96.04,SGD,14,4,0.53,2026-04-19,4.67,3.0,6,0.0,1.0,257
+AB500706,10324,New York,Bronx,Hotel room,81.48,USD,2,4,0.52,2025-04-22,4.03,3.0,2,0.0,,226
+AB500707,10580,New York,Staten Island,Entire home/apt,259.83,USD,2,12,1.09,2024-01-14,4.15,3.0,8,0.0,1.0,192
+AB500708,10588,London,Camden,Entire home/apt,208.59,GBP,3,15,0.66,2024-02-29,4.86,4.0,4,3.0,3.0,55
+AB500709,10104,Dubai,Deira,Private room,63.65,AED,5,14,0.44,2026-06-02,4.45,2.0,2,2.0,2.0,314
+AB500710,10240,Paris,Louvre,Entire home/apt,166.73,EUR,5,0,,,,2.0,3,2.0,2.0,105
+AB500711,10166,New York,Brooklyn,Private room,32.7,USD,1,5,0.27,2024-05-23,4.78,5.0,3,1.0,1.0,115
+AB500712,10796,London,Westminster,Private room,44.66,GBP,2,2,0.3,2025-07-22,,1.0,3,1.0,3.0,111
+AB500713,10140,Singapore,Chinatown,Private room,30.79,SGD,1,7,0.25,2026-02-08,4.02,2.0,1,1.0,1.0,76
+AB500714,10618,Tokyo,Shibuya,Private room,24.7,JPY,2,1,0.63,2024-03-17,,2.0,3,1.0,1.0,54
+AB500715,10214,New York,Staten Island,Entire home/apt,128.81,USD,5,9,0.94,2025-05-13,4.71,3.0,3,0.0,2.0,359
+AB500716,10422,New York,Manhattan,Private room,84.31,USD,2,18,0.09,2026-04-22,4.83,3.0,1,1.0,3.0,349
+AB500717,10677,Paris,,Entire home/apt,226.15,EUR,5,1,0.35,2026-07-15,,3.0,1,4.0,5.0,172
+AB500718,10417,Paris,Montmartre,Entire home/apt,63.66,EUR,7,15,0.54,2026-01-12,5.0,2.0,7,2.0,3.0,153
+AB500719,10210,Dubai,Dubai Marina,Entire home/apt,284.81,AED,5,12,0.76,2024-02-25,4.76,2.0,8,2.0,3.0,117
+AB500720,10590,Singapore,Marina Bay,Entire home/apt,169.03,SGD,5,7,0.23,2025-08-24,4.09,3.0,1,0.0,2.0,40
+AB500721,10166,Sydney,Newtown,Hotel room,240.67,AUD,2,10,2.05,2024-05-08,4.5,7.0,5,1.0,3.0,288
+AB500722,10425,Paris,Le Marais,Entire home/apt,105.33,EUR,1,10,1.76,2025-05-31,5.0,2.0,6,3.0,4.0,329
+AB500723,10431,Paris,Latin Quarter,Private room,49.03,EUR,1,7,0.21,2025-09-12,4.82,3.0,1,2.0,3.0,15
+AB500724,10390,New York,Staten Island,Entire home/apt,183.14,USD,3,9,0.5,2024-02-14,4.53,3.0,7,2.0,2.0,183
+AB500725,10381,London,Hackney,Private room,50.21,GBP,2,7,0.47,2026-07-27,4.44,4.0,2,2.0,4.0,246
+AB500726,10384,Paris,Belleville,Entire home/apt,173.84,EUR,1,8,0.12,2025-05-16,4.48,3.0,3,4.0,6.0,239
+AB500727,10205,Barcelona,Gràcia,Entire home/apt,116.26,EUR,5,1,2.05,2026-01-02,,2.0,2,4.0,6.0,148
+AB500728,10370,London,Kensington,Private room,52.1,GBP,3,0,,,,1.0,2,1.0,3.0,241
+AB500729,10058,Tokyo,Setagaya,Hotel room,105.83,JPY,1,9,0.74,2026-08-06,4.44,2.0,2,3.0,3.0,268
+AB500730,10252,Tokyo,Shibuya,Private room,27.01,JPY,1,13,1.48,2026-02-03,4.9,1.0,1,1.0,1.0,142
+AB500731,10291,Sydney,CBD,Private room,70.13,AUD,30,19,1.11,2026-06-19,4.15,4.0,2,1.0,3.0,262
+AB500732,10414,Tokyo,Taito,Entire home/apt,100.13,JPY,5,7,0.18,2025-11-04,4.42,6.0,4,3.0,4.0,209
+AB500733,10348,Paris,Latin Quarter,Entire home/apt,54.44,EUR,3,11,0.7,2026-08-11,4.65,5.0,7,2.0,4.0,142
+AB500734,10116,Barcelona,Gràcia,Private room,73.32,EUR,3,11,2.07,2024-07-26,4.37,2.0,1,1.0,1.0,284
+AB500735,10038,Sydney,CBD,Entire home/apt,347.98,AUD,14,4,1.79,2024-05-18,4.59,3.0,4,3.0,3.0,283
+AB500736,10437,London,Islington,Shared room,48.27,GBP,7,10,0.44,2024-09-27,4.75,3.0,2,0.0,1.0,35
+AB500737,10359,London,Islington,Entire home/apt,96.98,GBP,1,3,0.2,2024-07-28,4.27,4.0,1,3.0,3.0,110
+AB500738,10559,New York,Bronx,Entire home/apt,137.49,USD,1,16,0.08,2024-12-08,4.23,3.0,1,0.0,1.0,336
+AB500739,10763,New York,Queens,Entire home/apt,102.26,USD,5,7,0.3,2025-06-13,4.78,7.0,5,2.0,,37
+AB500740,10721,New York,Bronx,Entire home/apt,145.55,USD,14,15,0.72,2026-06-06,5.0,2.0,4,4.0,6.0,318
+AB500741,10800,Barcelona,Sants-Montjuïc,Entire home/apt,62.54,EUR,3,15,1.1,2025-09-27,4.88,2.0,5,3.0,3.0,178
+AB500742,10076,Tokyo,Setagaya,Private room,40.8,JPY,1,11,0.28,2024-02-22,4.94,6.0,2,1.0,3.0,329
+AB500743,10278,Barcelona,Sants-Montjuïc,Private room,76.24,EUR,2,5,0.27,2026-01-19,4.66,3.0,2,1.0,3.0,97
+AB500744,10345,Dubai,Deira,Entire home/apt,92.21,AED,2,2,1.17,2026-02-28,,4.0,4,3.0,4.0,197
+AB500745,10633,Paris,Le Marais,Entire home/apt,141.32,EUR,7,10,0.54,2024-08-29,4.68,4.0,7,1.0,3.0,42
+AB500746,10809,Paris,Le Marais,Hotel room,143.92,EUR,1,6,0.27,2024-12-21,4.16,3.0,3,2.0,4.0,134
+AB500747,10007,Barcelona,Eixample,Entire home/apt,173.96,EUR,1,8,0.13,2024-05-29,3.72,2.0,1,2.0,2.0,105
+AB500748,10449,Barcelona,Gràcia,Private room,17.47,EUR,3,2,0.02,2024-09-25,,4.0,3,1.0,2.0,300
+AB500749,10784,Sydney,Surry Hills,Private room,39.61,AUD,14,6,0.13,2024-02-14,5.0,4.0,3,1.0,2.0,135
+AB500750,10356,Singapore,Orchard,Private room,28.84,SGD,3,6,1.54,2026-01-16,4.22,3.0,3,1.0,3.0,359
+AB500751,10263,London,Islington,Entire home/apt,125.51,GBP,3,10,0.46,2025-12-19,4.39,5.0,7,3.0,4.0,9
+AB500752,10656,Dubai,Deira,Entire home/apt,98.89,AED,7,12,0.08,2025-03-22,3.96,3.0,7,0.0,1.0,82
+AB500753,10498,Barcelona,Sants-Montjuïc,Entire home/apt,65.72,EUR,1,5,0.31,2024-05-21,4.64,3.0,3,3.0,4.0,308
+AB500754,10069,Barcelona,Ciutat Vella,Entire home/apt,134.17,EUR,5,4,0.28,2025-02-22,4.88,,7,2.0,3.0,174
+AB500755,10520,Dubai,Downtown,Entire home/apt,128.95,AED,5,3,0.2,2026-10-12,4.1,2.0,3,3.0,4.0,21
+AB500756,10606,Sydney,Manly,Entire home/apt,62.92,AUD,5,2,0.51,2026-03-07,,3.0,7,2.0,3.0,143
+AB500757,10505,New York,Staten Island,Private room,59.22,USD,14,9,0.44,2026-06-25,4.79,7.0,1,1.0,1.0,12
+AB500758,10658,New York,Staten Island,Entire home/apt,201.39,USD,3,8,0.23,2024-11-08,4.99,4.0,6,2.0,2.0,170
+AB500759,10821,Dubai,Business Bay,Private room,54.02,AED,30,4,1.83,2023-12-10,4.01,3.0,1,,1.0,276
+AB500760,10504,London,Kensington,Private room,148.35,GBP,3,4,0.67,2025-03-07,4.74,5.0,3,1.0,1.0,76
+AB500761,10360,London,Hackney,Entire home/apt,155.06,GBP,2,18,0.73,2024-06-18,4.91,3.0,8,1.0,3.0,3
+AB500762,10504,London,Camden,Private room,58.35,GBP,2,4,0.8,2025-12-16,4.02,6.0,2,1.0,3.0,155
+AB500763,10689,Barcelona,Ciutat Vella,Private room,19.54,EUR,5,22,0.25,2024-12-19,4.86,5.0,3,1.0,2.0,165
+AB500764,10281,Paris,Le Marais,Entire home/apt,319.05,EUR,7,24,0.17,2025-05-10,4.26,4.0,7,1.0,1.0,352
+AB500765,10690,Paris,Louvre,Entire home/apt,72.86,EUR,5,2,0.2,2025-07-17,,2.0,1,1.0,1.0,346
+AB500766,10659,Barcelona,Eixample,Entire home/apt,203.06,EUR,30,4,0.35,2025-05-06,4.46,1.0,5,2.0,2.0,354
+AB500767,10762,Tokyo,Setagaya,Entire home/apt,103.12,JPY,7,2,0.2,2025-08-28,,3.0,5,1.0,2.0,330
+AB500768,10264,Paris,Le Marais,Private room,65.38,EUR,3,4,0.14,2025-06-09,4.06,3.0,2,1.0,2.0,249
+AB500769,10751,New York,Staten Island,Entire home/apt,168.79,USD,2,9,0.37,2026-07-09,4.35,2.0,8,1.0,1.0,218
+AB500770,10475,Dubai,Downtown,Entire home/apt,120.01,AED,1,2,0.27,2026-09-15,,3.0,6,0.0,1.0,160
+AB500771,10646,New York,Brooklyn,Entire home/apt,138.73,USD,5,13,0.26,2025-06-06,4.44,4.0,1,1.0,2.0,154
+AB500772,10055,Tokyo,Setagaya,Entire home/apt,226.37,JPY,3,12,0.25,2024-03-15,4.39,4.0,5,2.0,3.0,128
+AB500773,10729,London,Islington,Private room,55.8,GBP,3,16,0.98,2025-09-09,4.18,3.0,2,1.0,1.0,4
+AB500774,10231,Tokyo,Shibuya,Private room,42.4,JPY,14,5,0.83,2026-03-30,4.63,1.0,1,1.0,2.0,27
+AB500775,10576,Paris,Louvre,Entire home/apt,160.26,EUR,2,7,0.47,2026-09-16,3.85,2.0,7,1.0,3.0,132
+AB500776,10357,Dubai,Dubai Marina,Entire home/apt,86.88,AED,2,9,0.15,2024-09-10,4.75,2.0,6,0.0,2.0,7
+AB500777,10798,London,Camden,Shared room,17.03,GBP,7,4,0.48,2024-08-05,4.76,5.0,1,0.0,1.0,152
+AB500778,10247,London,Westminster,Hotel room,75.67,GBP,1,5,1.04,2025-04-08,4.49,3.0,7,1.0,3.0,57
+AB500779,10042,Tokyo,Taito,Entire home/apt,179.32,JPY,7,15,0.69,2025-05-21,4.81,3.0,1,2.0,3.0,364
+AB500780,10666,Singapore,Chinatown,Entire home/apt,133.81,SGD,3,7,1.2,2024-05-03,4.66,2.0,4,0.0,2.0,20
+AB500781,10459,Barcelona,Sant Martí,Entire home/apt,76.71,EUR,5,13,0.81,2024-06-22,4.19,1.0,3,3.0,3.0,169
+AB500782,10397,Barcelona,Sants-Montjuïc,Entire home/apt,85.75,EUR,2,25,0.5,2026-10-12,4.64,4.0,4,0.0,1.0,365
+AB500783,10513,New York,Staten Island,Entire home/apt,209.54,USD,5,15,0.19,2024-09-04,4.54,5.0,2,0.0,2.0,177
+AB500784,10619,New York,Queens,Entire home/apt,323.8,USD,7,6,0.36,2025-06-21,4.67,2.0,4,4.0,6.0,36
+AB500785,10737,Barcelona,Gràcia,Hotel room,330.87,EUR,5,9,0.32,2025-03-18,4.53,8.0,3,4.0,6.0,318
+AB500786,10547,Barcelona,Sants-Montjuïc,Entire home/apt,81.15,EUR,3,3,0.35,2026-11-13,4.36,,2,3.0,4.0,60
+AB500787,10515,New York,Staten Island,Entire home/apt,56.65,USD,5,12,0.65,2025-03-25,4.3,3.0,5,0.0,2.0,254
+AB500788,10796,Tokyo,Minato,Entire home/apt,104.17,JPY,2,11,1.4,2025-10-14,3.88,,8,3.0,5.0,94
+AB500789,10709,Paris,Montmartre,Entire home/apt,203.57,EUR,2,10,0.18,2025-02-11,4.27,1.0,6,1.0,3.0,230
+AB500790,10449,London,Westminster,Private room,37.01,GBP,3,23,0.12,2024-05-05,4.61,3.0,3,1.0,1.0,18
+AB500791,10771,Barcelona,Gràcia,Shared room,23.29,EUR,2,6,0.15,2024-09-30,4.19,2.0,2,0.0,2.0,114
+AB500792,10391,London,Islington,Entire home/apt,74.09,GBP,7,7,0.52,2025-08-27,4.21,5.0,6,0.0,1.0,168
+AB500793,10840,Dubai,Jumeirah,Entire home/apt,143.35,AED,3,0,,,,1.0,7,1.0,2.0,101
+AB500794,10209,Tokyo,Shibuya,Entire home/apt,102.28,JPY,3,5,0.82,2024-01-16,4.71,2.0,6,1.0,2.0,280
+AB500795,10146,Sydney,Bondi,Entire home/apt,101.59,AUD,1,0,,,,4.0,7,4.0,5.0,121
+AB500796,10126,Paris,Montmartre,Shared room,19.4,EUR,30,2,0.74,2026-11-20,,4.0,1,0.0,2.0,270
+AB500797,10518,Paris,Montmartre,Entire home/apt,115.23,EUR,2,11,0.25,2025-03-19,4.65,2.0,8,2.0,2.0,190
+AB500798,10550,Singapore,Little India,Private room,36.33,SGD,2,3,1.16,2024-05-17,4.15,3.0,2,1.0,3.0,83
+AB500799,10757,Tokyo,Setagaya,Hotel room,73.04,JPY,3,16,0.28,2023-11-28,5.0,1.0,3,0.0,1.0,287
+AB500800,10002,New York,Queens,Entire home/apt,255.51,USD,5,4,0.59,2025-06-25,5.0,4.0,8,0.0,2.0,34
+AB500801,10452,New York,Manhattan,Private room,122.45,USD,1,10,0.16,2025-10-19,5.0,5.0,2,1.0,3.0,265
+AB500802,10300,Dubai,Jumeirah,Private room,96.47,AED,3,5,0.02,2025-04-25,4.6,,1,1.0,3.0,174
+AB500803,10777,Tokyo,Shibuya,Private room,42.4,JPY,1,13,2.09,2026-10-23,4.4,3.0,3,1.0,1.0,182
+AB500804,10739,Barcelona,Ciutat Vella,Private room,50.94,EUR,7,4,0.15,2025-03-16,4.81,2.0,1,1.0,2.0,94
+AB500805,10796,Barcelona,Gràcia,Entire home/apt,90.02,EUR,2,3,1.01,2024-03-10,4.0,4.0,8,3.0,4.0,6
+AB500806,10744,Dubai,Jumeirah,Entire home/apt,136.9,AED,1,14,1.01,2026-01-31,4.72,6.0,5,3.0,5.0,0
+AB500807,10430,Dubai,Dubai Marina,Entire home/apt,120.83,AED,7,10,0.43,2025-10-06,4.24,5.0,5,1.0,3.0,320
+AB500808,10431,Tokyo,Shinjuku,Entire home/apt,90.79,JPY,5,9,0.54,2024-05-26,5.0,3.0,7,0.0,2.0,320
+AB500809,10361,Paris,Montmartre,Entire home/apt,147.09,EUR,7,7,0.31,2025-05-18,5.0,2.0,2,3.0,5.0,224
+AB500810,10665,Barcelona,Sants-Montjuïc,Private room,31.37,EUR,1,7,0.34,2025-02-28,4.36,3.0,2,1.0,2.0,264
+AB500811,10095,Tokyo,Minato,Entire home/apt,49.12,JPY,30,4,0.88,2026-05-10,4.64,1.0,6,4.0,4.0,204
+AB500812,10424,Paris,Latin Quarter,Entire home/apt,132.74,EUR,3,6,0.79,2026-01-05,4.83,2.0,1,1.0,2.0,282
+AB500813,10433,London,Camden,Entire home/apt,86.58,GBP,3,9,1.76,2025-02-11,4.64,1.0,4,1.0,3.0,209
+AB500814,10722,New York,Bronx,Entire home/apt,130.85,USD,1,36,2.36,2024-09-25,4.9,1.0,6,0.0,1.0,147
+AB500815,10292,London,Westminster,Entire home/apt,166.92,GBP,5,3,0.82,2026-02-01,5.0,1.0,7,4.0,5.0,137
+AB500816,10594,Paris,Louvre,Entire home/apt,134.22,EUR,5,5,0.94,2025-07-19,4.43,2.0,1,1.0,3.0,249
+AB500817,10038,Singapore,Chinatown,Private room,34.64,SGD,1,6,0.25,2024-03-03,4.32,3.0,3,2.0,4.0,45
+AB500818,10183,London,Westminster,Entire home/apt,214.9,GBP,1,16,1.05,2024-04-16,5.0,1.0,1,4.0,5.0,99
+AB500819,10408,London,,Entire home/apt,123.75,GBP,5,5,0.61,2024-05-11,4.06,6.0,4,1.0,3.0,115
+AB500820,10422,New York,Manhattan,Private room,74.39,USD,30,3,1.23,2025-03-11,5.0,5.0,2,1.0,3.0,38
+AB500821,10560,New York,Bronx,Private room,64.79,USD,30,12,0.19,2024-03-03,4.15,5.0,3,2.0,4.0,298
+AB500822,10841,Barcelona,Eixample,Private room,35.24,EUR,14,7,0.13,2024-07-07,5.0,2.0,3,2.0,3.0,79
+AB500823,10151,Sydney,Manly,Entire home/apt,209.69,AUD,5,2,0.5,2025-11-09,,5.0,4,3.0,3.0,64
+AB500824,10469,Barcelona,Sant Martí,Private room,30.89,EUR,3,14,0.43,2025-09-30,5.0,2.0,1,1.0,3.0,61
+AB500825,10035,London,Islington,Entire home/apt,235.2,GBP,3,11,0.98,2025-11-11,4.31,3.0,8,0.0,1.0,22
+AB500826,10314,New York,Queens,Private room,92.57,USD,1,7,0.86,2025-12-08,4.62,2.0,1,1.0,2.0,147
+AB500827,10711,Tokyo,Taito,Private room,25.43,JPY,1,16,0.61,2025-07-23,4.68,3.0,3,1.0,2.0,351
+AB500828,10528,Tokyo,Shibuya,Private room,30.55,JPY,2,2,0.23,2025-08-12,,1.0,2,1.0,2.0,280
+AB500829,10848,New York,Manhattan,Entire home/apt,339.74,USD,1,13,0.66,2024-11-12,5.0,7.0,3,1.0,1.0,98
+AB500830,10807,New York,Queens,Private room,80.22,USD,5,12,0.56,2026-04-10,5.0,3.0,2,1.0,2.0,18
+AB500831,10101,Barcelona,Sants-Montjuïc,Private room,18.85,EUR,3,5,1.24,2026-02-15,4.81,1.0,3,1.0,3.0,347
+AB500832,10235,London,Westminster,Private room,29.5,GBP,5,11,0.88,2024-01-09,3.89,3.0,1,2.0,3.0,232
+AB500833,10123,Paris,Belleville,Entire home/apt,215.8,EUR,3,2,1.52,2024-10-31,,3.0,3,0.0,2.0,309
+AB500834,10014,New York,Bronx,Entire home/apt,461.25,USD,3,18,0.77,2023-11-26,4.58,1.0,8,0.0,2.0,83
+AB500835,10849,Dubai,Dubai Marina,Entire home/apt,227.1,AED,5,7,0.3,2025-04-09,4.5,2.0,3,4.0,6.0,154
+AB500836,10574,Dubai,Dubai Marina,Private room,126.28,AED,2,10,1.04,2026-04-02,4.24,1.0,1,1.0,1.0,190
+AB500837,10420,New York,Manhattan,Private room,100.31,USD,5,9,0.32,2026-02-10,4.73,2.0,3,,2.0,158
+AB500838,10018,Tokyo,Minato,Private room,39.7,JPY,2,15,0.81,2025-10-29,4.66,2.0,1,1.0,2.0,43
+AB500839,10258,Paris,Belleville,Hotel room,189.84,EUR,5,14,0.08,2024-07-07,4.22,3.0,6,0.0,1.0,356
+AB500840,10070,New York,Queens,Shared room,24.81,USD,7,10,0.11,2026-01-27,4.54,3.0,1,0.0,1.0,143
+AB500841,10218,Tokyo,Setagaya,Entire home/apt,129.79,JPY,1,38,1.63,2024-08-04,4.74,1.0,4,1.0,1.0,218
+AB500842,10472,Sydney,Newtown,Entire home/apt,168.29,AUD,3,14,0.4,2026-11-08,5.0,3.0,1,1.0,3.0,50
+AB500843,10300,New York,Staten Island,Entire home/apt,80.12,USD,30,8,1.0,2024-09-14,3.95,4.0,3,4.0,4.0,45
+AB500844,10275,Paris,Le Marais,Private room,53.99,EUR,2,25,0.31,2026-08-26,4.75,1.0,1,1.0,3.0,54
+AB500845,10444,New York,Manhattan,Private room,47.5,USD,2,6,1.18,2026-03-04,4.61,2.0,2,1.0,2.0,27
+AB500846,10185,Sydney,CBD,Private room,32.99,AUD,3,2,0.73,2025-02-13,,2.0,3,1.0,3.0,328
+AB500847,10455,Singapore,Marina Bay,Entire home/apt,255.15,SGD,7,10,0.37,2023-12-29,3.97,3.0,4,0.0,2.0,7
+AB500848,10824,Paris,Le Marais,Shared room,42.1,EUR,1,12,0.67,2026-03-20,4.7,5.0,1,0.0,1.0,56
+AB500849,10738,Paris,Montmartre,Entire home/apt,188.56,EUR,3,1,0.05,2026-08-08,,2.0,8,2.0,3.0,345
+AB500850,10386,London,Islington,Entire home/apt,111.49,GBP,1,1,0.96,2024-04-03,,5.0,4,2.0,2.0,275
+AB500851,10106,Sydney,Manly,Entire home/apt,235.03,AUD,1,13,0.85,2025-01-09,4.66,2.0,2,3.0,5.0,295
+AB500852,10748,New York,Queens,Entire home/apt,58.54,USD,3,6,0.18,2025-11-15,4.32,3.0,1,4.0,6.0,112
+AB500853,10123,New York,Manhattan,Shared room,32.65,USD,3,8,0.62,2025-04-26,4.56,3.0,2,0.0,2.0,265
+AB500854,10721,London,Islington,Entire home/apt,54.77,GBP,5,1,0.35,2024-10-08,,3.0,8,0.0,,34
+AB500855,10172,Barcelona,Ciutat Vella,Private room,66.24,EUR,30,8,1.01,2026-07-12,4.19,5.0,1,1.0,3.0,2
+AB500856,10168,New York,Manhattan,Private room,45.59,USD,5,10,0.8,2024-06-22,4.08,5.0,1,1.0,1.0,183
+AB500857,10465,Paris,Louvre,Private room,54.48,EUR,1,6,0.36,2026-09-22,4.19,8.0,1,1.0,1.0,283
+AB500858,10069,London,Hackney,Hotel room,47.33,GBP,3,3,0.39,2025-01-03,4.24,2.0,6,0.0,2.0,75
+AB500859,10801,London,Kensington,Entire home/apt,100.4,GBP,1,19,0.82,2024-03-23,4.7,5.0,2,0.0,1.0,36
+AB500860,10195,New York,Staten Island,Entire home/apt,161.04,USD,2,7,0.2,2024-08-27,4.83,5.0,3,0.0,1.0,106
+AB500861,10435,Singapore,Bugis,Entire home/apt,95.89,SGD,1,12,2.3,2025-03-27,4.32,1.0,4,1.0,2.0,2
+AB500862,10391,Dubai,Downtown,Entire home/apt,118.65,AED,2,5,0.39,2026-03-03,4.58,5.0,2,1.0,,222
+AB500863,10270,Dubai,Downtown,Private room,154.57,AED,3,5,0.13,2025-09-27,4.45,4.0,3,1.0,2.0,155
+AB500864,10277,London,Camden,Entire home/apt,102.61,GBP,7,6,0.49,2026-05-21,4.0,2.0,4,2.0,3.0,293
+AB500865,10494,New York,Staten Island,Entire home/apt,277.91,USD,2,3,0.7,2026-10-07,4.3,4.0,6,3.0,3.0,223
+AB500866,10833,London,Kensington,Entire home/apt,62.97,GBP,3,1,0.37,2025-07-11,,4.0,8,2.0,3.0,116
+AB500867,10122,New York,Queens,Entire home/apt,94.26,USD,3,16,0.55,2025-11-16,3.63,3.0,3,3.0,3.0,235
+AB500868,10678,Tokyo,Minato,Entire home/apt,116.7,JPY,3,6,1.04,2024-01-15,4.66,4.0,2,1.0,3.0,111
+AB500869,10022,Paris,Montmartre,Entire home/apt,189.96,EUR,1,5,0.84,2024-11-16,4.98,5.0,4,0.0,2.0,234
+AB500870,10614,Barcelona,Gràcia,Entire home/apt,31.59,EUR,2,7,1.54,2026-10-09,4.58,2.0,3,0.0,1.0,341
+AB500871,10637,New York,Brooklyn,Private room,39.94,USD,5,5,0.13,2025-03-23,4.94,2.0,2,1.0,3.0,165
+AB500872,10799,New York,Bronx,Entire home/apt,119.24,USD,3,13,0.65,2026-02-23,3.96,4.0,2,4.0,4.0,221
+AB500873,10348,Paris,Latin Quarter,Private room,36.18,EUR,1,5,0.84,2025-03-05,4.8,4.0,3,1.0,3.0,228
+AB500874,10355,London,Islington,Entire home/apt,173.66,GBP,14,3,0.85,2025-05-24,5.0,5.0,8,0.0,2.0,40
+AB500875,10595,Tokyo,Shibuya,Entire home/apt,46.72,JPY,1,17,0.39,2024-02-28,4.55,2.0,8,2.0,2.0,210
+AB500876,10093,New York,Brooklyn,Entire home/apt,149.03,USD,2,4,0.26,2025-08-12,4.35,6.0,4,1.0,1.0,91
+AB500877,10358,London,Westminster,Entire home/apt,97.72,GBP,1,23,0.21,2025-08-02,3.83,4.0,4,2.0,3.0,249
+AB500878,10021,Paris,Louvre,Entire home/apt,99.38,EUR,2,9,0.33,2025-02-18,4.11,3.0,5,1.0,3.0,99
+AB500879,10320,Dubai,Downtown,Entire home/apt,82.84,AED,3,0,,,,2.0,6,3.0,3.0,218
+AB500880,10639,New York,Bronx,Private room,44.52,USD,1,17,0.04,2025-07-28,5.0,1.0,2,1.0,3.0,261
+AB500881,10512,Dubai,Business Bay,Private room,150.7,AED,2,2,0.63,2024-01-25,,2.0,2,2.0,,86
+AB500882,10576,Barcelona,,Entire home/apt,200.62,EUR,1,8,0.34,2026-10-13,3.66,4.0,7,3.0,5.0,201
+AB500883,10848,Paris,Belleville,Entire home/apt,43.63,EUR,14,31,0.14,2026-08-16,4.81,4.0,8,4.0,5.0,291
+AB500884,10314,Tokyo,Taito,Private room,35.85,JPY,2,4,1.27,2024-12-24,4.8,1.0,2,2.0,2.0,87
+AB500885,10764,Paris,Le Marais,Entire home/apt,94.15,EUR,2,16,0.46,2024-04-06,4.6,3.0,6,,,213
+AB500886,10305,Tokyo,Shinjuku,Entire home/apt,117.63,JPY,3,15,0.7,2024-11-07,4.78,4.0,8,1.0,3.0,7
+AB500887,10152,New York,Staten Island,Entire home/apt,192.37,USD,7,7,0.87,2024-06-11,4.88,4.0,8,1.0,3.0,350
+AB500888,10345,New York,Bronx,Private room,30.4,USD,1,7,0.38,2024-09-27,4.09,2.0,1,1.0,3.0,119
+AB500889,10531,New York,Staten Island,Private room,53.97,USD,2,18,0.87,2023-12-09,4.35,1.0,2,1.0,3.0,87
+AB500890,10005,London,Hackney,Entire home/apt,231.9,GBP,2,3,0.75,2026-11-08,4.94,1.0,4,1.0,1.0,181
+AB500891,10681,Tokyo,Minato,Entire home/apt,65.38,JPY,2,17,0.55,2025-05-09,4.69,2.0,5,0.0,2.0,92
+AB500892,10522,Tokyo,Shibuya,Private room,51.92,JPY,2,3,0.3,2024-01-24,4.95,2.0,1,,2.0,229
+AB500893,10298,New York,Queens,Entire home/apt,94.4,USD,2,4,0.09,2026-10-23,4.37,1.0,7,4.0,4.0,61
+AB500894,10233,New York,Queens,Shared room,36.09,USD,1,6,1.01,2025-10-07,3.88,2.0,2,0.0,2.0,361
+AB500895,10131,New York,Manhattan,Entire home/apt,174.85,USD,1,11,0.83,2024-04-18,4.51,4.0,7,1.0,2.0,282
+AB500896,10718,London,Hackney,Entire home/apt,45.12,GBP,3,0,,,,2.0,4,2.0,4.0,143
+AB500897,10560,London,Islington,Entire home/apt,101.12,GBP,7,13,1.3,2025-11-19,4.58,3.0,4,1.0,1.0,74
+AB500898,10196,Paris,Louvre,Entire home/apt,157.87,EUR,1,8,0.36,2025-07-15,4.6,1.0,5,1.0,2.0,90
+AB500899,10804,Barcelona,Sant Martí,Private room,135.75,EUR,1,8,1.29,2025-08-11,4.59,3.0,2,1.0,1.0,286
+AB500900,10119,Tokyo,Minato,Shared room,15.0,JPY,1,16,1.25,2024-05-26,4.95,1.0,2,0.0,1.0,259
+AB500901,10404,Singapore,Marina Bay,Private room,134.7,SGD,1,24,0.36,2025-07-05,5.0,2.0,3,2.0,2.0,323
+AB500902,10380,Paris,Latin Quarter,Entire home/apt,73.44,EUR,2,3,1.41,2025-11-04,4.22,3.0,8,3.0,3.0,321
+AB500903,10495,Tokyo,Setagaya,Entire home/apt,93.68,JPY,14,12,0.21,2024-09-01,4.61,2.0,7,0.0,,10
+AB500904,10773,Paris,Le Marais,Private room,49.16,EUR,30,13,1.13,2024-09-23,4.74,4.0,1,1.0,3.0,164
+AB500905,10184,Sydney,CBD,Private room,24.76,AUD,3,7,0.46,2025-12-19,4.14,4.0,3,1.0,2.0,315
+AB500906,10215,New York,Staten Island,Private room,129.55,USD,7,6,1.33,2026-03-20,4.65,3.0,1,1.0,3.0,80
+AB500907,10459,New York,Brooklyn,Shared room,52.16,USD,3,11,0.82,2026-05-24,4.38,2.0,1,0.0,1.0,291
+AB500908,10171,New York,Manhattan,Entire home/apt,330.82,USD,1,2,0.62,2024-12-22,,2.0,8,1.0,3.0,152
+AB500909,10546,Tokyo,Taito,Entire home/apt,78.27,JPY,14,1,0.61,2025-06-11,,3.0,1,2.0,4.0,233
+AB500910,10313,Tokyo,Shinjuku,Entire home/apt,87.2,JPY,3,9,0.54,2025-02-18,4.63,3.0,3,0.0,1.0,125
+AB500911,10272,Singapore,Orchard,Private room,46.8,SGD,3,20,0.41,2025-08-02,5.0,3.0,1,1.0,2.0,308
+AB500912,10433,New York,Queens,Private room,54.67,USD,2,3,0.13,2026-08-25,4.82,2.0,1,2.0,3.0,359
+AB500913,10524,London,Hackney,Entire home/apt,115.83,GBP,5,1,0.47,2024-07-28,,3.0,2,3.0,4.0,169
+AB500914,10182,New York,Staten Island,Private room,133.51,USD,1,2,1.04,2024-09-05,,4.0,2,1.0,2.0,350
+AB500915,10438,Tokyo,Shinjuku,Entire home/apt,90.97,JPY,1,6,2.15,2026-04-17,4.64,3.0,7,2.0,3.0,24
+AB500916,10226,New York,Manhattan,Private room,60.13,USD,2,11,0.1,2025-01-14,4.58,3.0,3,1.0,3.0,41
+AB500917,10333,Singapore,Marina Bay,Entire home/apt,111.34,SGD,14,14,1.79,2024-04-03,4.98,2.0,6,1.0,2.0,183
+AB500918,10580,Tokyo,Setagaya,Entire home/apt,110.57,JPY,1,7,0.75,2026-04-06,4.21,3.0,4,0.0,1.0,63
+AB500919,10047,New York,Staten Island,Private room,111.61,USD,2,5,1.47,2026-11-19,4.01,5.0,2,1.0,2.0,68
+AB500920,10251,Paris,Belleville,Hotel room,120.62,EUR,1,8,0.5,2026-05-23,4.43,4.0,4,1.0,3.0,94
+AB500921,10203,Barcelona,Sants-Montjuïc,Private room,46.97,EUR,1,1,1.04,2023-12-24,,4.0,1,1.0,2.0,157
+AB500922,10030,London,Islington,Private room,56.65,GBP,5,7,0.36,2024-10-07,4.83,3.0,3,1.0,2.0,202
+AB500923,10569,Barcelona,Sants-Montjuïc,Entire home/apt,116.91,EUR,3,22,0.97,2026-05-22,4.77,2.0,8,2.0,3.0,237
+AB500924,10451,Paris,Le Marais,Private room,47.32,EUR,7,18,0.08,2026-01-08,4.37,3.0,2,1.0,2.0,1
+AB500925,10284,London,Westminster,Private room,52.44,GBP,3,5,0.57,2024-12-17,4.32,1.0,2,2.0,4.0,252
+AB500926,10156,Singapore,Bugis,Private room,36.37,SGD,7,1,2.37,2025-10-07,,2.0,1,1.0,3.0,312
+AB500927,10655,New York,Bronx,Entire home/apt,59.24,USD,30,13,0.85,2023-11-27,4.9,3.0,7,3.0,,68
+AB500928,10038,Barcelona,Sants-Montjuïc,Entire home/apt,56.33,EUR,7,8,0.21,2025-08-25,4.91,5.0,5,3.0,5.0,10
+AB500929,10302,Tokyo,Taito,Entire home/apt,48.56,JPY,3,3,0.86,2023-12-23,4.33,2.0,3,0.0,1.0,272
+AB500930,10800,New York,Bronx,Entire home/apt,157.16,USD,5,5,0.31,2026-01-12,4.28,2.0,8,4.0,5.0,141
+AB500931,10312,Singapore,Chinatown,Entire home/apt,185.1,SGD,2,8,0.86,2024-08-20,4.56,2.0,4,2.0,2.0,38
+AB500932,10143,Sydney,Surry Hills,Private room,65.64,AUD,1,7,0.56,2025-01-02,4.61,7.0,3,1.0,1.0,15
+AB500933,10456,Tokyo,Minato,Private room,22.8,JPY,3,6,0.22,2025-03-26,4.77,4.0,2,1.0,3.0,164
+AB500934,10446,Sydney,Bondi,Private room,41.06,AUD,5,4,0.14,2023-12-16,4.4,2.0,2,1.0,1.0,243
+AB500935,10339,London,Kensington,Private room,48.15,GBP,3,18,1.51,2024-07-10,4.53,2.0,3,1.0,2.0,280
+AB500936,10072,Paris,Le Marais,Hotel room,152.36,EUR,7,4,0.2,2026-03-07,4.39,5.0,3,1.0,1.0,149
+AB500937,10029,Barcelona,Ciutat Vella,Private room,28.99,EUR,3,4,1.3,2026-05-12,4.09,5.0,2,1.0,2.0,198
+AB500938,10711,London,Camden,Private room,53.02,GBP,30,9,0.75,2024-11-13,4.58,1.0,2,1.0,1.0,327
+AB500939,10340,Barcelona,Gràcia,Private room,18.85,EUR,3,28,1.3,2024-05-11,3.96,3.0,3,1.0,2.0,342
+AB500940,10233,Barcelona,Gràcia,Entire home/apt,128.68,EUR,1,6,1.13,2026-01-31,4.3,3.0,1,3.0,5.0,128
+AB500941,10696,London,Kensington,Entire home/apt,86.61,GBP,14,8,0.69,2023-12-24,4.05,3.0,1,0.0,1.0,222
+AB500942,10421,Tokyo,Shibuya,Entire home/apt,84.41,JPY,1,6,0.05,2026-07-12,4.52,2.0,4,4.0,5.0,65
+AB500943,10066,New York,Brooklyn,Entire home/apt,84.88,USD,1,11,0.35,2026-11-02,4.25,4.0,6,3.0,5.0,0
+AB500944,10204,Tokyo,Taito,Hotel room,61.7,JPY,1,9,0.52,2026-01-14,3.93,6.0,5,2.0,2.0,40
+AB500945,10846,Singapore,Bugis,Private room,64.99,SGD,1,11,0.69,2024-07-30,5.0,3.0,2,1.0,2.0,167
+AB500946,10266,Paris,Louvre,Entire home/apt,107.71,EUR,2,11,0.6,2024-08-31,4.8,5.0,7,2.0,3.0,326
+AB500947,10590,Tokyo,Minato,Entire home/apt,110.45,JPY,3,0,,,,2.0,1,4.0,5.0,79
+AB500948,10101,London,Camden,Private room,44.67,GBP,3,5,0.43,2025-12-08,4.55,4.0,3,2.0,3.0,139
+AB500949,10452,New York,Manhattan,Shared room,52.34,USD,3,13,0.37,2026-04-20,4.45,5.0,1,0.0,2.0,361
+AB500950,10507,Singapore,Chinatown,Entire home/apt,114.2,SGD,5,3,0.42,2025-09-29,4.24,2.0,1,4.0,6.0,155
+AB500951,10761,New York,Bronx,Entire home/apt,330.65,USD,3,2,0.83,2026-03-20,,1.0,5,4.0,,356
+AB500952,10251,Barcelona,Gràcia,Hotel room,66.54,EUR,30,3,1.52,2025-04-25,4.26,1.0,3,4.0,5.0,47
+AB500953,10199,New York,Staten Island,Entire home/apt,185.52,USD,1,16,1.89,2026-02-14,4.8,5.0,3,2.0,4.0,98
+AB500954,10135,Sydney,CBD,Entire home/apt,81.44,AUD,5,2,0.22,2023-12-28,,2.0,2,1.0,,57
+AB500955,10226,London,Camden,Entire home/apt,240.3,GBP,2,2,0.32,2026-11-18,,1.0,6,0.0,1.0,169
+AB500956,10477,New York,Manhattan,Entire home/apt,113.92,USD,3,10,0.27,2025-10-01,4.38,7.0,8,0.0,1.0,141
+AB500957,10838,Barcelona,Eixample,Shared room,39.92,EUR,1,10,0.16,2026-07-14,3.66,4.0,2,0.0,2.0,197
+AB500958,10170,London,Camden,Entire home/apt,116.46,GBP,3,27,0.33,2024-09-12,4.53,2.0,1,3.0,5.0,16
+AB500959,10369,Singapore,Little India,Private room,59.17,SGD,7,12,0.81,2026-07-02,4.47,6.0,3,2.0,3.0,301
+AB500960,10468,Barcelona,,Hotel room,182.31,EUR,5,1,0.69,2024-09-12,,1.0,2,0.0,2.0,152
+AB500961,10194,New York,Brooklyn,Entire home/apt,150.32,USD,2,9,1.16,2025-01-28,4.56,4.0,4,1.0,2.0,48
+AB500962,10770,Sydney,Manly,Entire home/apt,76.69,AUD,30,3,1.08,2026-02-15,4.61,2.0,4,,1.0,248
+AB500963,10387,London,Islington,Private room,42.12,GBP,1,19,0.76,2026-09-28,4.35,5.0,1,1.0,2.0,188
+AB500964,10632,Paris,Latin Quarter,Private room,91.9,EUR,2,7,1.34,2026-03-02,5.0,3.0,3,1.0,2.0,186
+AB500965,10547,New York,Queens,Entire home/apt,182.96,USD,1,3,1.14,2024-10-07,4.32,2.0,7,4.0,5.0,176
+AB500966,10804,London,Islington,Entire home/apt,69.32,GBP,1,6,0.1,2024-04-14,4.76,1.0,5,4.0,4.0,292
+AB500967,10724,Paris,Montmartre,Shared room,36.46,EUR,14,14,0.71,2025-12-21,4.39,4.0,1,0.0,1.0,261
+AB500968,10281,New York,Bronx,Hotel room,219.84,USD,3,8,0.65,2024-10-23,4.22,5.0,6,4.0,4.0,259
+AB500969,10778,London,Hackney,Entire home/apt,241.57,GBP,2,8,0.89,2024-08-29,5.0,2.0,4,0.0,1.0,338
+AB500970,10334,London,Kensington,Private room,84.77,GBP,5,8,0.2,2024-04-17,4.65,5.0,3,1.0,3.0,130
+AB500971,10329,Sydney,Manly,Entire home/apt,190.05,AUD,30,12,0.66,2025-10-09,4.32,3.0,3,4.0,4.0,199
+AB500972,10239,Paris,Latin Quarter,Private room,78.35,EUR,1,49,0.26,2026-11-08,4.94,4.0,3,1.0,2.0,228
+AB500973,10828,London,Camden,Entire home/apt,340.14,GBP,14,4,0.12,2024-08-15,4.08,5.0,6,0.0,2.0,99
+AB500974,10717,Paris,Belleville,Private room,41.35,EUR,7,3,1.85,2025-09-05,4.21,6.0,3,1.0,1.0,141
+AB500975,10237,Dubai,Dubai Marina,Entire home/apt,137.4,AED,7,10,1.31,2024-06-02,5.0,3.0,1,0.0,1.0,60
+AB500976,10453,Paris,Louvre,Shared room,34.41,EUR,1,7,0.79,2025-04-25,4.68,4.0,1,0.0,1.0,329
+AB500977,10074,Tokyo,Shinjuku,Entire home/apt,79.54,JPY,3,8,1.96,2025-04-30,4.71,2.0,3,2.0,4.0,54
+AB500978,10844,Barcelona,Gràcia,Private room,31.18,EUR,1,12,0.08,2026-08-24,5.0,5.0,1,1.0,2.0,161
+AB500979,10454,Barcelona,Gràcia,Entire home/apt,56.13,EUR,3,27,0.82,2026-10-10,4.99,4.0,1,0.0,1.0,268
+AB500980,10240,Barcelona,Sants-Montjuïc,Entire home/apt,107.74,EUR,2,20,1.15,2024-08-23,4.31,1.0,7,1.0,3.0,9
+AB500981,10512,Tokyo,Minato,Entire home/apt,57.9,JPY,1,1,0.15,2024-06-29,,2.0,3,4.0,5.0,160
+AB500982,10783,Sydney,CBD,Entire home/apt,147.29,AUD,2,30,0.73,2024-10-30,4.13,4.0,5,0.0,1.0,346
+AB500983,10161,Paris,Louvre,Private room,88.12,EUR,2,1,0.39,2025-09-14,,5.0,1,1.0,1.0,328
+AB500984,10529,New York,Staten Island,Entire home/apt,199.9,USD,3,3,0.42,2025-06-05,4.39,3.0,1,0.0,1.0,157
+AB500985,10357,Paris,Belleville,Shared room,38.12,EUR,2,20,1.04,2025-12-26,5.0,3.0,1,0.0,2.0,196
+AB500986,10170,Barcelona,Ciutat Vella,Entire home/apt,62.68,EUR,3,14,1.1,2025-03-11,4.72,2.0,8,1.0,3.0,168
+AB500987,10602,Paris,Le Marais,Private room,43.47,EUR,5,6,0.49,2024-01-19,5.0,1.0,3,1.0,3.0,144
+AB500988,10352,Paris,Le Marais,Entire home/apt,94.74,EUR,30,28,0.52,2024-01-12,4.08,7.0,7,2.0,4.0,224
+AB500989,10282,Tokyo,Shibuya,Entire home/apt,187.51,JPY,5,27,0.35,2024-06-07,4.05,7.0,1,1.0,2.0,197
+AB500990,10820,Paris,Louvre,Private room,41.21,EUR,5,8,0.33,2026-03-31,4.46,3.0,1,1.0,1.0,11
+AB500991,10333,London,Camden,Entire home/apt,173.36,GBP,1,26,1.17,2025-09-11,4.19,2.0,8,0.0,2.0,220
+AB500992,10034,Barcelona,Sants-Montjuïc,Entire home/apt,133.51,EUR,2,13,0.94,2025-09-22,5.0,2.0,8,4.0,5.0,287
+AB500993,10414,Dubai,Downtown,Private room,87.21,AED,5,6,0.64,2024-06-11,4.53,1.0,1,1.0,2.0,203
+AB500994,10330,Singapore,Little India,Entire home/apt,198.69,SGD,14,8,0.69,2025-08-03,3.86,4.0,8,3.0,5.0,350
+AB500995,10257,Paris,Latin Quarter,Private room,85.68,EUR,7,10,0.65,2026-03-02,4.13,4.0,2,2.0,3.0,185
+AB500996,10450,Tokyo,Minato,Entire home/apt,94.25,JPY,3,2,0.64,2025-07-20,,4.0,7,3.0,3.0,352
+AB500997,10245,Barcelona,Sants-Montjuïc,Shared room,23.72,EUR,3,24,0.1,2026-02-04,4.63,6.0,2,0.0,1.0,192
+AB500998,10548,London,Hackney,Private room,53.63,GBP,1,2,0.37,2024-01-21,,7.0,3,1.0,3.0,267
+AB500999,10776,Dubai,Dubai Marina,Hotel room,122.42,AED,2,21,0.38,2024-02-23,4.17,2.0,8,2.0,3.0,144
+AB501000,10582,London,Hackney,Entire home/apt,154.61,GBP,2,2,0.7,2026-04-04,,3.0,2,1.0,3.0,289
+AB501001,10825,London,Hackney,Entire home/apt,100.23,GBP,3,15,0.32,2024-04-06,4.48,2.0,4,3.0,3.0,101
+AB501002,10316,Tokyo,Shinjuku,Entire home/apt,221.74,JPY,7,0,,,,3.0,3,3.0,3.0,135
+AB501003,10437,New York,Queens,Entire home/apt,76.43,USD,3,5,0.44,2024-01-03,4.03,2.0,5,0.0,1.0,113
+AB501004,10351,New York,Brooklyn,Hotel room,242.19,USD,3,1,1.49,2026-04-17,,4.0,5,3.0,5.0,304
+AB501005,10496,Tokyo,Setagaya,Entire home/apt,63.7,JPY,3,3,0.4,2026-07-13,4.72,2.0,8,2.0,2.0,92
+AB501006,10322,Paris,Belleville,Entire home/apt,176.78,EUR,30,7,0.32,2024-06-16,4.35,4.0,5,4.0,4.0,335
+AB501007,10302,Dubai,Downtown,Private room,85.3,AED,1,12,0.56,2024-01-10,4.45,2.0,2,1.0,2.0,307
+AB501008,10006,Tokyo,Minato,Entire home/apt,210.13,JPY,3,29,1.03,2025-04-07,4.56,5.0,4,4.0,5.0,162
+AB501009,10218,New York,Staten Island,Shared room,52.01,USD,2,5,0.37,2025-04-22,4.84,4.0,1,0.0,2.0,82
+AB501010,10027,Barcelona,Sants-Montjuïc,Private room,33.2,EUR,1,13,0.89,2025-02-19,4.26,4.0,3,1.0,1.0,215
+AB501011,10807,Dubai,Deira,Entire home/apt,144.15,AED,7,8,0.95,2026-10-25,5.0,3.0,5,1.0,3.0,258
+AB501012,10808,Tokyo,Setagaya,Entire home/apt,155.37,JPY,14,13,0.59,2026-05-21,4.92,3.0,3,4.0,6.0,198
+AB501013,10115,London,Hackney,Entire home/apt,108.11,GBP,3,13,0.44,2024-07-29,4.76,2.0,7,3.0,5.0,30
+AB501014,10463,Paris,Belleville,Entire home/apt,81.47,EUR,5,19,0.78,2026-04-27,4.49,2.0,6,2.0,3.0,302
+AB501015,10360,Singapore,Marina Bay,Entire home/apt,73.15,SGD,3,6,0.55,2024-07-20,4.27,3.0,7,2.0,3.0,123
+AB501016,10445,Barcelona,Sant Martí,Private room,27.66,EUR,3,6,0.05,2024-07-15,4.7,3.0,1,1.0,2.0,234
+AB501017,10192,Sydney,Bondi,Private room,79.2,AUD,3,6,0.76,2026-01-29,4.61,4.0,1,1.0,3.0,157
+AB501018,10201,Tokyo,Minato,Private room,62.69,JPY,1,17,2.6,2025-04-11,4.41,3.0,1,1.0,2.0,132
+AB501019,10810,London,Hackney,Private room,94.56,GBP,5,5,0.52,2026-03-12,4.92,2.0,2,1.0,3.0,60
+AB501020,10349,Barcelona,Eixample,Entire home/apt,49.93,EUR,1,3,0.5,2025-08-21,4.42,1.0,8,2.0,3.0,150
+AB501021,10123,Paris,Louvre,Entire home/apt,64.49,EUR,1,2,1.25,2024-05-21,,4.0,8,0.0,1.0,43
+AB501022,10180,Sydney,Manly,Entire home/apt,122.33,AUD,2,15,1.28,2025-02-23,4.71,1.0,3,3.0,4.0,339
+AB501023,10151,Paris,Belleville,Private room,46.63,EUR,3,8,0.5,2026-03-12,5.0,1.0,3,1.0,3.0,254
+AB501024,10788,Dubai,Business Bay,Private room,95.73,AED,2,9,1.06,2024-05-13,5.0,3.0,2,1.0,2.0,20
+AB501025,10525,London,Islington,Entire home/apt,193.41,GBP,7,7,0.66,2024-01-25,4.83,5.0,4,3.0,5.0,348
+AB501026,10538,London,Islington,Shared room,22.44,GBP,2,22,1.6,2024-09-29,4.21,3.0,2,0.0,1.0,189
+AB501027,10612,Singapore,Little India,Private room,34.17,SGD,3,15,0.22,2024-04-17,5.0,6.0,1,1.0,1.0,62
+AB501028,10386,Paris,Le Marais,Private room,93.87,EUR,5,8,0.85,2025-09-09,4.58,2.0,2,1.0,2.0,23
+AB501029,10519,Paris,Louvre,Private room,52.42,EUR,7,8,0.98,2025-07-03,4.41,2.0,1,1.0,1.0,91
+AB501030,10024,Singapore,Orchard,Entire home/apt,190.43,SGD,2,12,0.16,2024-07-27,5.0,2.0,3,2.0,3.0,203
+AB501031,10844,Sydney,CBD,Entire home/apt,195.32,AUD,14,9,0.15,2024-06-22,4.21,1.0,5,2.0,3.0,87
+AB501032,10674,Tokyo,Minato,Private room,117.65,JPY,1,13,0.88,2026-05-27,4.35,4.0,3,1.0,3.0,290
+AB501033,10035,Tokyo,Shinjuku,Private room,54.63,JPY,1,1,0.96,2024-01-09,,2.0,3,1.0,1.0,165
+AB501034,10008,New York,Manhattan,Private room,88.85,USD,3,3,0.28,2025-12-25,4.78,2.0,2,1.0,2.0,304
+AB501035,10366,Dubai,Business Bay,Shared room,29.59,AED,14,11,1.84,2025-11-16,5.0,4.0,2,0.0,1.0,325
+AB501036,10382,London,Camden,Entire home/apt,184.52,GBP,14,12,0.28,2024-02-19,4.13,3.0,6,0.0,1.0,179
+AB501037,10811,Tokyo,Setagaya,Entire home/apt,109.32,JPY,30,5,1.27,2025-08-19,5.0,2.0,3,4.0,5.0,201
+AB501038,10140,Dubai,Business Bay,Entire home/apt,38.91,AED,1,0,,,,2.0,7,2.0,2.0,33
+AB501039,10119,Tokyo,Shibuya,Private room,42.93,JPY,14,3,0.49,2026-11-03,4.99,5.0,3,1.0,2.0,138
+AB501040,10791,Barcelona,Eixample,Private room,33.33,EUR,3,4,3.07,2025-03-16,4.29,2.0,1,1.0,2.0,66
+AB501041,10806,Dubai,Downtown,Private room,23.61,AED,5,4,0.65,2025-11-26,4.16,3.0,3,1.0,2.0,263
+AB501042,10802,Singapore,Little India,Private room,86.31,SGD,1,16,0.11,2024-04-25,4.41,4.0,2,1.0,1.0,305
+AB501043,10488,Sydney,Manly,Entire home/apt,109.41,AUD,14,24,0.92,2025-04-13,4.48,3.0,8,3.0,3.0,293
+AB501044,10807,Paris,Montmartre,Entire home/apt,83.96,EUR,7,18,0.53,2024-05-29,4.88,5.0,6,2.0,3.0,99
+AB501045,10481,Barcelona,Gràcia,Entire home/apt,149.24,EUR,3,5,0.79,2025-06-01,4.3,5.0,7,1.0,3.0,342
+AB501046,10755,London,Kensington,Entire home/apt,103.17,GBP,3,11,0.93,2026-06-10,4.52,6.0,3,2.0,4.0,30
+AB501047,10615,Dubai,Jumeirah,Entire home/apt,74.01,AED,7,0,,,,8.0,1,0.0,2.0,45
+AB501048,10521,Sydney,Surry Hills,Entire home/apt,255.84,AUD,3,2,0.01,2026-06-27,,7.0,1,4.0,4.0,46
+AB501049,10587,Tokyo,Taito,Entire home/apt,129.1,JPY,1,11,2.1,2024-11-30,4.09,3.0,2,1.0,2.0,41
+AB501050,10517,London,Westminster,Private room,25.65,GBP,30,6,0.89,2025-04-07,4.46,4.0,1,1.0,2.0,356
+AB501051,10324,Paris,Le Marais,Entire home/apt,75.42,EUR,30,1,0.24,2025-12-26,,3.0,6,0.0,2.0,240
+AB501052,10610,London,Islington,Entire home/apt,121.31,GBP,1,19,0.06,2024-01-29,4.46,3.0,1,3.0,5.0,112
+AB501053,10815,Barcelona,Sant Martí,Entire home/apt,185.52,EUR,2,8,0.38,2025-01-25,4.4,4.0,3,2.0,3.0,59
+AB501054,10810,Barcelona,Sants-Montjuïc,Entire home/apt,64.22,EUR,2,21,0.26,2025-03-17,4.91,3.0,6,3.0,5.0,225
+AB501055,10295,Paris,Belleville,Private room,39.6,EUR,1,2,0.55,2024-04-21,,2.0,3,,1.0,144
+AB501056,10119,London,Westminster,Entire home/apt,129.62,GBP,5,10,1.16,2026-03-04,4.5,2.0,2,4.0,6.0,358
+AB501057,10526,London,Westminster,Shared room,56.21,GBP,1,12,1.04,2025-09-08,4.37,2.0,2,0.0,1.0,237
+AB501058,10653,Dubai,Jumeirah,Private room,70.84,AED,1,7,0.31,2026-10-25,4.17,3.0,3,1.0,2.0,357
+AB501059,10372,Singapore,Orchard,Private room,54.15,SGD,7,13,0.72,2026-11-10,4.34,3.0,3,1.0,1.0,359
+AB501060,10796,Singapore,Chinatown,Private room,107.68,SGD,3,21,1.38,2026-01-04,4.39,2.0,3,1.0,3.0,117
+AB501061,10317,New York,Manhattan,Hotel room,237.13,USD,30,16,0.34,2024-09-11,5.0,2.0,3,2.0,2.0,67
+AB501062,10150,Dubai,Downtown,Shared room,19.18,AED,30,8,0.69,2025-07-06,4.1,6.0,1,0.0,1.0,105
+AB501063,10463,New York,Brooklyn,Entire home/apt,137.45,USD,14,0,,,,7.0,7,4.0,4.0,276
+AB501064,10026,Paris,Belleville,Hotel room,115.19,EUR,2,6,2.08,2026-10-24,5.0,4.0,3,4.0,5.0,153
+AB501065,10507,New York,Queens,Private room,54.72,USD,2,2,0.27,2026-09-04,,4.0,2,1.0,1.0,270
+AB501066,10594,London,Westminster,Private room,48.55,GBP,2,17,0.93,2026-04-17,4.72,3.0,3,1.0,2.0,40
+AB501067,10016,New York,Brooklyn,Entire home/apt,109.97,USD,2,7,0.56,2023-11-23,4.44,3.0,7,,4.0,14
+AB501068,10373,New York,Brooklyn,Hotel room,371.0,USD,3,4,0.06,2024-09-10,4.83,2.0,7,1.0,3.0,137
+AB501069,10802,Paris,Belleville,Entire home/apt,100.06,EUR,2,11,0.27,2024-07-11,4.39,4.0,2,2.0,3.0,13
+AB501070,10425,London,Hackney,Entire home/apt,188.17,GBP,7,13,0.46,2026-08-09,4.39,1.0,5,2.0,,146
+AB501071,10669,New York,Manhattan,Entire home/apt,440.83,USD,5,14,0.86,2025-04-19,5.0,1.0,5,2.0,2.0,159
+AB501072,10664,New York,Bronx,Private room,156.35,USD,2,17,0.85,2024-01-18,4.2,2.0,1,1.0,2.0,236
+AB501073,10331,Barcelona,Sants-Montjuïc,Private room,75.03,EUR,14,3,1.2,2024-11-27,5.0,1.0,3,1.0,3.0,280
+AB501074,10471,New York,Staten Island,Private room,42.36,USD,2,19,0.99,2026-08-30,4.23,5.0,1,1.0,2.0,343
+AB501075,10767,New York,Staten Island,Entire home/apt,110.98,USD,1,0,,,,2.0,5,4.0,6.0,155
+AB501076,10157,London,Hackney,Entire home/apt,111.25,GBP,3,6,0.31,2026-09-28,4.68,6.0,5,3.0,5.0,219
+AB501077,10659,Tokyo,Minato,Entire home/apt,144.93,JPY,1,4,1.7,2026-05-08,4.9,5.0,7,3.0,3.0,270
+AB501078,10822,Sydney,Surry Hills,Shared room,22.75,AUD,1,4,0.42,2025-11-04,4.38,4.0,2,0.0,1.0,238
+AB501079,10013,New York,Staten Island,Entire home/apt,204.02,USD,1,6,0.41,2024-01-15,4.48,4.0,7,2.0,4.0,339
+AB501080,10502,Barcelona,Ciutat Vella,Entire home/apt,184.2,EUR,1,25,0.16,2025-12-15,4.16,4.0,8,0.0,2.0,348
+AB501081,10419,Sydney,Surry Hills,Entire home/apt,74.77,AUD,5,4,1.07,2024-08-18,3.72,4.0,2,4.0,4.0,72
+AB501082,10066,London,Westminster,Entire home/apt,137.23,GBP,1,29,1.04,2026-09-06,4.22,3.0,1,3.0,3.0,68
+AB501083,10845,Dubai,Downtown,Private room,82.11,AED,2,8,1.27,2025-11-05,4.24,2.0,2,2.0,,280
+AB501084,10322,Dubai,Jumeirah,Private room,80.45,AED,7,8,1.56,2024-03-29,5.0,3.0,3,1.0,3.0,3
+AB501085,10792,Barcelona,Sant Martí,Entire home/apt,49.15,EUR,1,14,1.04,2025-12-27,5.0,2.0,8,3.0,3.0,156
+AB501086,10596,London,Hackney,Entire home/apt,143.38,GBP,7,4,0.46,2026-10-17,4.37,8.0,4,2.0,2.0,333
+AB501087,10526,Sydney,Bondi,Entire home/apt,71.72,AUD,5,5,0.71,2026-09-06,4.25,7.0,5,0.0,1.0,276
+AB501088,10193,Barcelona,Sants-Montjuïc,Private room,70.17,EUR,30,7,0.02,2026-08-06,4.03,2.0,1,1.0,1.0,353
+AB501089,10644,Dubai,Jumeirah,Private room,71.9,AED,30,12,1.03,2024-06-25,4.27,2.0,1,1.0,2.0,224
+AB501090,10791,Barcelona,Sant Martí,Entire home/apt,109.2,EUR,30,9,0.52,2026-08-12,4.87,6.0,7,4.0,5.0,24
+AB501091,10567,Singapore,Marina Bay,Entire home/apt,59.58,SGD,2,0,,,,3.0,5,3.0,4.0,68
+AB501092,10509,New York,Bronx,Entire home/apt,233.38,USD,3,3,2.04,2026-01-06,3.85,4.0,6,0.0,,331
+AB501093,10024,New York,Brooklyn,Entire home/apt,96.08,USD,5,10,0.37,2026-11-02,4.95,2.0,4,2.0,4.0,195
+AB501094,10031,New York,Manhattan,Private room,40.55,USD,3,7,0.19,2025-08-19,4.59,4.0,3,1.0,2.0,220
+AB501095,10194,Tokyo,Taito,Private room,71.54,JPY,3,14,0.17,2025-06-30,4.7,1.0,3,1.0,3.0,62
+AB501096,10137,New York,Brooklyn,Entire home/apt,216.67,USD,1,5,1.4,2024-10-06,4.42,2.0,1,4.0,5.0,174
+AB501097,10716,New York,Manhattan,Entire home/apt,171.66,USD,3,9,2.25,2025-11-24,4.45,3.0,2,4.0,6.0,40
+AB501098,10522,Sydney,CBD,Private room,39.77,AUD,2,13,0.03,2024-05-01,4.57,3.0,2,2.0,4.0,111
+AB501099,10054,Tokyo,Shinjuku,Entire home/apt,171.67,JPY,5,1,1.64,2024-06-23,,3.0,1,4.0,5.0,56
+AB501100,10488,Dubai,Downtown,Entire home/apt,251.07,AED,5,7,0.46,2026-08-26,4.41,6.0,5,1.0,1.0,146
+AB501101,10724,Barcelona,Ciutat Vella,Entire home/apt,70.64,EUR,3,23,1.34,2024-05-16,4.12,4.0,8,1.0,2.0,220
+AB501102,10838,Dubai,Jumeirah,Entire home/apt,139.95,AED,1,4,0.47,2025-02-08,4.81,2.0,3,2.0,2.0,206
+AB501103,10572,London,Hackney,Entire home/apt,175.43,GBP,2,8,0.42,2025-12-22,4.03,2.0,6,0.0,2.0,100
+AB501104,10422,London,Hackney,Private room,96.78,GBP,30,4,0.18,2025-09-25,4.69,3.0,1,1.0,1.0,339
+AB501105,10164,Dubai,Downtown,Private room,129.1,AED,5,5,0.42,2025-12-04,4.96,4.0,1,1.0,3.0,323
+AB501106,10097,Barcelona,Eixample,Entire home/apt,147.57,EUR,2,7,0.77,2026-04-11,4.38,4.0,7,4.0,6.0,327
+AB501107,10763,Barcelona,Eixample,Shared room,17.78,EUR,2,14,0.48,2024-02-19,4.2,2.0,2,0.0,1.0,328
+AB501108,10136,Paris,Belleville,Entire home/apt,98.97,EUR,3,7,0.45,2026-03-31,4.83,4.0,5,,3.0,360
+AB501109,10815,Paris,Latin Quarter,Private room,37.44,EUR,2,18,1.26,2026-02-08,4.89,2.0,2,1.0,1.0,201
+AB501110,10800,London,Westminster,Private room,92.22,GBP,1,3,0.43,2024-03-27,4.03,4.0,1,1.0,2.0,180
+AB501111,10736,Dubai,Dubai Marina,Entire home/apt,83.1,AED,30,12,0.53,2025-08-28,4.48,2.0,3,1.0,1.0,128
+AB501112,10462,Barcelona,Gràcia,Entire home/apt,44.06,EUR,2,3,1.51,2026-06-10,4.66,3.0,4,0.0,1.0,5
+AB501113,10303,Paris,Le Marais,Private room,33.1,EUR,2,22,1.05,2024-09-21,4.48,5.0,3,1.0,3.0,282
+AB501114,10206,New York,Manhattan,Entire home/apt,165.2,USD,3,10,0.7,2026-07-30,5.0,3.0,8,3.0,4.0,49
+AB501115,10497,Dubai,Deira,Entire home/apt,74.79,AED,5,4,0.42,2024-01-06,5.0,2.0,6,4.0,4.0,192
+AB501116,10737,Sydney,Bondi,Private room,104.09,AUD,5,4,0.81,2026-08-29,5.0,1.0,3,1.0,,115
+AB501117,10600,New York,Brooklyn,Private room,99.85,USD,1,12,1.38,2024-12-09,4.09,3.0,2,1.0,1.0,268
+AB501118,10089,New York,Bronx,Shared room,35.2,USD,3,0,,,,3.0,2,0.0,1.0,138
+AB501119,10739,New York,Brooklyn,Private room,81.82,USD,5,8,0.49,2026-01-09,4.32,3.0,3,2.0,4.0,269
+AB501120,10231,New York,Staten Island,Entire home/apt,131.74,USD,5,6,0.16,2025-08-27,4.84,2.0,2,4.0,4.0,216
+AB501121,10470,New York,Staten Island,Entire home/apt,283.71,USD,2,2,0.44,2026-01-25,,2.0,6,2.0,2.0,41
+AB501122,10403,Barcelona,Gràcia,Private room,63.38,EUR,1,4,1.58,2025-04-24,4.53,2.0,2,2.0,4.0,161
+AB501123,10655,London,Hackney,Private room,22.52,GBP,2,43,0.87,2024-08-23,4.44,4.0,3,1.0,1.0,117
+AB501124,10629,Tokyo,Setagaya,Private room,63.55,JPY,2,18,0.03,2026-07-31,4.65,4.0,1,1.0,1.0,93
+AB501125,10728,Sydney,Bondi,Entire home/apt,81.02,AUD,2,10,0.48,2026-03-28,4.97,3.0,4,0.0,1.0,177
+AB501126,10238,London,Westminster,Entire home/apt,88.5,GBP,5,20,0.16,2026-09-13,5.0,2.0,5,0.0,2.0,196
+AB501127,10244,Sydney,Surry Hills,Entire home/apt,229.61,AUD,1,3,0.54,2026-08-29,3.97,2.0,7,3.0,3.0,73
+AB501128,10339,London,Hackney,Private room,57.05,GBP,2,14,0.4,2025-04-09,4.36,2.0,2,1.0,2.0,291
+AB501129,10799,London,Westminster,Private room,33.79,GBP,14,2,2.17,2025-01-22,,5.0,1,1.0,3.0,239
+AB501130,10172,Tokyo,Shibuya,Private room,85.01,JPY,2,23,0.89,2024-08-29,4.45,5.0,2,1.0,1.0,124
+AB501131,10267,Sydney,Newtown,Entire home/apt,152.98,AUD,2,10,0.29,2025-08-24,4.55,3.0,3,0.0,2.0,52
+AB501132,10689,New York,Manhattan,Private room,45.19,USD,2,23,0.05,2024-11-22,4.21,4.0,1,1.0,2.0,47
+AB501133,10472,Dubai,Deira,Shared room,36.18,AED,14,16,0.35,2024-10-14,4.39,4.0,1,0.0,2.0,329
+AB501134,10227,Singapore,Bugis,Entire home/apt,209.74,SGD,2,13,2.22,2026-01-22,4.45,5.0,3,1.0,3.0,39
+AB501135,10094,Sydney,Surry Hills,Private room,56.68,AUD,1,9,2.23,2024-11-25,4.26,2.0,1,,3.0,104
+AB501136,10203,Paris,Montmartre,Entire home/apt,111.88,EUR,7,13,0.51,2026-01-22,4.9,5.0,3,2.0,3.0,8
+AB501137,10374,Paris,Latin Quarter,Entire home/apt,97.63,EUR,3,1,0.25,2025-03-05,,5.0,8,2.0,2.0,224
+AB501138,10212,Sydney,Newtown,Hotel room,179.12,AUD,1,10,0.72,2023-12-10,4.37,4.0,3,0.0,1.0,40
+AB501139,10558,Dubai,Jumeirah,Private room,69.28,AED,5,3,0.21,2024-06-01,4.57,1.0,2,1.0,2.0,9
+AB501140,10769,London,Islington,Entire home/apt,183.12,GBP,5,24,0.46,2024-12-19,4.57,2.0,4,3.0,3.0,18
+AB501141,10842,London,Islington,Private room,50.79,GBP,5,9,0.44,2025-08-18,4.72,4.0,2,1.0,2.0,15
+AB501142,10832,Barcelona,Gràcia,Shared room,26.77,EUR,5,2,0.77,2026-11-16,,4.0,2,0.0,1.0,364
+AB501143,10136,Singapore,Orchard,Entire home/apt,177.9,SGD,3,8,0.28,2024-05-16,5.0,4.0,8,3.0,3.0,10
+AB501144,10530,Barcelona,Sants-Montjuïc,Private room,58.56,EUR,2,1,0.19,2023-12-27,,5.0,1,1.0,1.0,104
+AB501145,10290,Barcelona,Ciutat Vella,Private room,42.95,EUR,30,5,0.03,2025-09-07,4.66,3.0,3,1.0,1.0,138
+AB501146,10176,London,Hackney,Entire home/apt,148.97,GBP,7,9,0.11,2025-03-13,5.0,6.0,5,0.0,1.0,37
+AB501147,10485,Tokyo,Shibuya,Private room,20.25,JPY,3,9,0.36,2023-12-30,4.69,2.0,1,,2.0,196
+AB501148,10724,Tokyo,Setagaya,Entire home/apt,73.62,JPY,3,4,0.41,2024-02-24,4.24,2.0,4,3.0,5.0,218
+AB501149,10530,Singapore,Bugis,Entire home/apt,189.44,SGD,5,29,0.32,2026-11-12,4.25,3.0,1,3.0,4.0,337
+AB501150,10349,Barcelona,Gràcia,Entire home/apt,126.3,EUR,2,17,0.61,2024-05-03,4.62,3.0,8,0.0,1.0,159
+AB501151,10447,New York,Brooklyn,Hotel room,73.19,USD,7,6,0.26,2026-01-21,4.75,2.0,1,2.0,2.0,309
+AB501152,10806,Dubai,Dubai Marina,Entire home/apt,128.44,AED,7,3,0.54,2024-12-08,4.07,4.0,5,4.0,5.0,279
+AB501153,10160,London,Islington,Entire home/apt,231.51,GBP,3,6,1.29,2024-12-23,4.78,2.0,6,1.0,3.0,195
+AB501154,10494,Singapore,Chinatown,Hotel room,226.17,SGD,7,1,0.9,2025-10-19,,3.0,8,1.0,2.0,271
+AB501155,10444,Paris,Louvre,Entire home/apt,118.41,EUR,30,29,1.01,2026-03-15,4.43,1.0,3,1.0,2.0,150
+AB501156,10795,Barcelona,Gràcia,Entire home/apt,111.71,EUR,3,6,0.36,2024-07-02,4.84,3.0,4,2.0,4.0,45
+AB501157,10217,Barcelona,Ciutat Vella,Entire home/apt,105.61,EUR,5,24,0.8,2024-06-29,4.54,2.0,7,4.0,6.0,342
+AB501158,10632,Barcelona,Sants-Montjuïc,Entire home/apt,73.28,EUR,3,3,2.72,2025-07-28,4.34,6.0,6,4.0,6.0,171
+AB501159,10501,Sydney,CBD,Private room,96.0,AUD,2,26,1.05,2026-02-09,5.0,2.0,3,1.0,3.0,293
+AB501160,10058,Tokyo,Shinjuku,Private room,45.19,JPY,3,6,0.16,2025-04-04,5.0,4.0,2,2.0,3.0,196
+AB501161,10833,Sydney,Surry Hills,Private room,50.95,AUD,1,3,0.06,2025-04-14,4.33,4.0,3,1.0,2.0,236
+AB501162,10252,New York,Queens,Entire home/apt,59.7,USD,7,8,1.79,2025-05-11,4.62,1.0,5,3.0,4.0,172
+AB501163,10075,Dubai,Business Bay,Shared room,22.25,AED,30,5,0.38,2026-11-02,4.79,5.0,1,0.0,2.0,193
+AB501164,10503,Dubai,Downtown,Private room,57.16,AED,7,10,0.2,2026-11-14,4.7,4.0,1,1.0,1.0,296
+AB501165,10111,New York,Brooklyn,Private room,101.53,USD,2,2,0.21,2024-10-04,,3.0,2,1.0,2.0,154
+AB501166,10461,Dubai,Jumeirah,Entire home/apt,94.25,AED,1,8,0.75,2026-10-29,5.0,3.0,4,4.0,5.0,325
+AB501167,10789,Barcelona,Eixample,Private room,122.27,EUR,1,4,0.76,2025-12-12,3.98,4.0,3,1.0,2.0,164
+AB501168,10785,London,Camden,Private room,52.2,GBP,2,7,1.33,2025-06-13,4.95,1.0,1,1.0,2.0,119
+AB501169,10010,Paris,Le Marais,Private room,82.29,EUR,5,24,2.64,2025-02-15,4.39,1.0,2,1.0,1.0,357
+AB501170,10470,New York,Brooklyn,Entire home/apt,176.25,USD,14,6,0.31,2024-05-31,4.72,5.0,6,3.0,3.0,59
+AB501171,10509,New York,Bronx,Entire home/apt,101.68,USD,2,2,0.37,2025-06-20,,4.0,1,0.0,2.0,257
+AB501172,10744,London,Westminster,Hotel room,113.65,GBP,30,17,0.23,2026-01-13,4.4,5.0,8,2.0,4.0,67
+AB501173,10846,Tokyo,Setagaya,Entire home/apt,227.43,JPY,5,0,,,,3.0,3,4.0,4.0,101
+AB501174,10541,New York,Queens,Entire home/apt,115.82,USD,2,10,0.31,2024-11-04,4.54,3.0,3,0.0,1.0,294
+AB501175,10737,New York,Brooklyn,Entire home/apt,467.02,USD,1,15,0.94,2024-11-04,3.99,2.0,3,2.0,4.0,30
+AB501176,10616,Paris,Le Marais,Private room,39.31,EUR,3,0,,,,4.0,2,1.0,1.0,38
+AB501177,10089,Sydney,CBD,Entire home/apt,213.57,AUD,14,6,0.67,2024-08-24,3.96,2.0,6,3.0,4.0,14
+AB501178,10230,Singapore,Orchard,Private room,72.29,SGD,1,9,1.8,2026-11-03,4.73,6.0,1,1.0,3.0,252
+AB501179,10583,New York,Staten Island,Entire home/apt,306.38,USD,3,9,1.79,2025-09-28,4.83,3.0,2,3.0,5.0,335
+AB501180,10618,Barcelona,Ciutat Vella,Entire home/apt,54.32,EUR,7,10,0.24,2025-08-16,4.74,2.0,6,2.0,4.0,360
+AB501181,10464,Paris,Latin Quarter,Entire home/apt,127.57,EUR,5,6,0.6,2026-08-08,4.24,3.0,6,2.0,4.0,358
+AB501182,10082,Paris,,Private room,76.11,EUR,7,3,1.54,2025-09-28,4.17,3.0,3,2.0,3.0,4
+AB501183,10606,Singapore,Chinatown,Private room,124.41,SGD,3,9,1.45,2023-12-27,4.8,2.0,3,1.0,1.0,226
+AB501184,10780,New York,Manhattan,Entire home/apt,241.97,USD,5,16,0.07,2024-12-17,5.0,5.0,6,2.0,4.0,95
+AB501185,10781,Paris,Montmartre,Private room,62.89,EUR,1,6,0.46,2026-06-17,4.78,4.0,3,1.0,3.0,16
+AB501186,10424,Paris,Montmartre,Private room,78.39,EUR,3,3,0.32,2025-11-01,4.35,4.0,1,1.0,3.0,303
+AB501187,10028,Dubai,Dubai Marina,Shared room,75.26,AED,3,7,0.47,2026-10-03,4.55,2.0,1,0.0,1.0,194
+AB501188,10701,Barcelona,Eixample,Shared room,15.0,EUR,1,9,0.28,2023-12-10,5.0,2.0,1,0.0,1.0,50
+AB501189,10552,London,Camden,Entire home/apt,65.18,GBP,2,26,1.49,2024-12-12,4.81,1.0,8,1.0,1.0,119
+AB501190,10209,New York,Queens,Entire home/apt,233.53,USD,2,7,0.15,2025-04-25,4.87,4.0,1,1.0,1.0,11
+AB501191,10001,Sydney,Manly,Entire home/apt,97.86,AUD,2,9,1.14,2025-12-01,4.2,3.0,8,0.0,2.0,0
+AB501192,10834,Dubai,Business Bay,Private room,61.7,AED,5,12,1.07,2026-03-03,3.8,4.0,1,1.0,3.0,144
+AB501193,10189,Singapore,Chinatown,Private room,42.66,SGD,2,2,0.07,2024-01-23,,5.0,1,1.0,3.0,349
+AB501194,10537,New York,Bronx,Entire home/apt,190.79,USD,2,7,0.26,2025-10-19,4.66,1.0,2,1.0,1.0,5
+AB501195,10147,New York,Queens,Entire home/apt,127.91,USD,5,4,0.4,2025-10-25,4.96,6.0,8,2.0,2.0,219
+AB501196,10839,Dubai,Jumeirah,Entire home/apt,154.53,AED,1,8,2.3,2024-06-24,4.47,4.0,3,3.0,4.0,28
+AB501197,10000,New York,Staten Island,Private room,52.17,USD,2,2,0.36,2024-04-15,,2.0,3,1.0,2.0,196
+AB501198,10429,Tokyo,Taito,Private room,52.38,JPY,2,3,0.44,2023-11-27,4.58,4.0,1,1.0,3.0,302
+AB501199,10383,New York,Bronx,Entire home/apt,78.54,USD,14,5,0.44,2024-08-07,4.97,3.0,3,2.0,2.0,138
+AB501200,10279,Paris,Montmartre,Entire home/apt,65.49,EUR,2,13,1.03,2025-09-29,4.43,6.0,1,3.0,3.0,162
+AB501201,10113,Paris,Louvre,Entire home/apt,102.23,EUR,2,41,0.09,2026-08-08,4.95,1.0,6,1.0,2.0,364
+AB501202,10049,Barcelona,Sant Martí,Private room,53.96,EUR,5,13,0.87,2025-01-31,4.27,2.0,3,2.0,,192
+AB501203,10515,Tokyo,Minato,Entire home/apt,77.14,JPY,7,11,0.76,2026-05-25,4.17,3.0,4,2.0,4.0,213
+AB501204,10548,Singapore,Orchard,Entire home/apt,158.14,SGD,2,19,1.34,2024-10-06,5.0,4.0,6,0.0,1.0,11
+AB501205,10518,Paris,Belleville,Shared room,97.33,EUR,7,6,0.87,2024-12-12,4.58,3.0,1,0.0,2.0,290
+AB501206,10425,New York,Manhattan,Entire home/apt,139.69,USD,5,22,0.1,2026-04-08,3.98,1.0,6,3.0,4.0,257
+AB501207,10216,Dubai,Dubai Marina,Entire home/apt,96.89,AED,3,27,0.36,2024-01-01,4.76,2.0,8,2.0,2.0,237
+AB501208,10213,New York,Queens,Entire home/apt,219.28,USD,7,1,0.4,2024-09-20,,5.0,7,4.0,5.0,256
+AB501209,10757,Dubai,Dubai Marina,Private room,55.05,AED,3,7,0.47,2025-09-29,4.65,4.0,2,1.0,3.0,202
+AB501210,10362,Barcelona,Sants-Montjuïc,Entire home/apt,97.66,EUR,5,13,0.75,2024-06-30,4.59,5.0,8,0.0,1.0,318
+AB501211,10274,New York,Queens,Private room,78.88,USD,7,0,,,,3.0,3,1.0,3.0,20
+AB501212,10431,Singapore,Marina Bay,Private room,66.86,SGD,5,13,0.32,2024-01-16,4.73,4.0,2,2.0,4.0,1
+AB501213,10389,Sydney,Newtown,Entire home/apt,145.72,AUD,2,3,1.37,2026-10-16,5.0,1.0,4,0.0,2.0,49
+AB501214,10770,Paris,Latin Quarter,Entire home/apt,284.97,EUR,3,5,0.32,2025-04-27,4.28,1.0,1,1.0,3.0,296
+AB501215,10597,Tokyo,Taito,Entire home/apt,129.16,JPY,1,9,0.74,2026-01-19,3.91,3.0,3,0.0,1.0,362
+AB501216,10684,New York,Manhattan,Private room,112.53,USD,3,16,0.36,2026-09-17,4.94,2.0,1,1.0,1.0,71
+AB501217,10145,Dubai,Business Bay,Private room,173.45,AED,3,1,0.53,2023-11-30,,2.0,1,2.0,4.0,282
+AB501218,10279,Sydney,Newtown,Entire home/apt,113.68,AUD,7,9,0.53,2024-11-20,4.86,5.0,7,0.0,1.0,274
+AB501219,10046,London,Islington,Private room,114.48,GBP,14,5,0.15,2026-11-11,4.53,1.0,2,1.0,1.0,348
+AB501220,10285,New York,Staten Island,Private room,105.32,USD,2,6,0.19,2024-05-29,4.69,5.0,1,1.0,1.0,230
+AB501221,10291,Paris,Montmartre,Entire home/apt,249.45,EUR,5,18,0.51,2026-09-13,5.0,2.0,6,2.0,4.0,160
+AB501222,10080,Tokyo,Minato,Private room,28.94,JPY,5,5,0.37,2025-12-05,5.0,1.0,3,1.0,2.0,199
+AB501223,10700,New York,Brooklyn,Shared room,102.61,USD,3,14,0.67,2024-03-14,4.24,4.0,1,0.0,1.0,178
+AB501224,10087,Barcelona,Sants-Montjuïc,Private room,43.22,EUR,14,0,,,,1.0,1,2.0,2.0,49
+AB501225,10809,New York,Manhattan,Entire home/apt,143.68,USD,2,3,0.4,2025-10-19,3.95,3.0,2,2.0,4.0,193
+AB501226,10085,New York,Staten Island,Entire home/apt,230.05,USD,1,20,0.26,2025-03-18,4.03,2.0,6,3.0,4.0,357
+AB501227,10289,Tokyo,Taito,Private room,102.06,JPY,2,7,0.39,2025-05-13,4.63,1.0,3,1.0,2.0,339
+AB501228,10657,Barcelona,Sants-Montjuïc,Entire home/apt,235.82,EUR,3,11,0.29,2025-12-28,4.4,4.0,4,4.0,4.0,244
+AB501229,10246,Sydney,Surry Hills,Entire home/apt,229.17,AUD,3,3,0.08,2026-05-19,4.48,2.0,5,0.0,2.0,139
+AB501230,10023,New York,Bronx,Entire home/apt,220.4,USD,2,11,0.41,2024-10-11,5.0,2.0,8,3.0,3.0,42
+AB501231,10755,London,Westminster,Entire home/apt,102.49,GBP,1,21,1.12,2024-08-08,5.0,3.0,1,1.0,2.0,287
+AB501232,10009,Singapore,Little India,Entire home/apt,123.15,SGD,2,4,1.04,2024-10-21,4.37,6.0,2,3.0,3.0,207
+AB501233,10829,Singapore,Chinatown,Entire home/apt,102.92,SGD,3,3,0.1,2025-08-26,4.51,3.0,6,3.0,5.0,249
+AB501234,10329,Dubai,Downtown,Private room,29.05,AED,5,8,0.67,2026-01-17,4.67,4.0,3,1.0,2.0,229
+AB501235,10342,London,Westminster,Private room,69.64,GBP,3,5,0.44,2025-04-03,4.39,4.0,3,1.0,2.0,209
+AB501236,10832,New York,Staten Island,Hotel room,498.24,USD,1,6,0.5,2026-06-04,3.52,4.0,8,0.0,1.0,181
+AB501237,10316,Paris,Belleville,Hotel room,178.13,EUR,2,4,0.16,2025-02-18,4.27,3.0,5,0.0,1.0,0
+AB501238,10003,Barcelona,Gràcia,Shared room,28.42,EUR,3,6,0.25,2025-08-10,4.32,2.0,1,0.0,1.0,258
+AB501239,10754,Barcelona,Gràcia,Entire home/apt,100.98,EUR,2,15,0.45,2025-12-12,4.88,2.0,4,0.0,2.0,12
+AB501240,10025,New York,Staten Island,Entire home/apt,104.15,USD,2,5,0.11,2024-09-15,4.94,6.0,4,2.0,4.0,324
+AB501241,10558,New York,Manhattan,Private room,79.01,USD,3,8,1.17,2025-06-08,5.0,3.0,3,1.0,1.0,83
+AB501242,10680,Barcelona,Eixample,Entire home/apt,110.45,EUR,2,18,0.28,2025-10-22,4.56,6.0,3,1.0,2.0,304
+AB501243,10618,London,Hackney,Private room,35.87,GBP,3,4,0.48,2025-05-14,4.3,1.0,1,1.0,1.0,110
+AB501244,10635,Sydney,Newtown,Private room,45.96,AUD,2,14,0.3,2024-11-16,4.91,2.0,2,1.0,1.0,6
+AB501245,10081,Sydney,Newtown,Entire home/apt,103.56,AUD,2,5,1.58,2024-06-29,4.56,2.0,4,2.0,4.0,285
+AB501246,10093,London,Hackney,Entire home/apt,53.96,GBP,7,12,1.17,2024-01-28,4.48,3.0,1,3.0,4.0,229
+AB501247,10133,New York,Bronx,Entire home/apt,234.36,USD,3,10,0.42,2025-02-08,3.79,3.0,4,0.0,2.0,235
+AB501248,10130,Tokyo,Minato,Entire home/apt,154.77,JPY,5,7,1.12,2026-08-26,4.56,3.0,2,,2.0,247
+AB501249,10625,Tokyo,Shibuya,Entire home/apt,64.95,JPY,1,11,0.63,2024-01-17,3.88,3.0,2,0.0,1.0,319
+AB501250,10708,Barcelona,Ciutat Vella,Private room,43.1,EUR,3,3,0.15,2025-07-17,4.65,3.0,2,1.0,3.0,142
+AB501251,10078,New York,Staten Island,Entire home/apt,77.38,USD,2,6,0.72,2026-11-05,4.63,3.0,4,2.0,3.0,318
+AB501252,10760,New York,Brooklyn,Entire home/apt,204.63,USD,7,4,1.4,2026-09-12,5.0,2.0,8,3.0,4.0,155
+AB501253,10799,London,Westminster,Entire home/apt,71.37,GBP,1,0,,,,2.0,2,2.0,4.0,110
+AB501254,10283,London,Islington,Entire home/apt,143.86,GBP,2,34,1.17,2024-12-30,4.96,2.0,7,3.0,5.0,184
+AB501255,10376,Paris,Belleville,Entire home/apt,71.27,EUR,3,11,0.14,2025-06-08,4.24,4.0,5,2.0,3.0,86
+AB501256,10381,Dubai,Deira,Entire home/apt,128.66,AED,2,8,0.87,2024-09-02,3.86,6.0,3,1.0,3.0,68
+AB501257,10758,London,Camden,Entire home/apt,112.83,GBP,2,4,0.7,2026-11-01,4.7,2.0,8,4.0,6.0,150
+AB501258,10611,Paris,Louvre,Private room,42.1,EUR,3,14,0.8,2023-12-31,4.38,2.0,1,1.0,1.0,223
+AB501259,10036,London,Hackney,Private room,23.99,GBP,2,0,,,,6.0,2,1.0,1.0,360
+AB501260,10514,London,Kensington,Hotel room,82.81,GBP,14,6,0.34,2024-04-03,4.15,3.0,1,3.0,4.0,228
+AB501261,10285,London,Islington,Entire home/apt,191.42,GBP,2,34,1.4,2024-12-08,4.84,3.0,1,2.0,2.0,182
+AB501262,10758,Singapore,Marina Bay,Private room,70.28,SGD,5,1,0.61,2024-11-16,,3.0,3,1.0,3.0,349
+AB501263,10531,Barcelona,Sant Martí,Entire home/apt,78.94,EUR,2,5,0.8,2026-04-19,4.72,3.0,3,1.0,1.0,271
+AB501264,10138,Tokyo,Shinjuku,Entire home/apt,68.76,JPY,5,8,0.54,2024-05-22,4.45,7.0,4,0.0,1.0,354
+AB501265,10748,Singapore,Bugis,Private room,134.06,SGD,3,14,0.66,2025-09-28,5.0,2.0,1,1.0,3.0,355
+AB501266,10401,Barcelona,Sants-Montjuïc,Entire home/apt,22.14,EUR,5,5,0.47,2024-09-07,4.65,4.0,2,2.0,3.0,227
+AB501267,10392,Paris,Montmartre,Shared room,59.28,EUR,1,9,1.57,2024-09-09,5.0,4.0,1,0.0,1.0,219
+AB501268,10636,London,Hackney,Entire home/apt,176.29,GBP,3,15,0.42,2026-01-28,3.78,2.0,1,3.0,3.0,221
+AB501269,10682,New York,Bronx,Private room,29.68,USD,2,8,0.31,2024-05-30,3.86,3.0,2,1.0,3.0,202
+AB501270,10240,Dubai,Jumeirah,Entire home/apt,67.87,AED,1,11,0.81,2025-05-11,4.51,3.0,8,0.0,1.0,318
+AB501271,10680,Tokyo,Minato,Private room,53.96,JPY,2,7,0.26,2025-11-15,4.45,2.0,2,1.0,1.0,147
+AB501272,10406,Barcelona,Eixample,Entire home/apt,38.36,EUR,2,20,0.26,2026-09-30,4.71,4.0,4,2.0,4.0,245
+AB501273,10196,New York,Queens,Private room,65.33,USD,2,9,0.34,2024-06-13,4.47,4.0,1,1.0,2.0,58
+AB501274,10824,New York,Brooklyn,Entire home/apt,115.62,USD,5,0,,,,3.0,2,0.0,1.0,214
+AB501275,10032,Dubai,Business Bay,Entire home/apt,115.43,AED,5,8,0.44,2025-01-21,4.9,3.0,7,4.0,6.0,187
+AB501276,10004,Dubai,Jumeirah,Shared room,27.39,AED,5,3,0.4,2026-03-09,4.66,4.0,2,0.0,1.0,95
+AB501277,10378,Paris,Louvre,Entire home/apt,67.53,EUR,7,27,0.69,2026-07-21,4.9,1.0,8,1.0,3.0,38
+AB501278,10143,Barcelona,Gràcia,Entire home/apt,124.3,EUR,1,5,0.33,2024-04-18,5.0,5.0,5,3.0,5.0,107
+AB501279,10361,Paris,Le Marais,Entire home/apt,58.42,EUR,7,8,1.21,2025-09-06,4.54,3.0,1,3.0,4.0,203
+AB501280,10161,New York,Brooklyn,Shared room,58.78,USD,2,18,0.63,2026-10-11,4.11,1.0,2,0.0,1.0,46
+AB501281,10549,New York,,Private room,38.55,USD,1,6,0.84,2025-11-16,4.13,2.0,1,,4.0,236
+AB501282,10318,Paris,Montmartre,Entire home/apt,180.22,EUR,1,3,0.73,2024-06-14,4.93,1.0,2,0.0,2.0,304
+AB501283,10212,Paris,Montmartre,Entire home/apt,73.35,EUR,2,3,0.54,2026-07-27,4.04,3.0,4,2.0,3.0,125
+AB501284,10707,Paris,Montmartre,Entire home/apt,136.7,EUR,14,2,0.44,2026-07-26,,3.0,7,4.0,4.0,131
+AB501285,10259,Singapore,Chinatown,Entire home/apt,210.94,SGD,3,9,0.3,2024-05-29,4.49,5.0,7,0.0,1.0,363
+AB501286,10355,Barcelona,Eixample,Private room,95.01,EUR,2,36,0.75,2024-12-05,4.93,3.0,2,1.0,2.0,239
+AB501287,10582,New York,Queens,Entire home/apt,134.7,USD,3,1,0.23,2026-09-17,,3.0,2,4.0,6.0,204
+AB501288,10523,Dubai,Deira,Private room,46.0,AED,7,16,0.53,2025-10-17,5.0,,1,1.0,2.0,52
+AB501289,10522,New York,Staten Island,Entire home/apt,348.06,USD,1,1,0.42,2026-07-21,,3.0,2,3.0,4.0,336
+AB501290,10517,New York,Queens,Private room,70.43,USD,1,14,1.06,2025-03-13,4.68,2.0,3,1.0,1.0,265
+AB501291,10242,Sydney,Surry Hills,Entire home/apt,160.14,AUD,7,2,0.86,2026-02-09,,3.0,7,2.0,4.0,307
+AB501292,10378,Singapore,Orchard,Private room,24.23,SGD,1,11,0.08,2024-06-06,4.47,2.0,1,2.0,3.0,192
+AB501293,10184,Paris,Louvre,Entire home/apt,112.41,EUR,3,7,0.21,2026-07-13,3.82,4.0,6,3.0,3.0,104
+AB501294,10321,New York,Bronx,Entire home/apt,143.57,USD,5,2,0.3,2024-06-20,,4.0,7,2.0,2.0,176
+AB501295,10052,New York,Queens,Entire home/apt,152.53,USD,14,13,0.81,2024-05-19,4.02,2.0,8,3.0,5.0,111
+AB501296,10372,Barcelona,Eixample,Entire home/apt,115.16,EUR,1,3,0.77,2026-07-18,4.8,1.0,8,3.0,3.0,50
+AB501297,10467,Paris,Louvre,Entire home/apt,166.17,EUR,3,2,0.49,2026-02-11,,2.0,4,3.0,5.0,266
+AB501298,10336,New York,Bronx,Entire home/apt,331.68,USD,1,4,0.62,2024-08-05,4.85,2.0,7,1.0,3.0,170
+AB501299,10318,Paris,Latin Quarter,Private room,58.48,EUR,3,2,0.64,2025-05-29,,5.0,1,1.0,3.0,232
+AB501300,10129,Paris,Le Marais,Entire home/apt,53.37,EUR,30,7,0.34,2024-07-03,4.69,,5,3.0,5.0,248
+AB501301,10757,Tokyo,Minato,Entire home/apt,120.09,JPY,2,3,0.3,2024-07-14,3.74,3.0,6,4.0,5.0,217
+AB501302,10694,New York,Manhattan,Entire home/apt,267.14,USD,1,11,0.1,2026-07-18,4.74,4.0,7,3.0,5.0,234
+AB501303,10056,Dubai,Deira,Private room,52.93,AED,3,13,0.51,2024-08-08,4.69,4.0,1,1.0,1.0,344
+AB501304,10373,Tokyo,Setagaya,Entire home/apt,80.95,JPY,5,4,0.5,2025-04-12,5.0,2.0,5,1.0,1.0,291
+AB501305,10810,New York,Manhattan,Entire home/apt,289.8,USD,5,4,0.75,2023-11-30,4.73,2.0,5,3.0,5.0,192
+AB501306,10011,Sydney,Bondi,Entire home/apt,188.25,AUD,3,6,0.17,2025-11-02,4.51,2.0,6,1.0,1.0,154
+AB501307,10227,Tokyo,Shibuya,Entire home/apt,83.39,JPY,2,2,1.28,2024-02-26,,2.0,4,,4.0,161
+AB501308,10497,Dubai,Deira,Private room,100.73,AED,1,15,1.01,2025-04-01,4.51,3.0,2,1.0,3.0,92
+AB501309,10643,Dubai,Jumeirah,Private room,46.84,AED,7,10,0.67,2024-01-04,4.92,3.0,1,1.0,3.0,12
+AB501310,10710,New York,Staten Island,Shared room,28.68,USD,3,9,1.35,2025-07-15,4.71,3.0,2,0.0,1.0,326
+AB501311,10706,Singapore,Little India,Private room,26.52,SGD,5,10,0.23,2026-08-03,4.98,2.0,3,1.0,3.0,279
+AB501312,10227,Singapore,Orchard,Private room,33.01,SGD,2,14,1.0,2025-12-13,4.81,1.0,3,1.0,2.0,148
+AB501313,10367,Paris,Louvre,Entire home/apt,79.65,EUR,3,1,0.8,2025-06-02,,4.0,7,0.0,1.0,233
+AB501314,10630,Barcelona,Sants-Montjuïc,Private room,52.14,EUR,3,2,0.78,2024-05-07,,5.0,2,1.0,3.0,38
+AB501315,10592,Dubai,Business Bay,Private room,44.84,AED,1,1,0.48,2026-09-12,,3.0,2,1.0,1.0,124
+AB501316,10779,Tokyo,Shinjuku,Entire home/apt,31.43,JPY,7,17,1.95,2024-06-02,5.0,1.0,2,2.0,2.0,18
+AB501317,10848,Sydney,Newtown,Entire home/apt,144.98,AUD,30,2,1.22,2024-04-18,,3.0,7,2.0,2.0,113
+AB501318,10234,Tokyo,Setagaya,Private room,29.31,JPY,1,23,0.25,2025-09-27,4.85,2.0,2,1.0,2.0,274
+AB501319,10498,Tokyo,Shibuya,Entire home/apt,80.61,JPY,2,13,0.59,2025-04-07,4.19,4.0,2,3.0,4.0,334
+AB501320,10377,Sydney,Bondi,Private room,152.13,AUD,1,7,1.16,2025-08-14,5.0,3.0,1,2.0,4.0,168
+AB501321,10429,Paris,Montmartre,Private room,39.37,EUR,7,17,1.57,2025-11-26,4.63,3.0,1,1.0,3.0,282
+AB501322,10807,Singapore,Marina Bay,Private room,50.94,SGD,7,9,0.72,2024-05-29,4.13,3.0,1,1.0,3.0,259
+AB501323,10636,New York,Staten Island,Entire home/apt,358.72,USD,2,4,0.89,2025-11-29,4.79,2.0,8,3.0,5.0,11
+AB501324,10539,Singapore,Chinatown,Entire home/apt,190.64,SGD,2,7,0.08,2023-11-20,5.0,1.0,7,4.0,6.0,83
+AB501325,10080,Tokyo,Setagaya,Private room,99.0,JPY,1,14,1.63,2023-12-17,4.43,6.0,2,2.0,3.0,292
+AB501326,10781,Dubai,Business Bay,Private room,43.14,AED,1,7,0.77,2024-07-18,4.03,3.0,2,2.0,4.0,273
+AB501327,10003,London,Camden,Private room,113.62,GBP,1,9,0.38,2025-11-03,4.03,4.0,3,1.0,,58
+AB501328,10159,Barcelona,Sants-Montjuïc,Entire home/apt,118.06,EUR,5,7,0.63,2025-04-26,5.0,1.0,4,,6.0,0
+AB501329,10098,Paris,Latin Quarter,Entire home/apt,146.38,EUR,2,10,0.64,2024-10-31,4.0,2.0,7,0.0,1.0,212
+AB501330,10665,Dubai,Jumeirah,Private room,60.21,AED,2,11,1.02,2025-07-18,4.83,4.0,1,1.0,2.0,108
+AB501331,10828,New York,Manhattan,Entire home/apt,96.83,USD,7,6,0.97,2026-03-07,4.75,3.0,4,1.0,2.0,186
+AB501332,10676,Paris,Belleville,Shared room,52.35,EUR,3,15,0.59,2025-01-02,4.45,6.0,2,0.0,1.0,134
+AB501333,10323,London,Kensington,Entire home/apt,161.11,GBP,5,29,0.67,2025-10-05,3.92,3.0,5,4.0,5.0,60
+AB501334,10696,London,Westminster,Private room,40.22,GBP,5,2,0.96,2024-03-05,,2.0,2,1.0,3.0,288
+AB501335,10271,Barcelona,Eixample,Entire home/apt,53.45,EUR,14,21,0.78,2024-03-20,4.82,3.0,8,1.0,2.0,253
+AB501336,10620,Tokyo,Setagaya,Entire home/apt,68.8,JPY,30,12,0.34,2025-06-18,4.73,2.0,8,1.0,2.0,24
+AB501337,10462,Singapore,Chinatown,Entire home/apt,73.18,SGD,7,0,,,,4.0,7,1.0,3.0,14
+AB501338,10405,Dubai,Jumeirah,Private room,163.2,AED,3,4,0.79,2024-02-14,4.58,4.0,1,1.0,1.0,183
+AB501339,10113,London,Westminster,Private room,112.36,GBP,3,5,0.98,2024-09-04,4.21,5.0,2,1.0,3.0,188
+AB501340,10380,London,Westminster,Entire home/apt,144.8,GBP,3,5,0.94,2024-03-05,4.73,,5,4.0,5.0,362
+AB501341,10178,Paris,Montmartre,Entire home/apt,85.58,EUR,3,5,0.29,2024-06-10,4.21,2.0,2,4.0,6.0,202
+AB501342,10677,London,Hackney,Private room,61.7,GBP,2,6,0.82,2025-10-01,4.31,2.0,1,1.0,3.0,9
+AB501343,10338,New York,Manhattan,Private room,82.35,USD,2,2,0.71,2025-12-01,,6.0,2,1.0,2.0,262
+AB501344,10354,London,Camden,Entire home/apt,291.7,GBP,1,10,0.33,2024-03-10,4.36,2.0,6,2.0,2.0,57
+AB501345,10632,Tokyo,Shinjuku,Entire home/apt,80.75,JPY,2,2,0.65,2026-01-16,,4.0,3,3.0,4.0,133
+AB501346,10532,London,Hackney,Entire home/apt,143.82,GBP,2,10,0.66,2025-01-27,4.13,6.0,1,3.0,3.0,175
+AB501347,10068,New York,Queens,Entire home/apt,160.45,USD,2,5,1.87,2024-11-30,4.83,5.0,7,2.0,4.0,286
+AB501348,10370,Paris,Le Marais,Entire home/apt,55.36,EUR,2,11,1.27,2024-05-04,4.55,3.0,3,2.0,2.0,145
+AB501349,10241,New York,Queens,Entire home/apt,137.14,USD,14,8,0.61,2024-12-25,4.61,3.0,2,1.0,1.0,285
+AB501350,10211,Singapore,Marina Bay,Private room,102.45,SGD,2,3,0.62,2025-05-23,3.86,4.0,3,1.0,2.0,123
+AB501351,10510,London,Camden,Entire home/apt,212.03,GBP,2,1,0.08,2024-02-11,,3.0,2,2.0,4.0,47
+AB501352,10554,Barcelona,Sant Martí,Entire home/apt,41.84,EUR,5,9,0.53,2026-09-27,4.84,2.0,7,0.0,1.0,134
+AB501353,10736,Dubai,Downtown,Private room,36.31,AED,3,5,1.34,2026-07-22,4.34,5.0,2,1.0,1.0,32
+AB501354,10001,Singapore,Orchard,Private room,28.18,SGD,3,8,0.14,2024-12-30,4.54,2.0,2,1.0,3.0,52
+AB501355,10569,London,Islington,Shared room,30.71,GBP,30,16,0.17,2026-04-09,4.5,5.0,1,0.0,1.0,17
+AB501356,10041,Dubai,Jumeirah,Entire home/apt,167.56,AED,3,3,0.15,2025-12-09,4.59,4.0,4,0.0,2.0,115
+AB501357,10809,Paris,Latin Quarter,Entire home/apt,129.93,EUR,3,10,0.17,2024-04-02,4.59,3.0,3,3.0,3.0,306
+AB501358,10759,New York,Queens,Entire home/apt,253.13,USD,3,2,0.0,2026-01-26,,6.0,6,0.0,1.0,285
+AB501359,10227,London,Westminster,Entire home/apt,91.93,GBP,30,11,0.17,2024-06-16,3.82,5.0,2,1.0,2.0,147
+AB501360,10561,Sydney,Newtown,Entire home/apt,172.09,AUD,7,30,0.39,2026-05-23,4.09,5.0,1,1.0,1.0,332
+AB501361,10613,Dubai,Business Bay,Entire home/apt,152.38,AED,5,12,0.53,2026-04-20,4.31,3.0,2,1.0,2.0,235
+AB501362,10237,New York,Staten Island,Entire home/apt,133.78,USD,5,2,1.06,2025-04-06,,2.0,6,1.0,2.0,241
+AB501363,10102,New York,Brooklyn,Entire home/apt,68.21,USD,2,4,0.39,2024-01-19,3.92,3.0,7,4.0,4.0,333
+AB501364,10100,New York,Brooklyn,Entire home/apt,158.74,USD,5,3,0.6,2026-06-15,4.9,3.0,8,1.0,2.0,266
+AB501365,10499,Dubai,Deira,Entire home/apt,174.13,AED,2,5,0.36,2024-08-13,4.53,2.0,7,0.0,2.0,251
+AB501366,10376,New York,Queens,Entire home/apt,86.07,USD,5,9,1.94,2024-12-23,4.37,2.0,7,1.0,1.0,348
+AB501367,10200,New York,Manhattan,Private room,95.79,USD,2,4,1.11,2025-12-07,4.5,2.0,1,1.0,1.0,160
+AB501368,10432,Paris,Le Marais,Private room,60.59,EUR,2,8,1.67,2026-03-31,4.7,2.0,3,1.0,1.0,18
+AB501369,10090,Singapore,Little India,Shared room,15.52,SGD,1,11,0.97,2026-05-12,3.93,2.0,2,0.0,1.0,73
+AB501370,10669,London,Camden,Private room,79.55,GBP,3,33,0.79,2026-09-06,4.38,3.0,3,1.0,3.0,135
+AB501371,10387,Sydney,Bondi,Entire home/apt,236.5,AUD,2,7,0.55,2024-02-09,4.43,2.0,2,4.0,6.0,80
+AB501372,10748,Singapore,Bugis,Entire home/apt,106.05,SGD,2,8,1.28,2024-05-22,4.58,4.0,4,1.0,2.0,242
+AB501373,10572,Singapore,Marina Bay,Entire home/apt,173.44,SGD,14,17,0.59,2024-06-04,4.73,2.0,2,3.0,3.0,264
+AB501374,10415,Paris,Louvre,Private room,71.59,EUR,1,0,,,,1.0,2,1.0,2.0,301
+AB501375,10797,Singapore,Bugis,Entire home/apt,79.85,SGD,2,1,0.13,2025-07-18,,3.0,2,1.0,3.0,40
+AB501376,10234,Singapore,Marina Bay,Entire home/apt,184.44,SGD,5,4,0.5,2024-03-24,4.14,4.0,6,3.0,3.0,265
+AB501377,10761,New York,Queens,Entire home/apt,77.41,USD,5,12,1.85,2026-07-21,4.52,2.0,3,3.0,,337
+AB501378,10222,London,Islington,Entire home/apt,151.45,GBP,5,6,0.76,2025-03-15,4.58,3.0,6,1.0,3.0,10
+AB501379,10702,Tokyo,Shinjuku,Entire home/apt,91.83,JPY,3,33,0.23,2025-03-03,4.25,2.0,1,3.0,5.0,265
+AB501380,10437,Paris,Montmartre,Private room,59.38,EUR,14,6,1.07,2023-12-16,4.69,2.0,2,,3.0,53
+AB501381,10189,Barcelona,Eixample,Entire home/apt,142.31,EUR,1,3,0.15,2024-05-20,4.23,4.0,2,4.0,5.0,290
+AB501382,10176,New York,Queens,Private room,67.76,USD,7,6,1.6,2025-12-15,5.0,4.0,1,1.0,3.0,119
+AB501383,10058,Dubai,Jumeirah,Entire home/apt,113.19,AED,1,4,0.7,2024-10-23,4.12,3.0,1,1.0,2.0,211
+AB501384,10717,New York,Queens,Private room,98.73,USD,1,6,0.53,2025-09-22,5.0,2.0,3,1.0,3.0,203
+AB501385,10479,New York,Queens,Entire home/apt,353.17,USD,3,15,0.53,2024-10-19,4.54,5.0,7,0.0,1.0,12
+AB501386,10813,New York,Brooklyn,Entire home/apt,158.63,USD,5,1,0.12,2024-12-20,,4.0,4,4.0,5.0,294
+AB501387,10516,Paris,Louvre,Private room,129.06,EUR,1,7,0.15,2024-06-06,4.83,5.0,1,1.0,3.0,155
+AB501388,10133,Barcelona,Ciutat Vella,Hotel room,78.59,EUR,1,10,0.53,2026-09-16,4.21,3.0,7,1.0,2.0,259
+AB501389,10218,Paris,Le Marais,Private room,54.86,EUR,7,9,0.2,2024-04-07,4.14,6.0,1,1.0,3.0,128
+AB501390,10235,Paris,Latin Quarter,Private room,35.72,EUR,30,19,1.41,2025-07-02,4.14,1.0,1,,3.0,20
+AB501391,10656,Paris,Belleville,Entire home/apt,107.13,EUR,3,1,0.16,2024-12-16,,3.0,4,2.0,2.0,254
+AB501392,10289,Sydney,Surry Hills,Entire home/apt,73.27,AUD,5,0,,,,5.0,4,2.0,3.0,134
+AB501393,10434,New York,Bronx,Entire home/apt,180.69,USD,7,3,0.74,2024-03-14,4.23,2.0,8,4.0,5.0,202
+AB501394,10806,Dubai,Business Bay,Entire home/apt,105.64,AED,14,1,0.61,2024-08-20,,1.0,2,0.0,1.0,335
+AB501395,10609,Paris,Louvre,Entire home/apt,94.46,EUR,7,2,0.38,2026-08-27,,3.0,8,3.0,5.0,286
+AB501396,10230,Sydney,Newtown,Entire home/apt,61.44,AUD,3,5,0.24,2025-05-23,4.35,4.0,7,4.0,5.0,262
+AB501397,10352,London,Hackney,Entire home/apt,158.96,GBP,3,8,0.52,2026-08-06,4.08,2.0,8,1.0,2.0,118
+AB501398,10238,New York,Manhattan,Entire home/apt,161.54,USD,2,7,0.2,2024-02-09,4.59,6.0,7,2.0,4.0,185
+AB501399,10021,Barcelona,Ciutat Vella,Shared room,26.26,EUR,3,8,0.91,2025-04-17,4.98,3.0,1,0.0,2.0,297
+AB501400,10062,Dubai,Downtown,Private room,121.59,AED,1,6,0.65,2024-06-04,4.78,3.0,3,1.0,1.0,317
+AB501401,10373,London,Hackney,Entire home/apt,84.88,GBP,2,6,0.23,2025-08-09,3.41,2.0,8,1.0,3.0,1
+AB501402,10639,New York,Manhattan,Entire home/apt,126.68,USD,1,1,1.29,2024-05-21,,4.0,3,,4.0,363
+AB501403,10750,Dubai,Dubai Marina,Entire home/apt,233.48,AED,3,11,0.01,2024-10-03,4.17,3.0,1,1.0,1.0,227
+AB501404,10139,Dubai,Downtown,Private room,39.91,AED,2,19,1.46,2025-11-08,4.55,4.0,2,,1.0,35
+AB501405,10170,Paris,Montmartre,Private room,197.98,EUR,2,7,0.05,2026-05-27,4.98,3.0,3,1.0,2.0,10
+AB501406,10619,London,Camden,Entire home/apt,72.28,GBP,2,1,0.57,2025-03-31,,2.0,4,3.0,3.0,356
+AB501407,10849,Dubai,Business Bay,Entire home/apt,75.95,AED,5,9,0.72,2026-07-06,4.11,2.0,2,0.0,1.0,200
+AB501408,10065,New York,Brooklyn,Shared room,41.65,USD,1,20,0.44,2026-03-05,4.38,6.0,1,0.0,1.0,103
+AB501409,10056,London,Kensington,Entire home/apt,169.09,GBP,3,7,1.01,2023-11-28,4.43,2.0,2,4.0,6.0,135
+AB501410,10784,Singapore,Little India,Entire home/apt,91.44,SGD,3,13,0.6,2026-02-19,4.51,3.0,6,1.0,2.0,223
+AB501411,10515,New York,Brooklyn,Entire home/apt,169.84,USD,30,9,0.54,2025-02-26,4.11,4.0,7,4.0,6.0,238
+AB501412,10023,New York,Queens,Entire home/apt,188.33,USD,5,22,0.14,2025-03-06,4.87,5.0,5,3.0,5.0,150
+AB501413,10068,Paris,Le Marais,Entire home/apt,134.4,EUR,3,14,0.93,2024-04-27,5.0,3.0,8,0.0,1.0,9
+AB501414,10685,London,Hackney,Entire home/apt,252.87,GBP,3,16,1.05,2024-04-16,4.32,2.0,2,0.0,1.0,168
+AB501415,10640,New York,Bronx,Private room,55.26,USD,3,2,2.0,2024-11-05,,2.0,1,1.0,1.0,113
+AB501416,10134,Singapore,Little India,Entire home/apt,192.21,SGD,3,3,0.35,2025-04-25,4.56,2.0,6,0.0,2.0,113
+AB501417,10301,New York,Brooklyn,Private room,80.36,USD,1,11,0.29,2026-01-08,4.81,4.0,1,1.0,3.0,313
+AB501418,10176,New York,Queens,Entire home/apt,149.79,USD,7,2,0.28,2026-02-19,,5.0,6,0.0,1.0,80
+AB501419,10382,New York,Bronx,Entire home/apt,118.84,USD,3,8,0.25,2024-12-04,4.89,4.0,1,2.0,4.0,333
+AB501420,10358,London,Westminster,Entire home/apt,101.95,GBP,3,12,0.24,2023-12-01,4.69,3.0,7,4.0,5.0,27
+AB501421,10079,New York,Queens,Private room,47.74,USD,2,6,0.96,2024-10-18,4.75,1.0,3,1.0,1.0,81
+AB501422,10242,Paris,Latin Quarter,Entire home/apt,291.79,EUR,14,23,0.88,2025-01-03,4.86,1.0,5,0.0,1.0,265
+AB501423,10741,Tokyo,Taito,Private room,42.13,JPY,1,3,1.59,2025-02-19,4.62,2.0,1,1.0,1.0,74
+AB501424,10718,Paris,Le Marais,Private room,19.77,EUR,2,7,1.88,2026-09-21,4.69,5.0,1,1.0,2.0,220
+AB501425,10273,Paris,Louvre,Private room,35.41,EUR,3,6,0.48,2025-09-30,4.89,1.0,3,1.0,3.0,354
+AB501426,10324,Tokyo,Setagaya,Entire home/apt,266.75,JPY,14,0,,,,4.0,4,0.0,1.0,144
+AB501427,10229,New York,Queens,Entire home/apt,292.52,USD,1,7,1.2,2024-05-11,4.54,4.0,5,0.0,2.0,133
+AB501428,10677,New York,Brooklyn,Entire home/apt,257.65,USD,3,17,0.43,2023-12-02,4.35,2.0,3,1.0,1.0,64
+AB501429,10715,Barcelona,Sants-Montjuïc,Shared room,37.34,EUR,5,14,0.67,2025-12-03,4.78,3.0,2,0.0,1.0,362
+AB501430,10347,Singapore,Bugis,Private room,124.45,SGD,30,13,2.47,2025-06-24,4.82,4.0,1,1.0,2.0,337
+AB501431,10058,Paris,Belleville,Entire home/apt,189.2,EUR,3,4,0.42,2026-01-12,4.79,1.0,5,4.0,6.0,202
+AB501432,10162,New York,Staten Island,Private room,156.8,USD,14,10,0.27,2025-05-02,5.0,2.0,1,1.0,2.0,108
+AB501433,10297,Barcelona,Sants-Montjuïc,Entire home/apt,41.1,EUR,1,17,0.61,2026-04-16,4.49,2.0,1,0.0,1.0,192
+AB501434,10703,New York,Brooklyn,Private room,143.24,USD,7,15,1.58,2024-06-29,4.66,1.0,1,1.0,3.0,288
+AB501435,10070,New York,Staten Island,Entire home/apt,208.28,USD,2,16,0.71,2026-09-08,4.51,5.0,1,0.0,2.0,146
+AB501436,10029,Barcelona,Sants-Montjuïc,Hotel room,128.73,EUR,5,9,0.92,2025-06-16,4.57,3.0,3,0.0,1.0,99
+AB501437,10786,Tokyo,Shinjuku,Entire home/apt,71.67,JPY,1,3,0.41,2026-04-17,4.4,3.0,1,4.0,6.0,78
+AB501438,10134,London,Westminster,Shared room,33.85,GBP,1,7,0.17,2026-02-06,4.51,3.0,1,0.0,1.0,310
+AB501439,10011,Tokyo,Shinjuku,Entire home/apt,72.73,JPY,2,3,0.64,2026-08-10,5.0,4.0,6,3.0,5.0,147
+AB501440,10212,Paris,Latin Quarter,Entire home/apt,155.0,EUR,2,21,0.92,2024-02-16,4.95,5.0,2,1.0,2.0,338
+AB501441,10184,Sydney,CBD,Private room,63.42,AUD,3,14,1.24,2025-07-08,4.43,6.0,1,1.0,1.0,0
+AB501442,10823,Paris,Montmartre,Entire home/apt,162.25,EUR,3,8,0.69,2025-04-20,4.49,3.0,5,2.0,2.0,76
+AB501443,10328,Dubai,Business Bay,Entire home/apt,194.84,AED,1,28,0.8,2024-03-15,4.3,4.0,5,2.0,4.0,308
+AB501444,10050,London,Westminster,Shared room,28.11,GBP,2,5,0.55,2024-12-15,4.2,,1,0.0,1.0,104
+AB501445,10023,New York,Brooklyn,Private room,75.33,USD,30,3,0.05,2026-11-01,4.59,3.0,1,1.0,1.0,233
+AB501446,10266,New York,Brooklyn,Private room,60.46,USD,7,5,2.72,2026-08-13,4.8,1.0,3,1.0,,277
+AB501447,10760,Sydney,Manly,Private room,94.69,AUD,7,2,0.95,2024-11-08,,5.0,1,1.0,2.0,122
+AB501448,10164,Paris,Louvre,Entire home/apt,53.05,EUR,3,11,0.78,2024-08-21,4.53,5.0,7,0.0,1.0,54
+AB501449,10634,Singapore,Marina Bay,Private room,60.17,SGD,2,4,0.51,2026-08-25,4.16,1.0,2,1.0,1.0,170
+AB501450,10518,Sydney,Surry Hills,Entire home/apt,255.89,AUD,2,24,1.31,2024-05-23,4.59,5.0,3,0.0,2.0,288
+AB501451,10390,Paris,Louvre,Private room,32.98,EUR,2,4,0.14,2024-12-11,4.8,3.0,2,1.0,2.0,78
+AB501452,10639,New York,Bronx,Entire home/apt,71.81,USD,3,4,0.18,2026-07-23,4.87,7.0,6,1.0,3.0,169
+AB501453,10049,Dubai,Jumeirah,Entire home/apt,113.4,AED,30,19,0.91,2024-11-03,4.27,6.0,8,1.0,2.0,91
+AB501454,10559,New York,Staten Island,Entire home/apt,271.86,USD,3,10,0.35,2024-04-11,4.23,4.0,7,2.0,2.0,4
+AB501455,10628,London,Westminster,Entire home/apt,240.95,GBP,3,2,0.29,2025-06-12,,,2,3.0,5.0,347
+AB501456,10393,New York,Staten Island,Entire home/apt,57.59,USD,1,9,1.55,2024-02-13,4.9,2.0,8,4.0,6.0,349
+AB501457,10842,New York,Staten Island,Private room,35.65,USD,7,2,0.47,2023-12-18,,3.0,1,1.0,1.0,68
+AB501458,10756,Singapore,Bugis,Entire home/apt,197.3,SGD,3,8,0.62,2025-08-16,4.15,,7,0.0,1.0,349
+AB501459,10142,Dubai,Deira,Shared room,28.88,AED,3,21,0.44,2024-08-29,4.52,4.0,1,0.0,2.0,300
+AB501460,10173,Dubai,Deira,Entire home/apt,83.62,AED,3,9,0.98,2026-07-28,4.16,3.0,4,1.0,3.0,125
+AB501461,10215,Sydney,Newtown,Private room,158.43,AUD,14,3,0.27,2024-10-11,4.68,3.0,1,1.0,2.0,81
+AB501462,10542,Paris,Montmartre,Hotel room,169.06,EUR,5,22,0.95,2025-07-27,4.32,3.0,3,2.0,2.0,109
+AB501463,10456,New York,Manhattan,Shared room,20.02,USD,2,4,1.53,2023-11-25,5.0,4.0,2,0.0,2.0,113
+AB501464,10043,Paris,Louvre,Shared room,101.43,EUR,1,6,1.67,2024-05-03,4.05,4.0,2,0.0,,296
+AB501465,10140,Barcelona,Sant Martí,Private room,59.73,EUR,30,5,0.28,2026-09-23,4.87,1.0,1,2.0,3.0,21
+AB501466,10479,Dubai,Business Bay,Private room,47.71,AED,2,1,1.03,2026-06-07,,3.0,1,1.0,3.0,242
+AB501467,10720,Singapore,Orchard,Shared room,15.0,SGD,30,9,0.69,2025-05-20,4.96,2.0,2,0.0,1.0,167
+AB501468,10525,Tokyo,Taito,Private room,41.4,JPY,30,8,1.41,2026-02-27,5.0,3.0,2,1.0,2.0,139
+AB501469,10392,Dubai,Jumeirah,Private room,48.18,AED,14,6,0.29,2025-01-22,4.28,1.0,1,1.0,3.0,298
+AB501470,10529,Dubai,Jumeirah,Shared room,64.39,AED,30,7,0.77,2026-07-30,4.62,1.0,2,0.0,1.0,77
+AB501471,10058,London,,Private room,68.41,GBP,2,12,0.55,2026-02-17,4.36,3.0,2,1.0,3.0,35
+AB501472,10407,London,Westminster,Entire home/apt,81.18,GBP,7,9,0.39,2026-10-10,5.0,3.0,6,2.0,3.0,190
+AB501473,10442,Dubai,Dubai Marina,Entire home/apt,118.27,AED,7,3,0.08,2024-06-24,4.01,3.0,2,4.0,6.0,290
+AB501474,10466,New York,Brooklyn,Shared room,31.41,USD,5,16,1.45,2026-07-01,4.52,1.0,1,0.0,1.0,340
+AB501475,10187,Dubai,Dubai Marina,Entire home/apt,209.5,AED,1,2,0.3,2025-07-26,,5.0,6,4.0,4.0,147
+AB501476,10629,London,Hackney,Entire home/apt,159.48,GBP,3,3,1.17,2026-01-23,4.51,9.0,7,4.0,6.0,338
+AB501477,10533,Singapore,Marina Bay,Entire home/apt,71.97,SGD,1,4,0.11,2024-09-06,4.78,1.0,2,0.0,2.0,43
+AB501478,10550,New York,Brooklyn,Entire home/apt,96.98,USD,1,1,0.61,2026-07-04,,7.0,6,0.0,1.0,47
+AB501479,10213,Paris,Belleville,Entire home/apt,104.14,EUR,1,4,1.96,2026-02-12,4.46,3.0,4,0.0,1.0,293
+AB501480,10714,Paris,Le Marais,Private room,212.16,EUR,5,8,1.54,2023-11-23,4.83,3.0,1,1.0,2.0,314
+AB501481,10474,Sydney,Surry Hills,Entire home/apt,156.18,AUD,3,19,0.13,2025-11-07,4.26,3.0,2,1.0,1.0,138
+AB501482,10526,Tokyo,Shibuya,Private room,38.57,JPY,3,13,0.61,2025-10-06,4.89,5.0,1,1.0,2.0,69
+AB501483,10753,Barcelona,Sants-Montjuïc,Entire home/apt,75.2,EUR,1,10,0.08,2025-01-28,4.26,1.0,7,1.0,1.0,319
+AB501484,10143,Tokyo,Taito,Entire home/apt,111.11,JPY,2,0,,,,6.0,1,1.0,3.0,328
+AB501485,10752,Tokyo,Shibuya,Entire home/apt,185.09,JPY,5,19,0.76,2024-09-15,4.13,4.0,8,4.0,4.0,362
+AB501486,10788,Tokyo,Setagaya,Private room,36.58,JPY,1,13,0.51,2026-03-23,5.0,2.0,3,1.0,3.0,246
+AB501487,10706,Paris,Louvre,Shared room,48.56,EUR,5,12,0.26,2024-09-12,4.49,3.0,2,0.0,1.0,5
+AB501488,10381,London,Kensington,Private room,91.36,GBP,2,13,1.0,2023-11-24,4.26,1.0,1,1.0,3.0,54
+AB501489,10266,Dubai,Downtown,Entire home/apt,74.01,AED,1,12,0.42,2025-07-09,4.34,2.0,6,4.0,6.0,160
+AB501490,10608,Sydney,Surry Hills,Private room,27.85,AUD,2,2,0.12,2024-04-09,,2.0,1,1.0,1.0,263
+AB501491,10445,Sydney,Surry Hills,Entire home/apt,32.25,AUD,30,29,0.28,2026-01-28,3.82,4.0,7,2.0,2.0,78
+AB501492,10512,Dubai,Jumeirah,Shared room,31.95,AED,1,0,,,,2.0,1,0.0,1.0,227
+AB501493,10530,Tokyo,Setagaya,Private room,38.72,JPY,7,14,0.85,2025-06-11,4.34,2.0,1,1.0,3.0,182
+AB501494,10822,Singapore,Bugis,Private room,70.8,SGD,2,11,1.05,2025-12-31,4.86,4.0,3,1.0,1.0,119
+AB501495,10734,Barcelona,Sants-Montjuïc,Entire home/apt,62.44,EUR,3,14,2.38,2025-12-10,4.48,2.0,8,0.0,2.0,39
+AB501496,10175,Paris,Le Marais,Hotel room,83.35,EUR,14,19,0.6,2026-11-10,4.79,3.0,8,4.0,4.0,59
+AB501497,10379,Barcelona,Eixample,Private room,112.27,EUR,3,14,0.24,2026-05-07,5.0,,2,1.0,1.0,4
+AB501498,10347,London,Islington,Hotel room,134.41,GBP,2,17,0.13,2024-05-14,4.5,5.0,8,0.0,1.0,363
+AB501499,10627,Dubai,Business Bay,Entire home/apt,121.28,AED,3,5,0.83,2024-04-18,5.0,2.0,3,0.0,1.0,312
+AB501500,10168,Paris,Le Marais,Private room,56.13,EUR,1,3,0.48,2025-10-11,4.69,2.0,3,1.0,2.0,94
+AB501501,10013,New York,Staten Island,Hotel room,156.51,USD,1,11,0.66,2026-01-02,4.26,3.0,4,0.0,1.0,193
+AB501502,10288,New York,Staten Island,Entire home/apt,191.2,USD,7,11,1.51,2025-01-20,4.11,1.0,3,0.0,1.0,45
+AB501503,10687,London,Islington,Entire home/apt,213.71,GBP,1,7,0.52,2024-07-16,4.47,8.0,6,0.0,1.0,324
+AB501504,10083,Barcelona,Gràcia,Private room,56.76,EUR,3,6,3.02,2025-05-27,4.76,5.0,1,2.0,3.0,157
+AB501505,10632,Dubai,Downtown,Entire home/apt,123.92,AED,7,10,0.78,2024-09-06,4.36,3.0,3,2.0,,257
+AB501506,10753,Dubai,Business Bay,Entire home/apt,68.72,AED,3,8,2.08,2024-06-13,4.15,5.0,6,0.0,2.0,197
+AB501507,10111,London,Kensington,Entire home/apt,150.73,GBP,14,8,1.36,2024-06-29,5.0,3.0,1,2.0,2.0,299
+AB501508,10406,London,Islington,Entire home/apt,100.18,GBP,5,14,0.54,2024-01-21,5.0,2.0,7,0.0,1.0,288
+AB501509,10133,London,Kensington,Private room,48.81,GBP,30,0,,,,3.0,1,1.0,2.0,241
+AB501510,10092,London,Westminster,Entire home/apt,128.42,GBP,2,4,1.15,2025-11-07,4.56,3.0,3,2.0,4.0,30
+AB501511,10300,Tokyo,Minato,Private room,58.48,JPY,14,15,0.76,2026-01-25,3.77,2.0,1,1.0,1.0,327
+AB501512,10283,London,Islington,Private room,89.66,GBP,3,2,3.28,2026-04-16,,2.0,3,1.0,3.0,234
+AB501513,10221,London,Westminster,Entire home/apt,84.39,GBP,1,9,0.39,2025-05-23,4.52,3.0,2,2.0,3.0,304
+AB501514,10594,Tokyo,Taito,Private room,52.37,JPY,30,12,0.09,2026-11-10,3.87,2.0,3,1.0,3.0,175
+AB501515,10519,Paris,Latin Quarter,Entire home/apt,92.21,EUR,5,11,0.34,2025-01-01,4.01,4.0,7,3.0,3.0,103
+AB501516,10692,Dubai,Deira,Entire home/apt,110.24,AED,5,5,0.31,2025-03-26,4.72,4.0,8,3.0,4.0,208
+AB501517,10447,Singapore,Orchard,Entire home/apt,75.6,SGD,3,15,0.65,2024-01-25,3.97,4.0,4,2.0,4.0,360
+AB501518,10099,London,,Private room,84.14,GBP,3,6,1.36,2025-04-07,4.42,,2,1.0,2.0,343
+AB501519,10760,Barcelona,Sant Martí,Entire home/apt,52.04,EUR,3,13,0.3,2026-01-16,4.6,2.0,5,2.0,3.0,230
+AB501520,10022,Singapore,Marina Bay,Private room,25.63,SGD,30,16,0.62,2025-09-08,4.14,3.0,1,1.0,2.0,275
+AB501521,10278,Barcelona,Sant Martí,Private room,67.14,EUR,7,6,0.27,2024-08-13,4.2,2.0,3,1.0,2.0,168
+AB501522,10712,Barcelona,Eixample,Entire home/apt,120.69,EUR,7,4,1.46,2025-04-01,4.83,1.0,6,4.0,6.0,23
+AB501523,10772,Paris,Montmartre,Entire home/apt,70.16,EUR,3,6,1.93,2024-07-20,4.45,2.0,8,4.0,4.0,254
+AB501524,10253,Barcelona,Ciutat Vella,Private room,29.8,EUR,1,2,1.08,2025-05-17,,1.0,1,1.0,3.0,197
+AB501525,10165,New York,Brooklyn,Private room,97.27,USD,7,16,0.5,2026-04-26,4.64,3.0,3,1.0,3.0,301
+AB501526,10249,Barcelona,Ciutat Vella,Private room,17.15,EUR,1,0,,,,1.0,1,1.0,1.0,193
+AB501527,10726,London,Kensington,Private room,52.77,GBP,1,28,0.49,2025-09-24,4.0,4.0,1,1.0,2.0,365
+AB501528,10572,New York,Staten Island,Private room,69.33,USD,5,8,0.27,2025-11-28,4.87,3.0,2,2.0,2.0,161
+AB501529,10844,New York,Bronx,Private room,73.41,USD,30,2,0.54,2024-06-23,,2.0,3,1.0,2.0,46
+AB501530,10676,Paris,Montmartre,Private room,34.74,EUR,1,1,0.09,2025-12-04,,2.0,2,,1.0,31
+AB501531,10595,New York,Queens,Private room,94.58,USD,3,13,1.15,2023-11-29,4.78,4.0,3,1.0,3.0,143
+AB501532,10451,Singapore,Bugis,Private room,65.49,SGD,3,6,0.29,2025-03-11,4.4,4.0,1,1.0,1.0,45
+AB501533,10574,Dubai,Business Bay,Entire home/apt,116.89,AED,3,14,0.12,2024-05-15,4.72,2.0,3,4.0,5.0,296
+AB501534,10349,New York,Manhattan,Private room,205.42,USD,1,7,0.38,2026-03-08,5.0,5.0,2,2.0,3.0,268
+AB501535,10463,Tokyo,Shinjuku,Hotel room,48.18,JPY,30,13,0.03,2026-11-01,5.0,1.0,7,2.0,2.0,297
+AB501536,10323,Paris,Louvre,Private room,129.15,EUR,2,4,0.27,2024-10-04,4.29,3.0,3,1.0,2.0,100
+AB501537,10663,New York,Brooklyn,Entire home/apt,58.27,USD,1,1,0.06,2024-12-31,,6.0,4,3.0,4.0,107
+AB501538,10050,Tokyo,Minato,Private room,114.42,JPY,7,3,1.21,2025-12-27,4.03,3.0,1,1.0,1.0,53
+AB501539,10374,Dubai,Deira,Entire home/apt,67.16,AED,1,7,0.27,2024-10-09,4.27,3.0,7,4.0,6.0,334
+AB501540,10624,Dubai,Dubai Marina,Entire home/apt,103.34,AED,1,5,0.49,2024-03-07,4.04,5.0,6,4.0,4.0,361
+AB501541,10056,Dubai,Jumeirah,Private room,47.08,AED,3,10,0.97,2024-09-20,4.61,7.0,1,1.0,1.0,316
+AB501542,10682,Dubai,Business Bay,Private room,162.5,AED,2,23,0.21,2026-03-18,4.96,4.0,3,1.0,1.0,173
+AB501543,10214,Barcelona,Sant Martí,Private room,49.2,EUR,14,14,1.99,2026-01-16,4.96,5.0,2,2.0,4.0,193
+AB501544,10665,Paris,Montmartre,Entire home/apt,111.27,EUR,5,4,0.33,2025-07-23,4.78,3.0,2,2.0,4.0,172
+AB501545,10563,London,Westminster,Entire home/apt,137.64,GBP,3,16,0.52,2025-06-21,4.07,3.0,4,2.0,2.0,147
+AB501546,10522,Barcelona,Gràcia,Entire home/apt,180.56,EUR,7,2,0.15,2024-10-13,,3.0,5,1.0,,242
+AB501547,10379,Singapore,Bugis,Entire home/apt,171.46,SGD,2,1,1.26,2025-05-25,,4.0,7,1.0,1.0,348
+AB501548,10181,Paris,Latin Quarter,Private room,23.05,EUR,1,11,0.34,2025-10-07,4.09,3.0,3,1.0,1.0,286
+AB501549,10653,New York,Staten Island,Private room,50.28,USD,2,7,0.94,2026-09-09,4.84,3.0,1,2.0,,128
+AB501550,10416,New York,Staten Island,Entire home/apt,216.24,USD,2,5,0.71,2025-12-26,4.85,2.0,3,1.0,1.0,198
+AB501551,10067,Dubai,Downtown,Entire home/apt,98.6,AED,14,8,1.14,2024-05-14,4.23,5.0,8,2.0,2.0,181
+AB501552,10136,Tokyo,Taito,Entire home/apt,117.9,JPY,3,11,1.03,2023-11-26,4.52,2.0,3,4.0,5.0,7
+AB501553,10593,New York,Bronx,Entire home/apt,181.05,USD,14,14,0.13,2026-09-13,5.0,6.0,8,2.0,2.0,325
+AB501554,10233,Dubai,Business Bay,Shared room,23.97,AED,2,5,0.32,2025-07-10,4.73,2.0,2,0.0,1.0,360
+AB501555,10064,New York,Staten Island,Entire home/apt,135.43,USD,5,6,0.66,2024-04-05,4.3,5.0,3,2.0,4.0,334
+AB501556,10624,Dubai,Jumeirah,Private room,64.01,AED,7,2,0.09,2026-04-18,,3.0,3,1.0,2.0,62
+AB501557,10326,Barcelona,Sant Martí,Private room,35.46,EUR,7,12,0.52,2026-10-11,5.0,4.0,2,1.0,3.0,262
+AB501558,10763,London,Westminster,Private room,42.58,GBP,5,3,1.24,2024-08-01,4.67,2.0,3,1.0,2.0,187
+AB501559,10345,Tokyo,Shibuya,Private room,36.49,JPY,1,6,0.25,2025-08-01,4.12,2.0,1,1.0,2.0,295
+AB501560,10544,Tokyo,Shibuya,Private room,56.86,JPY,1,5,0.76,2026-11-09,4.72,3.0,2,1.0,2.0,284
+AB501561,10771,Singapore,Marina Bay,Private room,57.35,SGD,14,13,0.5,2024-05-03,4.03,2.0,3,1.0,3.0,316
+AB501562,10476,London,Camden,Private room,96.15,GBP,3,14,0.25,2024-12-31,4.59,1.0,1,1.0,3.0,314
+AB501563,10807,London,Camden,Entire home/apt,117.43,GBP,3,11,1.02,2026-09-07,4.58,1.0,6,2.0,3.0,59
+AB501564,10684,Singapore,Orchard,Entire home/apt,79.66,SGD,5,1,0.82,2025-09-18,,,1,0.0,2.0,52
+AB501565,10739,New York,Queens,Private room,137.08,USD,2,5,0.22,2025-11-08,4.82,1.0,1,1.0,1.0,276
+AB501566,10619,Barcelona,Eixample,Entire home/apt,50.31,EUR,2,5,0.75,2023-12-12,4.48,2.0,2,2.0,4.0,228
+AB501567,10423,Singapore,Orchard,Private room,53.58,SGD,7,2,0.31,2025-12-26,,2.0,3,2.0,2.0,167
+AB501568,10495,Sydney,Manly,Entire home/apt,68.71,AUD,5,12,0.31,2025-08-05,4.49,3.0,2,2.0,3.0,103
+AB501569,10133,London,Kensington,Entire home/apt,142.34,GBP,3,11,0.61,2025-05-14,4.39,2.0,8,4.0,5.0,349
+AB501570,10484,London,Hackney,Entire home/apt,72.27,GBP,1,17,0.94,2025-10-17,4.04,5.0,6,3.0,4.0,292
+AB501571,10250,New York,Bronx,Entire home/apt,479.93,USD,3,5,0.58,2024-09-23,4.31,4.0,6,1.0,3.0,114
+AB501572,10720,Tokyo,Minato,Private room,25.72,JPY,2,6,0.94,2026-08-04,4.65,3.0,2,1.0,2.0,97
+AB501573,10079,Sydney,Surry Hills,Entire home/apt,156.07,AUD,7,4,0.35,2024-04-15,4.56,5.0,6,0.0,1.0,257
+AB501574,10065,Barcelona,,Entire home/apt,145.16,EUR,1,8,0.19,2026-06-11,4.08,3.0,4,0.0,2.0,72
+AB501575,10337,Barcelona,Sant Martí,Private room,61.08,EUR,2,4,0.09,2024-05-02,4.94,4.0,3,1.0,2.0,95
+AB501576,10075,London,Hackney,Entire home/apt,335.24,GBP,3,9,0.25,2024-10-13,4.53,5.0,4,0.0,1.0,1
+AB501577,10354,New York,Queens,Shared room,42.08,USD,1,20,0.24,2024-01-28,4.41,2.0,2,0.0,1.0,184
+AB501578,10117,Dubai,Downtown,Hotel room,120.29,AED,3,1,1.65,2025-11-14,,3.0,8,4.0,4.0,361
+AB501579,10259,Barcelona,Eixample,Entire home/apt,79.35,EUR,2,14,0.76,2024-08-27,4.49,3.0,8,3.0,5.0,210
+AB501580,10448,New York,Queens,Entire home/apt,196.61,USD,2,10,0.04,2026-03-30,4.11,3.0,2,0.0,2.0,154
+AB501581,10678,Dubai,Downtown,Shared room,50.47,AED,2,5,0.56,2025-02-10,4.44,4.0,2,0.0,1.0,252
+AB501582,10149,New York,Brooklyn,Private room,43.3,USD,3,8,1.28,2025-08-23,4.72,4.0,1,1.0,1.0,38
+AB501583,10414,Barcelona,Ciutat Vella,Entire home/apt,58.66,EUR,5,11,0.19,2025-03-20,5.0,2.0,4,3.0,3.0,113
+AB501584,10645,Paris,Le Marais,Entire home/apt,67.21,EUR,7,5,0.14,2024-08-14,5.0,2.0,4,1.0,2.0,96
+AB501585,10109,Sydney,CBD,Entire home/apt,154.86,AUD,1,3,1.17,2025-12-05,4.72,2.0,4,2.0,2.0,329
+AB501586,10080,Paris,Latin Quarter,Private room,38.87,EUR,5,3,0.93,2025-09-16,4.63,3.0,2,1.0,1.0,311
+AB501587,10754,London,Camden,Entire home/apt,164.75,GBP,3,1,1.11,2024-10-27,,2.0,6,,2.0,310
+AB501588,10588,Singapore,Chinatown,Entire home/apt,279.93,SGD,1,5,0.29,2025-06-12,4.46,4.0,1,4.0,5.0,143
+AB501589,10642,Dubai,Dubai Marina,Shared room,15.0,AED,1,0,,,,2.0,1,0.0,2.0,61
+AB501590,10257,Paris,Belleville,Entire home/apt,152.78,EUR,1,19,3.26,2026-10-11,4.7,4.0,2,1.0,1.0,87
+AB501591,10462,London,Kensington,Private room,61.6,GBP,2,3,0.52,2024-10-03,4.73,4.0,3,1.0,2.0,205
+AB501592,10548,Paris,Le Marais,Private room,63.54,EUR,3,20,0.16,2025-02-11,4.49,2.0,1,2.0,3.0,201
+AB501593,10527,New York,Queens,Entire home/apt,145.91,USD,2,5,1.04,2024-02-16,3.77,2.0,4,1.0,1.0,242
+AB501594,10495,Paris,Belleville,Entire home/apt,68.71,EUR,1,9,0.07,2024-12-15,4.43,3.0,4,0.0,2.0,191
+AB501595,10551,Paris,Latin Quarter,Shared room,42.75,EUR,2,5,1.48,2025-10-12,4.62,2.0,1,0.0,1.0,323
+AB501596,10403,Barcelona,Eixample,Entire home/apt,114.16,EUR,14,1,0.61,2025-12-29,,2.0,6,0.0,2.0,235
+AB501597,10733,Singapore,Bugis,Entire home/apt,61.0,SGD,2,1,0.27,2026-07-10,,3.0,1,1.0,3.0,326
+AB501598,10037,Dubai,Downtown,Private room,101.79,AED,7,6,2.14,2024-11-16,4.71,1.0,2,1.0,2.0,106
+AB501599,10581,Singapore,Chinatown,Entire home/apt,123.89,SGD,2,3,1.9,2025-11-06,4.23,1.0,5,4.0,6.0,190
+AB501600,10534,Paris,Louvre,Entire home/apt,124.73,EUR,2,7,1.27,2025-07-02,4.45,2.0,5,1.0,2.0,198
+AB501601,10219,Barcelona,Gràcia,Entire home/apt,109.1,EUR,2,14,0.57,2026-07-05,4.69,6.0,5,4.0,5.0,242
+AB501602,10367,Tokyo,Taito,Private room,25.27,JPY,14,7,0.28,2024-03-05,4.5,2.0,1,1.0,3.0,241
+AB501603,10775,New York,Bronx,Private room,144.92,USD,3,25,0.79,2026-03-14,4.95,3.0,3,1.0,3.0,96
+AB501604,10632,Dubai,Deira,Shared room,56.4,AED,1,14,0.61,2024-10-01,4.16,3.0,1,0.0,1.0,233
+AB501605,10346,New York,Bronx,Entire home/apt,286.05,USD,5,20,0.42,2024-05-29,4.15,2.0,2,0.0,1.0,25
+AB501606,10333,New York,Queens,Entire home/apt,304.92,USD,3,3,0.55,2025-07-26,4.51,7.0,2,0.0,1.0,287
+AB501607,10615,Paris,Louvre,Entire home/apt,115.43,EUR,3,4,0.7,2026-05-16,4.87,3.0,4,1.0,2.0,93
+AB501608,10303,Paris,Le Marais,Private room,37.87,EUR,5,7,0.2,2024-07-23,5.0,7.0,2,2.0,3.0,184
+AB501609,10472,New York,Staten Island,Entire home/apt,143.59,USD,30,1,0.81,2024-04-08,,3.0,3,3.0,4.0,4
+AB501610,10078,Sydney,CBD,Private room,155.54,AUD,3,1,0.26,2025-05-02,,4.0,3,2.0,3.0,69
+AB501611,10634,Sydney,Bondi,Entire home/apt,114.49,AUD,2,3,0.88,2024-02-23,4.43,3.0,3,1.0,1.0,163
+AB501612,10342,Barcelona,Ciutat Vella,Private room,32.54,EUR,7,6,0.46,2026-10-14,5.0,3.0,2,1.0,3.0,291
+AB501613,10157,Singapore,Little India,Entire home/apt,164.03,SGD,5,5,0.77,2024-11-12,4.12,2.0,8,0.0,2.0,230
+AB501614,10035,Paris,Belleville,Shared room,62.1,EUR,3,2,2.15,2025-03-14,,3.0,1,0.0,1.0,365
+AB501615,10789,Barcelona,Sants-Montjuïc,Private room,22.08,EUR,5,6,1.08,2024-04-04,4.59,4.0,2,1.0,2.0,43
+AB501616,10651,New York,Queens,Entire home/apt,68.34,USD,5,3,0.99,2025-02-12,3.78,5.0,6,2.0,3.0,105
+AB501617,10410,Paris,Louvre,Private room,75.12,EUR,30,2,1.89,2026-02-27,,4.0,1,1.0,3.0,309
+AB501618,10187,Dubai,Deira,Private room,50.6,AED,3,8,0.12,2024-05-15,4.23,2.0,2,2.0,3.0,114
+AB501619,10462,Singapore,Marina Bay,Hotel room,183.37,SGD,5,4,0.35,2024-11-12,4.59,1.0,6,4.0,6.0,12
+AB501620,10420,London,Islington,Hotel room,155.14,GBP,5,9,1.01,2024-03-18,4.91,2.0,8,4.0,4.0,172
+AB501621,10843,Barcelona,Eixample,Entire home/apt,85.75,EUR,1,5,0.39,2026-03-25,4.61,1.0,6,4.0,6.0,203
+AB501622,10387,New York,Manhattan,Entire home/apt,82.85,USD,3,4,0.84,2026-11-13,4.5,4.0,2,3.0,3.0,258
+AB501623,10281,Barcelona,Ciutat Vella,Entire home/apt,120.54,EUR,2,9,0.12,2025-08-04,3.97,3.0,3,1.0,2.0,281
+AB501624,10358,Paris,Latin Quarter,Hotel room,99.31,EUR,3,1,0.49,2024-04-30,,2.0,4,3.0,4.0,164
+AB501625,10229,Dubai,Business Bay,Private room,46.98,AED,14,22,0.17,2026-09-19,4.65,4.0,3,1.0,2.0,140
+AB501626,10697,Paris,Le Marais,Entire home/apt,94.98,EUR,1,15,0.02,2026-08-31,4.86,2.0,1,1.0,2.0,238
+AB501627,10739,New York,Brooklyn,Private room,64.71,USD,5,14,0.54,2025-01-23,4.49,5.0,3,1.0,3.0,84
+AB501628,10773,Paris,Latin Quarter,Private room,64.46,EUR,7,4,0.75,2024-06-05,4.67,1.0,3,1.0,1.0,129
+AB501629,10425,Sydney,Bondi,Private room,60.17,AUD,3,6,0.43,2024-01-18,4.87,2.0,3,2.0,4.0,178
+AB501630,10347,New York,Queens,Entire home/apt,190.23,USD,5,4,0.24,2026-01-23,3.99,3.0,2,,1.0,184
+AB501631,10623,New York,Manhattan,Entire home/apt,237.24,USD,1,24,1.01,2026-02-13,3.96,2.0,8,0.0,2.0,107
+AB501632,10410,Tokyo,Setagaya,Entire home/apt,69.78,JPY,2,0,,,,4.0,5,0.0,2.0,265
+AB501633,10643,Barcelona,Sants-Montjuïc,Entire home/apt,105.87,EUR,5,2,0.44,2026-07-17,,3.0,6,2.0,3.0,273
+AB501634,10175,New York,Queens,Private room,125.25,USD,3,6,1.33,2024-06-30,4.19,3.0,1,1.0,2.0,76
+AB501635,10671,Sydney,Bondi,Entire home/apt,84.12,AUD,5,6,1.2,2025-11-24,4.23,3.0,1,2.0,3.0,169
+AB501636,10455,Paris,Latin Quarter,Entire home/apt,93.79,EUR,7,8,0.15,2025-02-21,5.0,7.0,2,4.0,5.0,22
+AB501637,10268,Dubai,Dubai Marina,Entire home/apt,126.77,AED,30,5,0.18,2023-11-27,4.75,4.0,6,4.0,4.0,20
+AB501638,10342,New York,Brooklyn,Entire home/apt,82.48,USD,7,15,0.68,2024-07-30,4.26,2.0,8,3.0,4.0,4
+AB501639,10355,Barcelona,Eixample,Entire home/apt,168.84,EUR,2,4,0.44,2025-01-23,4.53,2.0,7,1.0,1.0,53
+AB501640,10350,Dubai,Jumeirah,Entire home/apt,157.34,AED,3,5,0.1,2025-02-06,4.24,4.0,4,4.0,6.0,172
+AB501641,10151,New York,Bronx,Private room,94.0,USD,7,21,0.37,2024-05-24,4.25,2.0,2,1.0,2.0,117
+AB501642,10463,London,Westminster,Entire home/apt,54.53,GBP,2,8,0.18,2025-05-18,3.86,2.0,4,1.0,3.0,339
+AB501643,10484,Paris,Louvre,Private room,73.9,EUR,14,1,0.77,2023-12-09,,2.0,1,1.0,2.0,17
+AB501644,10538,Barcelona,Eixample,Entire home/apt,43.88,EUR,1,7,1.1,2024-09-28,4.65,3.0,4,2.0,3.0,146
+AB501645,10498,Tokyo,Shibuya,Entire home/apt,103.06,JPY,3,2,0.74,2025-06-10,,4.0,8,1.0,3.0,345
+AB501646,10504,Barcelona,Eixample,Entire home/apt,80.03,EUR,3,6,0.59,2025-12-01,4.95,3.0,5,4.0,4.0,216
+AB501647,10306,Dubai,Downtown,Private room,201.21,AED,2,24,0.11,2026-05-19,4.64,4.0,2,2.0,2.0,137
+AB501648,10029,New York,Bronx,Hotel room,223.39,USD,14,6,0.65,2026-05-18,4.86,5.0,3,0.0,1.0,203
+AB501649,10290,New York,Staten Island,Private room,23.98,USD,3,1,0.42,2024-07-13,,5.0,3,1.0,1.0,171
+AB501650,10599,Singapore,Little India,Private room,105.29,SGD,5,22,0.36,2024-01-20,4.85,2.0,3,2.0,4.0,66
+AB501651,10469,Barcelona,Sant Martí,Entire home/apt,131.49,EUR,3,12,0.47,2025-11-03,4.39,4.0,5,3.0,4.0,21
+AB501652,10330,London,Westminster,Entire home/apt,313.66,GBP,3,25,1.59,2025-12-05,4.71,2.0,5,2.0,2.0,268
+AB501653,10175,London,Hackney,Entire home/apt,149.37,GBP,3,6,0.97,2026-06-22,4.71,2.0,8,2.0,2.0,279
+AB501654,10318,Tokyo,Shibuya,Entire home/apt,54.62,JPY,2,4,1.15,2025-07-03,4.53,1.0,8,4.0,6.0,27
+AB501655,10308,Sydney,Surry Hills,Entire home/apt,147.92,AUD,2,9,0.37,2026-07-26,4.36,3.0,1,4.0,5.0,189
+AB501656,10639,Paris,Montmartre,Entire home/apt,106.44,EUR,3,6,1.2,2025-08-23,4.6,2.0,1,4.0,5.0,39
+AB501657,10801,London,Westminster,Entire home/apt,146.86,GBP,5,10,1.14,2024-06-28,4.91,5.0,3,0.0,1.0,362
+AB501658,10029,New York,Manhattan,Entire home/apt,185.39,USD,1,7,1.35,2026-01-24,4.3,4.0,6,0.0,1.0,301
+AB501659,10425,Barcelona,Gràcia,Entire home/apt,64.75,EUR,14,8,0.11,2025-02-18,4.34,1.0,3,0.0,1.0,292
+AB501660,10072,Barcelona,Sants-Montjuïc,Entire home/apt,130.65,EUR,14,16,1.56,2024-05-14,5.0,2.0,3,4.0,4.0,292
+AB501661,10297,London,Islington,Entire home/apt,98.69,GBP,1,17,0.34,2024-12-23,4.5,2.0,6,4.0,5.0,146
+AB501662,10648,New York,Queens,Entire home/apt,178.53,USD,5,7,1.7,2026-03-03,4.59,6.0,4,1.0,1.0,123
+AB501663,10379,London,Kensington,Private room,142.43,GBP,5,1,1.14,2025-05-16,,5.0,2,1.0,1.0,328
+AB501664,10227,Paris,Latin Quarter,Private room,56.56,EUR,1,8,0.63,2025-07-13,4.04,1.0,2,1.0,1.0,138
+AB501665,10502,Tokyo,Taito,Shared room,28.11,JPY,1,18,0.2,2025-05-01,4.54,4.0,1,0.0,1.0,180
+AB501666,10197,Sydney,Manly,Private room,51.44,AUD,2,9,0.29,2024-02-29,4.54,3.0,1,1.0,,45
+AB501667,10398,London,Westminster,Entire home/apt,74.25,GBP,5,10,0.72,2024-05-13,4.51,3.0,7,1.0,2.0,70
+AB501668,10395,Barcelona,Sants-Montjuïc,Private room,30.89,EUR,1,8,0.85,2025-03-13,4.39,4.0,1,2.0,3.0,282
+AB501669,10652,Barcelona,Sants-Montjuïc,Entire home/apt,54.43,EUR,1,3,0.1,2025-11-14,4.74,5.0,2,0.0,2.0,302
+AB501670,10386,Barcelona,Sants-Montjuïc,Entire home/apt,167.06,EUR,3,5,0.53,2025-07-30,5.0,2.0,6,1.0,2.0,362
+AB501671,10289,London,Westminster,Entire home/apt,94.11,GBP,7,14,0.65,2026-04-12,5.0,3.0,7,2.0,4.0,347
+AB501672,10110,Singapore,Marina Bay,Private room,81.23,SGD,2,7,1.28,2024-01-23,4.81,2.0,3,1.0,3.0,201
+AB501673,10512,New York,Manhattan,Entire home/apt,106.44,USD,14,11,1.03,2024-01-27,4.95,2.0,5,4.0,6.0,108
+AB501674,10791,Sydney,Manly,Private room,94.04,AUD,30,10,1.0,2026-07-17,4.91,4.0,3,1.0,1.0,221
+AB501675,10448,Paris,Belleville,Entire home/apt,193.8,EUR,2,11,0.85,2026-07-20,4.38,4.0,6,1.0,3.0,132
+AB501676,10389,London,Kensington,Entire home/apt,113.53,GBP,3,12,0.74,2024-09-17,4.52,4.0,8,2.0,3.0,305
+AB501677,10034,Sydney,CBD,Entire home/apt,130.75,AUD,14,7,1.05,2026-01-15,3.94,3.0,4,4.0,4.0,160
+AB501678,10670,Paris,Montmartre,Entire home/apt,76.24,EUR,3,10,0.49,2024-11-26,4.71,1.0,5,2.0,2.0,300
+AB501679,10671,Barcelona,Sant Martí,Private room,49.97,EUR,2,9,1.77,2024-02-13,4.4,2.0,3,2.0,3.0,25
+AB501680,10331,Barcelona,,Entire home/apt,166.58,EUR,7,8,2.29,2025-12-25,4.35,3.0,1,4.0,6.0,347
+AB501681,10340,Paris,Louvre,Entire home/apt,64.74,EUR,5,5,0.88,2025-12-10,4.81,4.0,5,3.0,5.0,29
+AB501682,10364,London,Kensington,Entire home/apt,365.74,GBP,5,4,0.41,2025-08-20,4.47,4.0,7,0.0,2.0,17
+AB501683,10112,Paris,Latin Quarter,Entire home/apt,334.39,EUR,3,3,0.1,2025-06-18,3.98,4.0,1,1.0,2.0,282
+AB501684,10747,Dubai,Deira,Shared room,55.64,AED,3,12,1.12,2024-04-10,4.36,5.0,2,0.0,1.0,228
+AB501685,10016,Dubai,Jumeirah,Entire home/apt,236.66,AED,5,6,0.29,2024-01-13,4.33,2.0,8,4.0,6.0,212
+AB501686,10195,Dubai,Business Bay,Shared room,20.15,AED,1,6,0.35,2025-06-04,4.11,4.0,1,0.0,1.0,82
+AB501687,10307,Tokyo,Setagaya,Private room,28.28,JPY,1,4,0.12,2025-04-01,4.65,3.0,3,1.0,2.0,24
+AB501688,10684,Paris,Belleville,Private room,51.23,EUR,1,2,0.64,2026-10-17,,4.0,3,1.0,3.0,225
+AB501689,10402,Barcelona,Sant Martí,Entire home/apt,112.49,EUR,2,0,,,,4.0,2,2.0,2.0,99
+AB501690,10118,London,Kensington,Entire home/apt,147.48,GBP,30,11,0.48,2024-01-22,4.95,2.0,6,1.0,1.0,73
+AB501691,10341,Dubai,Jumeirah,Entire home/apt,220.9,AED,3,4,0.74,2026-07-01,5.0,4.0,8,1.0,3.0,265
+AB501692,10656,Dubai,Dubai Marina,Entire home/apt,107.91,AED,7,4,0.12,2024-01-17,4.31,3.0,1,0.0,1.0,10
+AB501693,10783,London,Islington,Shared room,44.63,GBP,2,11,1.19,2025-07-21,4.62,6.0,1,0.0,2.0,46
+AB501694,10841,Tokyo,Taito,Shared room,39.58,JPY,5,22,1.92,2026-02-10,4.72,6.0,1,0.0,1.0,202
+AB501695,10562,Singapore,Chinatown,Entire home/apt,195.68,SGD,2,6,0.55,2025-09-05,4.11,3.0,1,0.0,1.0,291
+AB501696,10673,London,Westminster,Private room,35.53,GBP,1,8,0.52,2025-04-23,4.74,2.0,1,1.0,3.0,190
+AB501697,10056,Paris,Montmartre,Entire home/apt,155.37,EUR,1,2,1.51,2024-06-26,,5.0,1,1.0,2.0,263
+AB501698,10328,London,Kensington,Private room,49.21,GBP,5,9,0.24,2025-03-18,4.36,4.0,3,2.0,2.0,43
+AB501699,10102,Barcelona,Sant Martí,Entire home/apt,104.64,EUR,3,2,0.32,2026-10-20,,5.0,6,4.0,4.0,300
+AB501700,10309,Paris,Belleville,Entire home/apt,65.71,EUR,14,5,0.54,2024-05-28,4.97,2.0,1,0.0,2.0,45
+AB501701,10401,Tokyo,Setagaya,Entire home/apt,161.22,JPY,2,2,0.4,2024-04-15,,2.0,5,2.0,3.0,342
+AB501702,10004,Dubai,Deira,Entire home/apt,82.23,AED,14,6,0.24,2025-04-06,3.94,2.0,4,0.0,1.0,41
+AB501703,10278,Sydney,Manly,Private room,61.58,AUD,3,13,0.25,2025-01-09,4.73,1.0,3,1.0,1.0,188
+AB501704,10247,New York,Brooklyn,Private room,193.2,USD,1,0,,,,3.0,3,2.0,4.0,137
+AB501705,10305,Sydney,Newtown,Entire home/apt,238.22,AUD,2,5,1.36,2025-02-22,4.11,1.0,5,4.0,6.0,103
+AB501706,10477,New York,Bronx,Shared room,107.65,USD,7,21,0.25,2023-12-19,4.09,3.0,2,0.0,2.0,17
+AB501707,10436,Paris,Le Marais,Entire home/apt,157.83,EUR,7,16,0.43,2025-06-20,4.4,3.0,5,0.0,1.0,221
+AB501708,10016,Paris,Belleville,Entire home/apt,284.64,EUR,3,4,1.36,2026-04-08,4.94,5.0,7,4.0,4.0,126
+AB501709,10605,New York,Staten Island,Entire home/apt,157.82,USD,7,18,0.43,2023-12-21,4.25,4.0,3,2.0,4.0,150
+AB501710,10288,Sydney,CBD,Entire home/apt,208.79,AUD,1,2,0.24,2026-06-09,,3.0,6,4.0,4.0,232
+AB501711,10660,Paris,Louvre,Private room,51.18,EUR,2,1,0.19,2025-10-03,,5.0,3,1.0,1.0,249
+AB501712,10146,Tokyo,Taito,Shared room,26.93,JPY,5,8,0.81,2026-04-24,4.36,2.0,1,0.0,1.0,184
+AB501713,10397,New York,Queens,Private room,126.53,USD,1,1,0.34,2024-08-09,,3.0,2,1.0,2.0,160
+AB501714,10460,London,Kensington,Entire home/apt,122.63,GBP,7,3,0.92,2026-07-09,4.11,1.0,3,3.0,3.0,165
+AB501715,10377,New York,Queens,Private room,63.52,USD,30,3,0.45,2025-06-02,4.44,2.0,1,1.0,3.0,355
+AB501716,10143,Paris,Belleville,Entire home/apt,55.53,EUR,5,6,0.27,2024-10-26,4.73,2.0,4,2.0,3.0,13
+AB501717,10333,Paris,Latin Quarter,Private room,50.66,EUR,3,6,0.7,2024-12-15,4.54,2.0,3,1.0,2.0,204
+AB501718,10550,Tokyo,Shibuya,Private room,25.6,JPY,5,9,0.3,2024-01-30,4.13,3.0,2,1.0,3.0,271
+AB501719,10833,New York,Queens,Private room,88.8,USD,5,10,1.15,2026-05-25,4.74,4.0,3,1.0,1.0,2
+AB501720,10173,Barcelona,Sant Martí,Shared room,37.62,EUR,1,13,0.56,2025-01-28,5.0,6.0,1,0.0,1.0,216
+AB501721,10750,Singapore,Marina Bay,Entire home/apt,88.26,SGD,14,3,0.68,2024-12-06,4.11,2.0,8,0.0,2.0,59
+AB501722,10042,Singapore,Marina Bay,Entire home/apt,238.03,SGD,1,1,0.35,2026-01-04,,4.0,1,1.0,2.0,115
+AB501723,10316,Barcelona,Ciutat Vella,Entire home/apt,36.38,EUR,3,8,0.37,2024-07-16,5.0,2.0,8,2.0,2.0,167
+AB501724,10708,Barcelona,Gràcia,Private room,41.94,EUR,3,22,0.98,2024-12-01,5.0,2.0,2,1.0,2.0,38
+AB501725,10500,Dubai,Jumeirah,Private room,46.75,AED,5,9,2.38,2025-10-12,4.46,3.0,2,2.0,4.0,137
+AB501726,10446,New York,Brooklyn,Shared room,82.5,USD,5,16,0.71,2026-05-21,4.26,3.0,1,0.0,1.0,79
+AB501727,10271,Sydney,Manly,Entire home/apt,84.35,AUD,3,1,0.94,2025-05-16,,6.0,6,1.0,3.0,318
+AB501728,10361,Tokyo,Setagaya,Entire home/apt,33.77,JPY,1,5,1.33,2026-11-17,4.89,5.0,6,4.0,4.0,232
+AB501729,10092,Tokyo,Shibuya,Entire home/apt,76.23,JPY,3,7,0.57,2025-07-13,4.3,3.0,5,1.0,2.0,108
+AB501730,10331,New York,Staten Island,Entire home/apt,480.43,USD,1,4,1.78,2024-05-23,4.13,4.0,4,4.0,5.0,10
+AB501731,10213,Barcelona,Gràcia,Entire home/apt,107.11,EUR,3,4,0.78,2025-06-13,4.97,4.0,4,3.0,5.0,337
+AB501732,10451,Tokyo,Shinjuku,Private room,18.0,JPY,7,1,0.26,2025-01-05,,1.0,3,1.0,2.0,359
+AB501733,10365,Tokyo,Taito,Entire home/apt,102.93,JPY,2,15,0.8,2025-10-30,4.5,4.0,5,0.0,2.0,297
+AB501734,10044,London,Islington,Private room,44.01,GBP,7,20,0.49,2024-12-10,4.58,2.0,3,1.0,3.0,225
+AB501735,10762,Paris,Latin Quarter,Private room,34.0,EUR,14,3,2.24,2025-06-17,4.53,3.0,1,1.0,2.0,270
+AB501736,10142,Paris,Latin Quarter,Private room,44.65,EUR,7,15,0.03,2024-03-23,5.0,1.0,1,2.0,4.0,306
+AB501737,10228,Dubai,Business Bay,Entire home/apt,91.9,AED,30,12,0.68,2024-07-08,4.39,4.0,4,2.0,3.0,17
+AB501738,10240,London,Westminster,Entire home/apt,275.08,GBP,30,3,1.66,2025-05-24,4.82,2.0,8,0.0,1.0,71
+AB501739,10664,Tokyo,Setagaya,Entire home/apt,99.43,JPY,2,12,0.16,2025-09-12,4.18,1.0,8,1.0,1.0,323
+AB501740,10240,New York,Queens,Private room,60.65,USD,2,3,0.89,2024-12-08,4.63,3.0,3,,1.0,61
+AB501741,10040,Paris,Belleville,Private room,45.06,EUR,2,7,0.65,2025-06-25,4.31,4.0,3,2.0,3.0,195
+AB501742,10067,Paris,Belleville,Entire home/apt,97.02,EUR,2,0,,,,3.0,2,1.0,1.0,95
+AB501743,10267,London,Kensington,Private room,106.7,GBP,5,12,0.09,2026-02-12,4.69,4.0,2,1.0,3.0,238
+AB501744,10761,Tokyo,Shinjuku,Entire home/apt,63.28,JPY,7,6,0.51,2024-11-02,4.34,8.0,7,2.0,2.0,328
+AB501745,10712,New York,Staten Island,Private room,44.67,USD,3,8,0.45,2025-04-10,5.0,1.0,1,1.0,3.0,69
+AB501746,10188,Sydney,Bondi,Private room,62.33,AUD,1,10,0.13,2026-06-21,3.72,1.0,1,1.0,2.0,135
+AB501747,10561,London,Westminster,Entire home/apt,119.13,GBP,14,15,0.69,2025-09-20,4.6,3.0,4,1.0,1.0,225
+AB501748,10444,Singapore,Orchard,Shared room,45.65,SGD,3,6,0.39,2023-11-25,4.93,1.0,2,0.0,1.0,327
+AB501749,10110,Paris,Latin Quarter,Entire home/apt,130.72,EUR,14,3,0.42,2026-02-22,4.41,4.0,4,2.0,3.0,196
+AB501750,10701,Tokyo,Shinjuku,Private room,99.56,JPY,3,9,0.69,2024-06-13,5.0,1.0,2,1.0,1.0,234
+AB501751,10618,Singapore,Bugis,Private room,69.11,SGD,2,13,0.02,2024-09-09,4.78,2.0,3,1.0,2.0,264
+AB501752,10682,Barcelona,Eixample,Entire home/apt,81.41,EUR,3,3,0.44,2026-06-26,4.77,2.0,8,1.0,1.0,71
+AB501753,10057,New York,Brooklyn,Entire home/apt,339.69,USD,2,3,1.02,2026-05-11,4.7,3.0,6,2.0,2.0,254
+AB501754,10586,Sydney,Surry Hills,Private room,71.89,AUD,1,8,3.22,2024-09-17,4.69,6.0,1,1.0,3.0,304
+AB501755,10079,New York,Brooklyn,Entire home/apt,77.71,USD,7,7,0.85,2024-12-04,5.0,1.0,6,2.0,4.0,154
+AB501756,10040,Tokyo,Taito,Entire home/apt,61.8,JPY,5,12,0.51,2026-09-21,4.34,2.0,5,1.0,1.0,238
+AB501757,10375,London,Westminster,Entire home/apt,146.07,GBP,1,26,0.41,2024-02-19,4.86,1.0,7,3.0,3.0,29
+AB501758,10501,London,Westminster,Shared room,25.38,GBP,1,11,0.68,2026-08-08,3.84,3.0,1,0.0,1.0,133
+AB501759,10587,Tokyo,Shinjuku,Private room,80.1,JPY,2,15,0.93,2024-08-12,4.53,5.0,1,1.0,3.0,223
+AB501760,10244,Tokyo,Shibuya,Private room,45.81,JPY,5,2,1.65,2025-10-09,,5.0,3,1.0,2.0,198
+AB501761,10080,New York,Manhattan,Entire home/apt,127.75,USD,2,4,0.55,2025-11-22,4.47,4.0,1,2.0,4.0,280
+AB501762,10716,New York,Manhattan,Entire home/apt,124.11,USD,3,17,1.91,2025-11-09,4.49,2.0,8,3.0,3.0,328
+AB501763,10655,Barcelona,Eixample,Entire home/apt,105.45,EUR,14,11,0.63,2024-05-07,4.28,5.0,7,4.0,4.0,208
+AB501764,10314,Barcelona,Eixample,Private room,59.49,EUR,1,11,1.31,2025-01-30,4.72,3.0,1,1.0,3.0,15
+AB501765,10750,Singapore,Bugis,Entire home/apt,79.69,SGD,5,6,0.19,2025-12-28,4.53,1.0,8,1.0,3.0,313
+AB501766,10269,New York,Brooklyn,Entire home/apt,140.71,USD,2,3,0.64,2026-05-19,4.56,2.0,1,0.0,1.0,240
+AB501767,10528,Paris,Louvre,Private room,72.88,EUR,30,1,0.44,2024-11-18,,4.0,1,1.0,2.0,45
+AB501768,10320,Paris,Louvre,Entire home/apt,140.81,EUR,3,16,0.59,2025-12-05,4.37,3.0,8,0.0,1.0,119
+AB501769,10226,Dubai,Business Bay,Private room,41.24,AED,5,5,0.29,2025-09-30,4.83,2.0,2,2.0,3.0,222
+AB501770,10756,Tokyo,Shibuya,Private room,58.96,JPY,2,9,0.23,2025-06-20,4.67,1.0,1,1.0,1.0,330
+AB501771,10388,Tokyo,Minato,Entire home/apt,65.7,JPY,3,1,0.18,2026-08-12,,6.0,6,0.0,1.0,166
+AB501772,10337,Dubai,Jumeirah,Private room,75.53,AED,5,16,0.71,2025-07-16,4.08,3.0,1,1.0,2.0,310
+AB501773,10209,Dubai,Dubai Marina,Private room,59.7,AED,3,2,0.66,2025-05-18,,2.0,3,,2.0,5
+AB501774,10285,Tokyo,Shibuya,Private room,15.0,JPY,3,4,1.13,2024-07-31,5.0,4.0,2,2.0,4.0,147
+AB501775,10701,Singapore,Marina Bay,Private room,98.98,SGD,2,17,0.33,2024-05-22,5.0,5.0,2,1.0,3.0,4
+AB501776,10790,Paris,Le Marais,Private room,72.39,EUR,1,10,0.12,2025-07-08,4.83,2.0,2,1.0,2.0,217
+AB501777,10756,Tokyo,Shibuya,Shared room,16.67,JPY,14,21,0.44,2024-12-18,4.74,7.0,2,0.0,1.0,15
+AB501778,10424,Paris,Le Marais,Entire home/apt,178.23,EUR,1,6,0.03,2024-06-30,4.71,3.0,8,0.0,2.0,143
+AB501779,10175,London,Camden,Entire home/apt,113.83,GBP,14,13,0.3,2024-09-23,4.53,3.0,2,3.0,5.0,338
+AB501780,10151,Dubai,Deira,Entire home/apt,267.89,AED,1,9,0.15,2025-11-10,4.61,4.0,4,0.0,2.0,5
+AB501781,10055,Tokyo,Minato,Entire home/apt,88.19,JPY,1,5,0.14,2026-09-23,4.5,4.0,6,1.0,1.0,29
+AB501782,10743,Paris,Belleville,Private room,79.11,EUR,2,12,0.47,2024-08-07,4.8,2.0,2,1.0,1.0,347
+AB501783,10053,Dubai,Downtown,Entire home/apt,157.57,AED,7,2,1.69,2025-08-22,,1.0,4,2.0,4.0,68
+AB501784,10199,Paris,Belleville,Private room,35.53,EUR,3,16,0.54,2024-11-04,4.85,3.0,2,1.0,3.0,79
+AB501785,10225,Tokyo,Minato,Entire home/apt,119.81,JPY,2,2,0.79,2024-06-14,,5.0,3,4.0,5.0,82
+AB501786,10390,Tokyo,Minato,Private room,53.36,JPY,1,2,0.75,2026-01-04,,1.0,3,1.0,3.0,144
+AB501787,10274,Sydney,Newtown,Private room,108.56,AUD,5,10,0.7,2025-05-14,4.86,3.0,3,1.0,3.0,347
+AB501788,10423,Singapore,Marina Bay,Entire home/apt,81.04,SGD,3,6,0.35,2025-10-03,4.19,5.0,6,1.0,1.0,220
+AB501789,10336,Dubai,Business Bay,Entire home/apt,131.56,AED,7,1,0.29,2026-07-01,,3.0,6,4.0,5.0,363
+AB501790,10436,New York,Brooklyn,Entire home/apt,186.78,USD,1,11,0.38,2024-02-22,4.5,2.0,2,1.0,2.0,258
+AB501791,10848,Barcelona,Ciutat Vella,Private room,51.56,EUR,5,9,0.42,2025-11-23,4.3,5.0,3,,1.0,50
+AB501792,10282,Tokyo,Minato,Entire home/apt,170.76,JPY,5,12,0.74,2024-04-10,4.77,3.0,7,1.0,2.0,118
+AB501793,10734,Dubai,Downtown,Entire home/apt,160.13,AED,3,10,0.61,2024-11-04,4.67,3.0,1,4.0,5.0,234
+AB501794,10698,London,Camden,Entire home/apt,188.47,GBP,5,5,1.96,2024-03-31,5.0,4.0,1,3.0,5.0,357
+AB501795,10796,Singapore,Marina Bay,Entire home/apt,185.94,SGD,7,3,0.02,2024-01-22,5.0,3.0,3,0.0,1.0,328
+AB501796,10328,Paris,Le Marais,Entire home/apt,94.76,EUR,3,3,0.13,2026-10-24,4.02,4.0,8,0.0,2.0,159
+AB501797,10167,Sydney,Manly,Shared room,23.95,AUD,30,9,1.02,2024-07-12,4.35,2.0,2,0.0,2.0,328
+AB501798,10371,New York,Manhattan,Private room,50.26,USD,7,1,0.98,2026-08-09,,5.0,1,1.0,1.0,258
+AB501799,10154,Sydney,Manly,Private room,89.26,AUD,1,10,0.95,2024-04-17,4.65,2.0,3,1.0,2.0,5
+AB501800,10778,London,Islington,Private room,49.78,GBP,3,7,0.21,2024-02-13,4.51,2.0,2,1.0,3.0,251
+AB501801,10821,Tokyo,Minato,Private room,20.62,JPY,3,11,0.5,2024-10-09,4.8,3.0,1,1.0,2.0,61
+AB501802,10094,Singapore,Chinatown,Entire home/apt,96.68,SGD,1,14,0.75,2025-10-20,4.43,3.0,8,3.0,4.0,233
+AB501803,10376,Tokyo,Taito,Entire home/apt,73.24,JPY,2,7,0.55,2025-11-06,4.67,4.0,5,2.0,3.0,332
+AB501804,10393,Barcelona,Sants-Montjuïc,Entire home/apt,73.96,EUR,2,8,1.15,2024-10-03,4.78,3.0,2,4.0,6.0,213
+AB501805,10475,Singapore,Marina Bay,Entire home/apt,322.27,SGD,1,9,0.82,2026-06-15,4.75,4.0,8,4.0,5.0,179
+AB501806,10082,New York,Brooklyn,Private room,97.92,USD,2,15,1.94,2026-06-05,4.88,2.0,3,2.0,4.0,2
+AB501807,10751,Barcelona,Eixample,Entire home/apt,129.81,EUR,5,5,0.41,2026-03-17,4.71,2.0,6,1.0,1.0,273
+AB501808,10641,Paris,Latin Quarter,Entire home/apt,168.98,EUR,3,3,0.88,2023-12-26,4.22,5.0,3,0.0,1.0,222
+AB501809,10193,Tokyo,Minato,Private room,79.09,JPY,1,5,0.77,2026-07-04,4.41,1.0,2,1.0,2.0,206
+AB501810,10165,Dubai,Downtown,Private room,53.17,AED,2,2,0.67,2025-11-07,,4.0,3,1.0,1.0,264
+AB501811,10467,London,Camden,Entire home/apt,151.78,GBP,7,5,0.39,2023-12-15,5.0,3.0,4,1.0,1.0,43
+AB501812,10120,New York,Bronx,Entire home/apt,201.12,USD,14,14,1.4,2024-04-15,4.79,4.0,8,4.0,4.0,277
+AB501813,10483,Barcelona,Gràcia,Entire home/apt,42.58,EUR,3,7,0.84,2026-08-30,3.79,3.0,8,3.0,4.0,129
+AB501814,10528,New York,Brooklyn,Entire home/apt,337.87,USD,1,6,0.55,2026-09-09,4.84,4.0,4,1.0,2.0,0
+AB501815,10297,Barcelona,Gràcia,Private room,34.77,EUR,7,5,0.92,2026-09-14,5.0,2.0,2,1.0,1.0,34
+AB501816,10245,New York,Queens,Private room,82.04,USD,1,9,0.13,2025-05-12,4.07,4.0,3,1.0,2.0,315
+AB501817,10471,New York,Manhattan,Entire home/apt,77.88,USD,5,0,,,,2.0,4,3.0,3.0,83
+AB501818,10619,Barcelona,Eixample,Entire home/apt,100.89,EUR,14,16,0.08,2026-05-09,4.24,3.0,8,3.0,4.0,128
+AB501819,10143,Dubai,Business Bay,Private room,221.46,AED,1,5,1.05,2026-09-13,5.0,3.0,3,1.0,3.0,205
+AB501820,10775,New York,Manhattan,Shared room,44.72,USD,1,12,0.59,2024-07-01,5.0,5.0,1,0.0,1.0,123
+AB501821,10734,London,Islington,Entire home/apt,172.48,GBP,5,16,0.15,2026-08-29,4.82,4.0,4,0.0,2.0,161
+AB501822,10097,Sydney,Surry Hills,Hotel room,173.51,AUD,5,12,0.62,2024-09-02,3.9,1.0,8,3.0,3.0,59
+AB501823,10728,Paris,Le Marais,Entire home/apt,322.98,EUR,5,6,0.88,2025-11-19,4.73,2.0,3,0.0,,162
+AB501824,10836,Barcelona,Gràcia,Entire home/apt,156.31,EUR,3,9,0.56,2025-11-02,4.75,5.0,7,2.0,4.0,290
+AB501825,10179,Singapore,Orchard,Entire home/apt,69.35,SGD,1,13,1.63,2024-06-17,4.41,3.0,1,1.0,2.0,223
+AB501826,10600,New York,Bronx,Entire home/apt,156.55,USD,2,3,0.27,2025-10-03,4.11,6.0,8,2.0,4.0,193
+AB501827,10619,London,Kensington,Entire home/apt,67.35,GBP,1,3,0.41,2025-12-03,5.0,4.0,5,2.0,2.0,52
+AB501828,10222,Barcelona,Gràcia,Private room,74.23,EUR,3,12,0.15,2025-12-12,3.94,3.0,2,2.0,4.0,288
+AB501829,10390,Singapore,Little India,Entire home/apt,176.04,SGD,3,11,0.48,2024-10-01,4.69,7.0,3,0.0,1.0,193
+AB501830,10620,Paris,Louvre,Private room,59.96,EUR,5,11,0.17,2026-11-04,4.12,1.0,3,1.0,3.0,15
+AB501831,10430,Dubai,Downtown,Entire home/apt,223.69,AED,1,6,0.24,2026-10-10,4.16,2.0,8,4.0,5.0,341
+AB501832,10177,Sydney,Manly,Hotel room,216.69,AUD,5,5,0.07,2024-10-23,5.0,4.0,2,4.0,6.0,361
+AB501833,10204,New York,Staten Island,Entire home/apt,143.12,USD,3,36,0.07,2024-07-22,4.53,4.0,7,4.0,6.0,252
+AB501834,10609,Paris,Montmartre,Entire home/apt,93.44,EUR,3,7,0.23,2024-01-22,4.57,2.0,8,3.0,4.0,142
+AB501835,10097,London,Hackney,Entire home/apt,41.47,GBP,3,10,0.4,2023-11-22,4.47,3.0,5,1.0,3.0,248
+AB501836,10418,Dubai,Jumeirah,Hotel room,228.06,AED,2,7,0.36,2025-11-03,4.31,5.0,5,4.0,5.0,167
+AB501837,10654,Singapore,Chinatown,Entire home/apt,169.71,SGD,7,1,0.5,2025-09-24,,4.0,1,3.0,4.0,30
+AB501838,10015,Dubai,Downtown,Entire home/apt,167.42,AED,30,9,0.99,2023-11-27,4.07,5.0,7,3.0,4.0,34
+AB501839,10796,Paris,Le Marais,Private room,64.97,EUR,5,7,1.53,2024-12-14,4.94,2.0,2,1.0,1.0,330
+AB501840,10719,Barcelona,Sant Martí,Shared room,36.78,EUR,1,8,1.84,2024-01-03,4.87,3.0,2,0.0,1.0,144
+AB501841,10180,London,Kensington,Shared room,17.04,GBP,3,7,0.65,2025-08-30,4.28,3.0,2,0.0,2.0,337
+AB501842,10767,Barcelona,Gràcia,Entire home/apt,36.58,EUR,5,10,0.21,2026-11-20,4.81,2.0,1,1.0,1.0,321
+AB501843,10565,London,Kensington,Private room,78.61,GBP,3,19,0.7,2024-08-05,4.61,3.0,2,1.0,3.0,188
+AB501844,10647,Tokyo,Minato,Private room,96.88,JPY,3,3,0.04,2026-07-11,4.84,4.0,1,1.0,2.0,275
+AB501845,10700,New York,Brooklyn,Private room,31.29,USD,3,2,0.88,2024-10-27,,2.0,3,1.0,2.0,271
+AB501846,10036,Barcelona,Gràcia,Private room,98.75,EUR,2,3,0.96,2026-01-01,4.1,1.0,3,1.0,2.0,236
+AB501847,10254,Tokyo,Setagaya,Private room,20.59,JPY,7,2,0.74,2026-08-23,,3.0,2,1.0,3.0,299
+AB501848,10147,Tokyo,Taito,Entire home/apt,109.07,JPY,2,1,0.94,2024-05-26,,4.0,2,0.0,2.0,103
+AB501849,10217,Tokyo,Setagaya,Entire home/apt,47.59,JPY,3,9,1.17,2024-11-23,4.76,3.0,3,0.0,1.0,306
+AB501850,10699,New York,Queens,Entire home/apt,99.9,USD,2,7,0.17,2025-12-19,4.08,4.0,3,2.0,4.0,35
+AB501851,10578,London,Hackney,Entire home/apt,192.73,GBP,1,11,1.65,2024-03-07,4.35,3.0,8,1.0,1.0,347
+AB501852,10060,Barcelona,Sants-Montjuïc,Entire home/apt,29.17,EUR,30,5,0.85,2025-01-02,4.12,3.0,1,2.0,3.0,298
+AB501853,10698,London,Islington,Entire home/apt,89.6,GBP,30,23,1.42,2025-06-23,4.84,5.0,8,1.0,3.0,219
+AB501854,10652,London,Hackney,Entire home/apt,93.99,GBP,3,7,0.56,2024-07-21,5.0,3.0,4,3.0,4.0,192
+AB501855,10460,Barcelona,Sant Martí,Shared room,15.0,EUR,1,3,1.19,2026-08-15,4.74,5.0,2,0.0,1.0,164
+AB501856,10087,Paris,Belleville,Private room,56.83,EUR,1,2,0.81,2024-11-25,,5.0,1,1.0,3.0,20
+AB501857,10755,London,Westminster,Entire home/apt,360.73,GBP,7,7,0.28,2024-02-08,4.45,2.0,2,1.0,2.0,29
+AB501858,10463,New York,Staten Island,Private room,93.95,USD,3,7,0.15,2025-03-16,4.98,4.0,3,1.0,3.0,46
+AB501859,10400,Tokyo,Taito,Entire home/apt,115.95,JPY,14,7,0.62,2026-04-17,4.75,6.0,6,3.0,4.0,35
+AB501860,10809,New York,Bronx,Private room,51.47,USD,1,2,0.17,2026-04-13,,3.0,1,1.0,2.0,10
+AB501861,10261,Sydney,Surry Hills,Entire home/apt,51.26,AUD,5,27,0.62,2024-08-03,4.47,1.0,7,0.0,1.0,216
+AB501862,10730,Barcelona,Gràcia,Private room,39.29,EUR,3,16,0.39,2025-07-13,4.4,2.0,3,1.0,3.0,245
+AB501863,10025,London,Camden,Entire home/apt,118.3,GBP,5,12,1.2,2024-04-01,4.78,5.0,2,0.0,1.0,229
+AB501864,10690,London,Hackney,Entire home/apt,215.22,GBP,5,6,1.75,2026-04-30,4.58,2.0,3,1.0,3.0,261
+AB501865,10801,Paris,Louvre,Entire home/apt,76.05,EUR,14,10,0.11,2025-04-01,4.42,3.0,1,3.0,5.0,59
+AB501866,10119,Barcelona,Ciutat Vella,Private room,44.53,EUR,3,4,2.21,2025-08-31,4.29,3.0,3,1.0,1.0,111
+AB501867,10428,Singapore,Little India,Hotel room,249.93,SGD,2,10,0.04,2024-02-04,4.78,2.0,1,0.0,1.0,61
+AB501868,10175,Paris,Le Marais,Entire home/apt,136.28,EUR,1,7,1.74,2024-09-10,4.62,4.0,7,3.0,3.0,7
+AB501869,10264,Barcelona,Sant Martí,Hotel room,167.78,EUR,14,21,0.72,2024-03-24,3.85,2.0,4,1.0,2.0,146
+AB501870,10421,Barcelona,Eixample,Entire home/apt,92.82,EUR,5,6,0.37,2026-07-21,4.58,3.0,6,3.0,5.0,333
+AB501871,10505,London,Hackney,Private room,31.58,GBP,5,2,0.94,2026-05-06,,2.0,2,1.0,2.0,20
+AB501872,10423,Sydney,Manly,Private room,62.45,AUD,14,6,1.48,2026-05-29,4.02,2.0,2,,2.0,273
+AB501873,10219,Tokyo,Setagaya,Entire home/apt,101.49,JPY,3,17,2.23,2026-05-22,5.0,2.0,3,2.0,3.0,143
+AB501874,10302,Barcelona,Sants-Montjuïc,Entire home/apt,217.89,EUR,7,5,0.1,2024-04-11,4.7,2.0,7,1.0,2.0,129
+AB501875,10840,Tokyo,Setagaya,Entire home/apt,68.4,JPY,5,28,0.4,2024-05-21,4.45,3.0,5,3.0,4.0,209
+AB501876,10733,Singapore,Little India,Private room,53.57,SGD,30,4,1.69,2024-07-13,4.61,2.0,3,1.0,1.0,303
+AB501877,10469,Barcelona,Sants-Montjuïc,Private room,50.24,EUR,1,20,0.59,2025-05-25,4.84,1.0,1,1.0,1.0,240
+AB501878,10638,Tokyo,Shinjuku,Private room,65.85,JPY,7,11,1.2,2026-04-24,4.14,1.0,2,1.0,1.0,130
+AB501879,10413,Paris,Belleville,Entire home/apt,243.41,EUR,2,1,0.37,2025-01-10,,3.0,2,2.0,4.0,272
+AB501880,10471,London,Camden,Private room,69.02,GBP,2,3,0.15,2024-04-08,4.71,5.0,1,1.0,3.0,179
+AB501881,10793,New York,Bronx,Hotel room,197.19,USD,5,0,,,,,1,4.0,6.0,138
+AB501882,10206,Tokyo,Shinjuku,Entire home/apt,82.75,JPY,7,1,2.17,2025-12-20,,1.0,1,3.0,5.0,179
+AB501883,10591,Sydney,CBD,Entire home/apt,204.44,AUD,3,2,0.64,2024-07-24,,3.0,3,2.0,2.0,352
+AB501884,10401,Sydney,Bondi,Entire home/apt,167.35,AUD,30,29,0.18,2024-07-07,4.75,5.0,1,3.0,3.0,191
+AB501885,10462,New York,Queens,Private room,58.5,USD,3,6,0.31,2025-01-06,4.13,2.0,1,1.0,3.0,285
+AB501886,10635,Paris,Montmartre,Entire home/apt,263.54,EUR,2,22,0.64,2024-03-07,4.77,3.0,1,3.0,3.0,79
+AB501887,10835,Dubai,Downtown,Private room,75.33,AED,3,5,0.15,2026-03-13,4.06,2.0,2,1.0,3.0,186
+AB501888,10418,Dubai,Deira,Private room,54.55,AED,1,9,0.16,2026-02-06,4.56,3.0,2,1.0,3.0,314
+AB501889,10147,Paris,Belleville,Entire home/apt,110.74,EUR,5,7,0.37,2025-07-23,4.5,1.0,2,3.0,5.0,19
+AB501890,10166,London,Westminster,Private room,80.19,GBP,7,18,0.36,2024-04-15,4.96,8.0,3,1.0,,198
+AB501891,10293,Barcelona,Gràcia,Private room,69.66,EUR,2,3,0.39,2025-10-06,4.57,5.0,1,1.0,3.0,164
+AB501892,10758,Tokyo,Shibuya,Entire home/apt,157.35,JPY,3,13,0.27,2024-10-12,4.55,2.0,6,2.0,3.0,59
+AB501893,10062,Sydney,CBD,Private room,72.0,AUD,2,2,0.75,2026-02-16,,1.0,3,2.0,3.0,264
+AB501894,10800,New York,Queens,Private room,31.89,USD,3,4,0.94,2023-12-05,4.54,4.0,3,1.0,2.0,125
+AB501895,10443,Tokyo,Shibuya,Entire home/apt,102.63,JPY,7,4,0.59,2024-05-11,4.64,4.0,7,0.0,1.0,292
+AB501896,10002,Dubai,Business Bay,Entire home/apt,96.26,AED,2,40,1.55,2024-08-10,3.89,2.0,1,1.0,3.0,179
+AB501897,10479,London,Westminster,Private room,36.73,GBP,2,6,0.46,2024-02-24,4.08,4.0,3,1.0,3.0,118
+AB501898,10598,London,Hackney,Entire home/apt,175.89,GBP,7,0,,,,3.0,7,3.0,3.0,162
+AB501899,10711,Singapore,Little India,Private room,47.52,SGD,3,5,0.98,2024-03-26,4.88,1.0,3,2.0,4.0,136
+AB501900,10514,Dubai,Downtown,Private room,70.28,AED,7,12,0.8,2025-01-31,4.59,1.0,1,1.0,1.0,333
+AB501901,10011,Tokyo,Taito,Entire home/apt,104.63,JPY,1,37,1.12,2025-11-04,4.11,6.0,7,0.0,1.0,157
+AB501902,10285,Tokyo,Setagaya,Entire home/apt,105.28,JPY,3,8,0.4,2026-06-19,4.8,,7,4.0,4.0,26
+AB501903,10142,Barcelona,Gràcia,Entire home/apt,116.47,EUR,3,10,0.53,2024-10-20,4.84,2.0,6,4.0,5.0,185
+AB501904,10705,Dubai,Deira,Private room,60.24,AED,14,2,0.53,2024-09-13,,2.0,2,1.0,2.0,305
+AB501905,10292,Barcelona,Sant Martí,Entire home/apt,31.02,EUR,1,9,0.6,2024-02-12,4.41,2.0,2,0.0,2.0,0
+AB501906,10188,London,Westminster,Private room,233.61,GBP,2,7,0.52,2026-07-25,4.86,2.0,3,1.0,2.0,19
+AB501907,10743,Sydney,Newtown,Shared room,36.89,AUD,3,8,1.67,2025-05-04,4.37,3.0,1,0.0,1.0,69
+AB501908,10672,Paris,Latin Quarter,Entire home/apt,148.56,EUR,3,8,0.06,2024-12-19,4.69,5.0,3,3.0,3.0,295
+AB501909,10768,Dubai,Dubai Marina,Entire home/apt,156.05,AED,1,9,0.46,2026-04-15,4.6,2.0,4,3.0,5.0,292
+AB501910,10325,Tokyo,Shinjuku,Entire home/apt,128.26,JPY,3,5,0.44,2026-04-03,5.0,3.0,5,4.0,5.0,138
+AB501911,10596,London,Camden,Entire home/apt,112.88,GBP,30,4,0.87,2026-01-26,4.57,3.0,7,0.0,1.0,161
+AB501912,10744,Barcelona,Eixample,Private room,43.28,EUR,5,4,0.2,2024-09-25,4.01,4.0,2,2.0,3.0,349
+AB501913,10055,Singapore,Marina Bay,Entire home/apt,248.95,SGD,7,1,0.12,2024-05-10,,4.0,5,4.0,5.0,290
+AB501914,10841,London,Islington,Entire home/apt,326.78,GBP,5,3,0.2,2025-12-21,4.18,2.0,3,3.0,3.0,345
+AB501915,10217,Tokyo,Shibuya,Shared room,27.16,JPY,1,5,0.81,2023-12-09,4.92,,2,0.0,2.0,135
+AB501916,10089,Tokyo,Setagaya,Private room,43.32,JPY,30,17,0.65,2024-05-10,4.25,2.0,3,1.0,3.0,24
+AB501917,10849,Paris,Montmartre,Private room,31.56,EUR,3,7,1.88,2026-05-21,5.0,4.0,2,1.0,1.0,101
+AB501918,10244,New York,Queens,Entire home/apt,140.8,USD,3,8,0.91,2026-10-31,4.36,3.0,4,3.0,3.0,45
+AB501919,10020,Paris,Le Marais,Private room,48.19,EUR,2,16,0.98,2026-05-21,5.0,2.0,2,1.0,3.0,66
+AB501920,10124,Paris,Latin Quarter,Shared room,40.91,EUR,30,6,1.2,2026-05-11,4.18,1.0,1,0.0,1.0,161
+AB501921,10763,Paris,Montmartre,Private room,46.25,EUR,3,20,0.95,2026-03-05,4.96,3.0,3,1.0,2.0,136
+AB501922,10557,Paris,Montmartre,Entire home/apt,141.0,EUR,5,7,0.57,2024-12-27,4.97,3.0,5,0.0,2.0,358
+AB501923,10617,London,Westminster,Entire home/apt,96.87,GBP,2,31,0.34,2026-10-02,4.37,4.0,7,3.0,4.0,272
+AB501924,10595,Dubai,Deira,Entire home/apt,67.33,AED,3,7,0.39,2024-02-11,4.13,4.0,4,3.0,3.0,254
+AB501925,10388,New York,Queens,Entire home/apt,165.89,USD,1,11,0.74,2025-07-19,4.6,7.0,7,1.0,1.0,49
+AB501926,10178,London,Westminster,Entire home/apt,74.16,GBP,7,9,0.67,2025-02-25,4.34,3.0,6,1.0,2.0,175
+AB501927,10339,Tokyo,Minato,Shared room,53.48,JPY,5,7,0.36,2024-11-16,5.0,3.0,2,0.0,2.0,122
+AB501928,10558,Tokyo,Setagaya,Entire home/apt,64.42,JPY,5,1,1.43,2024-01-07,,2.0,7,0.0,1.0,27
+AB501929,10725,Barcelona,Sants-Montjuïc,Shared room,23.74,EUR,1,7,0.35,2026-01-20,4.39,3.0,2,0.0,2.0,125
+AB501930,10550,Dubai,Deira,Entire home/apt,131.5,AED,2,5,0.15,2024-05-27,4.86,6.0,6,2.0,3.0,228
+AB501931,10681,Tokyo,Setagaya,Shared room,15.0,JPY,7,10,0.43,2026-03-23,4.49,4.0,2,,1.0,158
+AB501932,10428,New York,Staten Island,Entire home/apt,104.77,USD,1,1,0.96,2026-09-08,,2.0,1,2.0,3.0,86
+AB501933,10012,Paris,Latin Quarter,Private room,39.96,EUR,30,9,0.16,2026-10-21,4.76,1.0,2,1.0,2.0,222
+AB501934,10473,Singapore,Bugis,Private room,51.28,SGD,14,4,0.78,2023-12-25,4.76,1.0,3,1.0,2.0,317
+AB501935,10802,Paris,Montmartre,Entire home/apt,80.17,EUR,1,14,0.44,2024-08-31,4.61,4.0,1,3.0,3.0,3
+AB501936,10417,Barcelona,Sant Martí,Entire home/apt,44.44,EUR,2,9,1.35,2025-09-01,4.9,5.0,7,2.0,3.0,345
+AB501937,10337,Barcelona,Sants-Montjuïc,Entire home/apt,89.69,EUR,2,13,0.4,2026-02-11,4.33,7.0,1,0.0,1.0,62
+AB501938,10442,Paris,Louvre,Shared room,31.79,EUR,1,8,1.13,2025-07-24,4.92,3.0,1,0.0,1.0,321
+AB501939,10338,Barcelona,Eixample,Private room,50.53,EUR,7,9,1.06,2025-07-17,4.45,4.0,3,1.0,3.0,218
+AB501940,10367,Paris,Latin Quarter,Private room,34.63,EUR,3,17,0.12,2025-09-19,4.06,1.0,1,1.0,2.0,246
+AB501941,10482,Barcelona,Sants-Montjuïc,Private room,32.77,EUR,3,2,0.44,2026-05-24,,1.0,2,1.0,3.0,163
+AB501942,10338,London,Hackney,Private room,15.0,GBP,2,15,0.2,2025-05-12,4.6,3.0,1,1.0,1.0,303
+AB501943,10783,Barcelona,Eixample,Entire home/apt,15.0,EUR,3,2,1.55,2026-11-15,,4.0,4,3.0,4.0,330
+AB501944,10759,New York,Manhattan,Private room,80.61,USD,2,15,0.55,2023-11-24,4.53,4.0,3,1.0,3.0,205
+AB501945,10508,London,Hackney,Private room,105.5,GBP,3,13,0.18,2026-06-25,4.37,3.0,3,2.0,3.0,132
+AB501946,10188,Sydney,Manly,Private room,76.42,AUD,2,11,0.43,2026-05-06,5.0,4.0,3,1.0,3.0,70
+AB501947,10776,New York,Queens,Entire home/apt,319.56,USD,7,1,0.62,2026-09-19,,3.0,8,1.0,3.0,205
+AB501948,10001,London,Islington,Entire home/apt,86.78,GBP,30,9,0.05,2024-12-21,5.0,2.0,1,3.0,4.0,39
+AB501949,10653,New York,Manhattan,Entire home/apt,67.81,USD,1,13,0.39,2026-08-20,4.61,3.0,1,0.0,1.0,90
+AB501950,10817,Singapore,Orchard,Private room,186.0,SGD,5,8,0.52,2024-01-07,4.48,2.0,1,1.0,2.0,184
+AB501951,10809,Paris,Montmartre,Entire home/apt,191.17,EUR,2,7,0.85,2025-11-08,4.22,2.0,1,1.0,3.0,342
+AB501952,10405,New York,Queens,Entire home/apt,104.54,USD,3,3,1.12,2025-09-30,4.69,1.0,5,2.0,2.0,24
+AB501953,10684,London,Hackney,Private room,22.78,GBP,2,7,0.66,2024-03-07,4.81,2.0,2,1.0,3.0,277
+AB501954,10832,London,Kensington,Entire home/apt,79.91,GBP,3,4,1.2,2023-12-13,4.52,2.0,7,3.0,3.0,362
+AB501955,10630,Sydney,Newtown,Entire home/apt,294.18,AUD,1,13,0.81,2025-07-18,4.51,4.0,4,3.0,3.0,305
+AB501956,10546,London,Camden,Entire home/apt,103.72,GBP,1,10,1.08,2025-04-05,4.33,2.0,7,4.0,5.0,282
+AB501957,10142,Paris,Montmartre,Entire home/apt,127.19,EUR,5,5,0.4,2024-03-06,4.07,5.0,6,3.0,4.0,88
+AB501958,10283,New York,Staten Island,Shared room,39.31,USD,5,18,0.2,2025-02-05,4.68,3.0,1,0.0,1.0,312
+AB501959,10515,Singapore,Chinatown,Entire home/apt,83.48,SGD,1,7,0.31,2025-01-04,4.69,2.0,3,1.0,3.0,341
+AB501960,10719,Dubai,Jumeirah,Entire home/apt,124.75,AED,1,12,0.73,2024-07-12,4.65,2.0,5,1.0,3.0,106
+AB501961,10647,New York,Bronx,Private room,75.01,USD,2,8,0.03,2024-03-27,5.0,4.0,3,1.0,3.0,288
+AB501962,10727,New York,Brooklyn,Entire home/apt,102.02,USD,3,9,0.55,2024-03-12,4.62,4.0,3,,6.0,145
+AB501963,10174,Dubai,Downtown,Entire home/apt,439.47,AED,7,17,0.58,2024-12-23,5.0,5.0,1,2.0,2.0,154
+AB501964,10279,Dubai,Deira,Entire home/apt,170.13,AED,1,12,0.39,2025-06-10,5.0,3.0,6,0.0,1.0,116
+AB501965,10463,London,,Private room,33.67,GBP,14,3,0.33,2026-03-25,4.43,3.0,1,1.0,1.0,159
+AB501966,10100,Barcelona,Gràcia,Entire home/apt,142.98,EUR,5,10,0.28,2026-03-28,4.41,3.0,7,3.0,5.0,158
+AB501967,10198,New York,Manhattan,Entire home/apt,155.98,USD,2,15,0.44,2024-02-22,4.68,4.0,6,1.0,3.0,14
+AB501968,10525,London,Hackney,Entire home/apt,215.5,GBP,5,5,0.54,2025-07-15,4.51,4.0,4,4.0,6.0,86
+AB501969,10068,Barcelona,Sant Martí,Entire home/apt,91.45,EUR,7,3,0.6,2025-12-06,4.41,5.0,8,0.0,1.0,264
+AB501970,10539,Paris,Le Marais,Private room,50.55,EUR,1,25,0.33,2025-12-09,4.06,4.0,1,1.0,1.0,6
+AB501971,10141,New York,Queens,Private room,28.45,USD,1,8,0.47,2026-05-10,4.34,2.0,1,1.0,3.0,328
+AB501972,10565,London,Hackney,Private room,32.92,GBP,30,0,,,,2.0,3,,2.0,89
+AB501973,10578,New York,Manhattan,Entire home/apt,129.7,USD,3,10,1.88,2026-10-21,4.72,,3,2.0,4.0,186
+AB501974,10082,Barcelona,Eixample,Private room,30.57,EUR,5,3,0.26,2025-04-06,4.85,3.0,1,1.0,,168
+AB501975,10609,Paris,Montmartre,Private room,62.77,EUR,7,4,0.36,2025-10-11,5.0,5.0,2,1.0,2.0,165
+AB501976,10800,Paris,Latin Quarter,Entire home/apt,215.55,EUR,14,23,1.68,2026-08-31,4.74,2.0,5,4.0,4.0,59
+AB501977,10276,London,Westminster,Entire home/apt,100.71,GBP,1,8,1.78,2025-05-29,4.1,2.0,1,1.0,3.0,305
+AB501978,10475,New York,Manhattan,Entire home/apt,398.25,USD,2,13,0.13,2025-08-28,4.8,1.0,2,1.0,1.0,306
+AB501979,10046,Tokyo,Minato,Entire home/apt,84.67,JPY,3,19,1.31,2025-02-14,5.0,2.0,8,0.0,1.0,293
+AB501980,10771,New York,Bronx,Shared room,52.08,USD,1,13,2.38,2025-11-15,4.47,3.0,1,0.0,1.0,196
+AB501981,10024,Dubai,Business Bay,Entire home/apt,106.39,AED,2,11,0.57,2026-03-10,4.54,6.0,4,0.0,2.0,321
+AB501982,10118,London,Westminster,Entire home/apt,76.44,GBP,1,12,2.19,2024-05-01,4.12,2.0,5,4.0,4.0,28
+AB501983,10384,New York,Queens,Entire home/apt,162.19,USD,1,13,0.41,2023-11-30,4.74,2.0,4,0.0,1.0,326
+AB501984,10536,Paris,Latin Quarter,Entire home/apt,99.86,EUR,3,15,0.44,2026-06-08,4.15,2.0,4,2.0,3.0,278
+AB501985,10274,Paris,Latin Quarter,Entire home/apt,208.17,EUR,7,7,0.79,2024-11-04,4.11,3.0,6,4.0,6.0,269
+AB501986,10532,London,Hackney,Entire home/apt,120.33,GBP,5,7,0.75,2026-05-03,5.0,4.0,1,1.0,2.0,51
+AB501987,10751,Dubai,Downtown,Private room,121.54,AED,2,6,1.08,2026-03-29,4.89,4.0,3,1.0,2.0,123
+AB501988,10838,London,Hackney,Entire home/apt,60.6,GBP,2,11,0.6,2026-05-04,5.0,4.0,5,2.0,2.0,281
+AB501989,10598,London,Westminster,Hotel room,181.83,GBP,7,20,1.41,2026-01-17,3.86,4.0,6,0.0,1.0,242
+AB501990,10504,New York,Staten Island,Entire home/apt,88.84,USD,5,10,0.65,2026-04-10,5.0,3.0,4,4.0,6.0,233
+AB501991,10286,New York,Manhattan,Entire home/apt,195.5,USD,2,8,0.85,2026-09-20,4.2,4.0,1,1.0,1.0,135
+AB501992,10774,Tokyo,Shibuya,Shared room,15.0,JPY,5,6,0.9,2023-12-30,4.36,3.0,2,0.0,2.0,276
+AB501993,10385,Tokyo,Shibuya,Entire home/apt,121.77,JPY,7,5,0.19,2026-05-27,4.51,2.0,6,2.0,4.0,309
+AB501994,10221,Singapore,Bugis,Private room,55.26,SGD,3,4,0.63,2024-10-20,4.42,5.0,1,,1.0,259
+AB501995,10404,New York,Queens,Private room,77.18,USD,5,22,1.35,2025-04-12,4.53,4.0,3,1.0,2.0,194
+AB501996,10042,Dubai,Business Bay,Private room,92.38,AED,1,7,0.32,2026-05-05,4.72,3.0,3,,2.0,316
+AB501997,10296,Dubai,Business Bay,Entire home/apt,119.99,AED,2,5,1.34,2024-12-23,4.98,4.0,5,0.0,2.0,181
+AB501998,10213,Barcelona,Sant Martí,Entire home/apt,94.26,EUR,2,21,1.0,2026-05-25,4.65,2.0,3,1.0,2.0,130
+AB501999,10420,Barcelona,Ciutat Vella,Entire home/apt,88.35,EUR,1,19,0.84,2026-05-14,4.51,5.0,3,0.0,1.0,132
+AB502000,10151,Barcelona,Gràcia,Private room,41.19,EUR,1,15,0.6,2025-07-05,4.75,3.0,2,1.0,2.0,284
